@@ -23,7 +23,7 @@ STATICRYPT_PASSWORD='<pass>' npx staticrypt index.src.html --short \
   --template-color-primary '#8c2818' \
   --template-color-secondary '#faf3e1' \
   --template-button 'Open guide'
-mv encrypted/index.html index.html && rmdir encrypted
+mv encrypted/index.src.html index.html && rmdir encrypted
 ```
 
 Then commit + push as normal (no force-push needed — history is clean from `8a3d14a` onward).
