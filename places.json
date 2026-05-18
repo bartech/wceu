@@ -1,0 +1,218 @@
+{
+  "trip": {
+    "name": "WCEU Kraków",
+    "city": "Kraków",
+    "country": "Poland",
+    "source_list": "https://maps.app.goo.gl/iQuWDtZzfLez6JSu9",
+    "source_list_owner": "Bartosz Drewniak"
+  },
+  "places": [
+    {
+      "id": "wceu-venue",
+      "role": "venue",
+      "name": "Centrum Kongresowe ICE Kraków",
+      "name_en": "ICE Kraków Congress Centre",
+      "type": "Convention center",
+      "address": "ul. Marii Konopnickiej 17, 30-302 Kraków",
+      "district": "Ludwinów / right bank of Wisła, opposite Wawel",
+      "coords": { "lat": 50.0469, "lng": 19.9385 },
+      "rating": 4.7,
+      "notes": "WCEU 2026 main venue",
+      "links": {
+        "website": "https://www.icekrakow.pl/"
+      }
+    },
+    {
+      "id": "hotel",
+      "role": "lodging",
+      "name": "Sandomierska 3",
+      "type": "Accommodation",
+      "address": "ul. Sandomierska 3, 30-301 Kraków",
+      "district": "Dębniki",
+      "coords": { "lat": 50.0498, "lng": 19.9302 },
+      "notes": "Where we stay"
+    },
+    {
+      "id": "basta",
+      "role": "food",
+      "name": "Basta - Pizza i Vino",
+      "type": "Pizzeria",
+      "cuisine": "Italian",
+      "address": "ul. Marii Konopnickiej 11, 30-302 Kraków",
+      "district": "Ludwinów",
+      "coords": { "lat": 50.0488, "lng": 19.9367 },
+      "phone": "+48 797 097 125",
+      "rating": 4.8,
+      "price_range": "40–60 PLN/person",
+      "hours": {
+        "mon": "closed",
+        "tue": "16:00–22:00",
+        "wed": "16:00–22:00",
+        "thu": "16:00–22:00",
+        "fri": "16:00–22:00",
+        "sat": "13:00–22:00",
+        "sun": "13:00–21:00"
+      },
+      "links": {
+        "website": "https://www.konopnickiej11.com/",
+        "menu": "https://www.konopnickiej11.com/menus",
+        "alt_site": "https://bastapizza.eatbu.com/",
+        "instagram": "https://www.instagram.com/basta_krk/",
+        "facebook": "https://www.facebook.com/konopnickiej11/",
+        "pyszne": "https://www.pyszne.pl/menu/basta-pizza-i-vino"
+      },
+      "menu_file": "menus/basta.json"
+    },
+    {
+      "id": "cafe-manggha",
+      "role": "food",
+      "name": "Café Manggha",
+      "type": "Café / Japanese restaurant",
+      "cuisine": "Japanese",
+      "address": "ul. Marii Konopnickiej 26, 30-302 Kraków",
+      "district": "Dębniki / Manggha Museum",
+      "coords": { "lat": 50.0466, "lng": 19.9352 },
+      "phone": "+48 608 679 308",
+      "rating": 4.7,
+      "price_range": "budget–mid (10–40 PLN per dish)",
+      "hours": {
+        "mon": "closed",
+        "tue": "10:00–18:00",
+        "wed": "10:00–18:00",
+        "thu": "10:00–18:00",
+        "fri": "10:00–18:00",
+        "sat": "10:00–18:00",
+        "sun": "10:00–18:00"
+      },
+      "notes": "Inside the Manggha Museum of Japanese Art & Technology. Wawel-view terrace. Breakfast until 12:00, lunch 12:00–17:30.",
+      "links": {
+        "website": "https://manggha.pl/cafe-manggha",
+        "facebook": "https://www.facebook.com/CafeManggha/",
+        "instagram": "https://www.instagram.com/cafemanggha/"
+      },
+      "menu_file": "menus/cafe-manggha.json"
+    },
+    {
+      "id": "tasty-beast",
+      "role": "food",
+      "name": "Tasty Beast Burger (Rynek Dębnicki)",
+      "type": "Burger restaurant",
+      "cuisine": "American / Smash burgers",
+      "address": "Rynek Dębnicki 12, Kraków",
+      "district": "Dębniki",
+      "coords": { "lat": 50.0492, "lng": 19.9305 },
+      "phone": "+48 534 630 686",
+      "rating": 4.8,
+      "price_range": "29–55 PLN per burger",
+      "hours": {
+        "mon": "11:30–22:30",
+        "tue": "11:30–22:30",
+        "wed": "11:30–21:30",
+        "thu": "12:00–22:30",
+        "fri": "11:30–23:00",
+        "sat": "11:30–23:00",
+        "sun": "11:30–23:00"
+      },
+      "links": {
+        "website": "https://tastybeast.pl/",
+        "menu": "https://rynekdebnicki.tastybeast.pl/menu/section:menu",
+        "instagram": "https://www.instagram.com/tasty.beast/",
+        "facebook": "https://www.facebook.com/tastybeast/",
+        "wolt": "https://wolt.com/en/pol/krakow/restaurant/tasty-beast-krakw",
+        "ubereats": "https://www.ubereats.com/pl/store/tasty-beast/zhaKHxJJRyaP973efPARRQ"
+      },
+      "menu_file": "menus/tasty-beast.json"
+    },
+    {
+      "id": "czarna-kaczka",
+      "role": "food",
+      "name": "Czarna Kaczka",
+      "name_en": "The Black Duck",
+      "type": "Polish restaurant",
+      "cuisine": "Traditional Polish (duck specialist)",
+      "address": "ul. Poselska 22, 31-002 Kraków",
+      "district": "Stare Miasto / Old Town",
+      "coords": { "lat": 50.0608, "lng": 19.9371 },
+      "phone": "+48 500 195 149",
+      "email": "info@czarnakaczka.pl",
+      "rating": 4.7,
+      "price_range": "mid (mains 38–84 PLN)",
+      "hours": {
+        "mon": "13:00–22:00",
+        "tue": "13:00–22:00",
+        "wed": "13:00–22:00",
+        "thu": "13:00–22:00",
+        "fri": "13:00–23:00",
+        "sat": "13:00–23:00",
+        "sun": "13:00–22:00"
+      },
+      "links": {
+        "website": "https://czarnakaczka.pl/",
+        "menu_en": "https://czarnakaczka.pl/en/menu/english/",
+        "instagram": "https://www.instagram.com/czarna_kaczka_the_black_duck/"
+      },
+      "menu_file": "menus/czarna-kaczka.json"
+    },
+    {
+      "id": "kuchnia-u-doroty",
+      "role": "food",
+      "name": "Kuchnia u Doroty",
+      "name_en": "Dorothy's Kitchen",
+      "type": "Polish home-style restaurant",
+      "cuisine": "Traditional Polish home cooking",
+      "address": "ul. Augustiańska 4, 31-064 Kraków",
+      "district": "Kazimierz (near Skałka)",
+      "coords": { "lat": 50.0529, "lng": 19.9405 },
+      "phone": "+48 517 945 338",
+      "rating": 4.6,
+      "price_range": "budget (mains 35–44 PLN)",
+      "hours": {
+        "mon": "10:00–21:00",
+        "tue": "10:00–21:00",
+        "wed": "10:00–21:00",
+        "thu": "10:00–21:00",
+        "fri": "10:00–21:00",
+        "sat": "10:00–21:00",
+        "sun": "10:00–21:00"
+      },
+      "links": {
+        "website": "https://www.kuchniaudoroty.pl/",
+        "order": "https://www.restauracjaudoroty.pl/restauracja/restauracja-u-doroty",
+        "facebook": "https://www.facebook.com/kuchniaudoroty/",
+        "pyszne": "https://www.pyszne.pl/menu/u-doroty-1"
+      },
+      "menu_file": "menus/kuchnia-u-doroty.json"
+    },
+    {
+      "id": "karakter",
+      "role": "food",
+      "name": "Karakter",
+      "type": "Modern bistro",
+      "cuisine": "Modern European / meat & offal focus, French technique",
+      "address": "ul. Brzozowa 17, 31-050 Kraków",
+      "district": "Kazimierz",
+      "coords": { "lat": 50.0512, "lng": 19.9442 },
+      "phone": "+48 795 818 123",
+      "rating": 4.6,
+      "michelin": "Listed in Michelin Guide",
+      "price_range": "mid–upper (mains 53–97 PLN)",
+      "hours": {
+        "mon": "17:00–23:00",
+        "tue": "13:00–23:00",
+        "wed": "13:00–23:00",
+        "thu": "13:00–23:00",
+        "fri": "13:00–00:00",
+        "sat": "13:00–00:00",
+        "sun": "13:00–22:00"
+      },
+      "notes": "Seasonal menu — current theme: 'Lato w sercu rzeźnika' (Summer in the butcher's heart). Strong offal program (sweetbreads, tongue, pig's ears, horse tartare). Reservation recommended.",
+      "links": {
+        "facebook": "https://www.facebook.com/karakter.restauracja/",
+        "instagram": "https://www.instagram.com/karakter___restaurant/",
+        "michelin": "https://guide.michelin.com/en/lesser-poland/krakow/restaurant/karakter",
+        "menu_mirror": "https://menix.pl/menu-karakter-krakow"
+      },
+      "menu_file": "menus/karakter.json"
+    }
+  ]
+}

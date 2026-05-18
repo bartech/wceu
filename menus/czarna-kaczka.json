@@ -1,0 +1,812 @@
+{
+  "id": "czarna-kaczka",
+  "name": "Czarna Kaczka (The Black Duck)",
+  "description": "Old Town traditional Polish restaurant centered on duck dishes (the namesake — try the Cracovian or Old-Polish-style roast duck), plus a full lineup of pierogi, soups in bread bowls, tartare, and big game/duck mains. Tourist-friendly but well-regarded; multilingual menu (PL/EN/DE/ES/FR/IT/UA/EL).",
+  "gallery": [
+    "images/czarna-kaczka/place-01.jpg",
+    "images/czarna-kaczka/place-02.jpg",
+    "images/czarna-kaczka/place-03.jpg",
+    "images/czarna-kaczka/food-01.jpg",
+    "images/czarna-kaczka/food-02.jpg",
+    "images/czarna-kaczka/food-03.jpg",
+    "images/czarna-kaczka/food-04.jpg",
+    "images/czarna-kaczka/food-05.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://czarnakaczka.pl/en/menu/english/",
+  "last_updated_from_source": "2026-05-13",
+  "sections": [
+    {
+      "name": "Przystawki — Starters",
+      "items": [
+        {
+          "name": "Pikantne Pierożki",
+          "name_en": "Spicy oven-cooked dumplings",
+          "description": "duck meat, hot chili sauce (5 pcs)",
+          "price": 46
+        },
+        {
+          "name": "Serek Góralski",
+          "name_en": "Grilled mountain smoked cheese",
+          "description": "in bacon w/ cranberries & horseradish",
+          "price": 44
+        },
+        {
+          "name": "Set Przystawek",
+          "name_en": "Starter set for two",
+          "description": "spicy dumplings, grilled cheese, duck carpaccio, herring tartare",
+          "price": 88
+        },
+        {
+          "name": "Carpaccio z Kaczki",
+          "name_en": "Marinated duck carpaccio",
+          "description": "balsamic-raspberry sauce",
+          "price": 52
+        },
+        {
+          "name": "Tatar ze Śledzia",
+          "name_en": "Herring tartare",
+          "description": "on pumpernickel, honey, cranberries, pickles",
+          "price": 42
+        },
+        {
+          "name": "Tatar Wołowy",
+          "name_en": "Beef tenderloin tartare",
+          "description": "egg yolk, onions, capers, gherkins, sprat",
+          "price": 59
+        }
+      ]
+    },
+    {
+      "name": "Zupy — Soups",
+      "items": [
+        {
+          "name": "Żurek",
+          "name_en": "Old Polish sour rye soup",
+          "description": "served in bread bowl",
+          "price": 42
+        },
+        {
+          "name": "Bulion",
+          "name_en": "Duck broth",
+          "description": "with homemade beef-stuffed dumplings",
+          "price": 32
+        },
+        {
+          "name": "Grzybowa",
+          "name_en": "Traditional mushroom soup",
+          "description": "with noodles",
+          "price": 32
+        },
+        {
+          "name": "Barszcz Czerwony",
+          "name_en": "Red beet soup",
+          "description": "with homemade beef raviolis",
+          "price": 32
+        }
+      ]
+    },
+    {
+      "name": "Sałaty — Salads",
+      "items": [
+        {
+          "name": "Sałata Kaczka",
+          "description": "duck breast, orange, balsamic-raspberry sauce",
+          "price": 49
+        },
+        {
+          "name": "Sałata Ser Kozi",
+          "description": "goat cheese, beetroot, honey-balsamic sauce",
+          "price": 49
+        }
+      ]
+    },
+    {
+      "name": "Kuchnia polska — Polish mains",
+      "items": [
+        {
+          "name": "Schabowy",
+          "description": "breaded pork chop w/ potatoes & stewed cabbage",
+          "price": 58
+        },
+        {
+          "name": "Eskalopki z Kurczaka",
+          "description": "chicken escalope in creamy leek sauce, potato dumplings, vegetables",
+          "price": 59
+        },
+        {
+          "name": "Placki Ziemniaczane z Grzybami",
+          "description": "crispy potato pancakes w/ mushroom sauce",
+          "price": 52
+        },
+        {
+          "name": "Placki Ziemniaczane",
+          "description": "crispy potato pancakes w/ sour cream",
+          "price": 38
+        },
+        {
+          "name": "Placki z Gulaszem",
+          "description": "crispy potato pancakes w/ beef goulash",
+          "price": 58
+        },
+        {
+          "name": "Bigos",
+          "description": "Old Polish hunter's stew w/ bread",
+          "price": 49
+        },
+        {
+          "name": "Gołąbki",
+          "description": "cabbage leaves stuffed w/ meat & rice, mushroom sauce",
+          "price": 52
+        },
+        {
+          "name": "Savoy Cabbage Rolls",
+          "description": "barley, mushrooms, vegetables, tomato sauce (vegetarian)",
+          "price": 48
+        }
+      ]
+    },
+    {
+      "name": "Ryby — Fish",
+      "items": [
+        {
+          "name": "Dorsz",
+          "name_en": "Baked cod",
+          "description": "lemon sauce, red lentils, seasonal vegetables",
+          "price": 64
+        },
+        {
+          "name": "Pstrąg",
+          "name_en": "Pan-fried local trout",
+          "description": "with french fries & tartare sauce",
+          "price": 59
+        }
+      ]
+    },
+    {
+      "name": "Dania z kaczki — Duck mains",
+      "items": [
+        {
+          "name": "Kaczka po Krakowsku",
+          "description": "half duck roasted Cracovian-style w/ beets, horseradish, mushroom sauce",
+          "price": 84
+        },
+        {
+          "name": "Kaczka po Staropolsku",
+          "description": "half duck roasted Polish-style w/ red cabbage, blackcurrant sauce",
+          "price": 84
+        },
+        {
+          "name": "Pierś Kaczki",
+          "description": "duck breast, smoked plum sauce, potato dumplings, glazed carrots, peas (medium)",
+          "price": 79
+        },
+        {
+          "name": "Homemade Pulled Duck Burger",
+          "description": "smoked cheese, cranberries, lettuce, tomato, red onion, pickles, mayo, steak fries",
+          "price": 65
+        }
+      ]
+    },
+    {
+      "name": "Pierogi — Dumplings",
+      "items": [
+        {
+          "name": "Pierogi z Mięsem",
+          "description": "meat dumplings w/ 100% beef, fried onions",
+          "price": 48
+        },
+        {
+          "name": "Pierogi z Kapustą",
+          "description": "sauerkraut & mushroom, fried onions",
+          "price": 46
+        },
+        {
+          "name": "Russian Style Dumplings",
+          "description": "potato, cottage cheese, fried onions",
+          "price": 46
+        },
+        {
+          "name": "Pierogi ze Szpinakiem",
+          "description": "spinach & cottage cheese, fried onions, sour cream",
+          "price": 46
+        },
+        {
+          "name": "Mix Pierogów",
+          "description": "12-piece selection — 3 of each flavor",
+          "price": 62
+        },
+        {
+          "name": "Pierogi z Truskawkami",
+          "description": "strawberry dumplings w/ sweetened sour cream",
+          "price": 46
+        }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        {
+          "name": "Szarlotka",
+          "description": "hot apple pie w/ vanilla ice cream",
+          "price": 34
+        },
+        {
+          "name": "Sernik",
+          "description": "Cracovian cheesecake w/ chocolate sauce & cherries",
+          "price": 34
+        },
+        {
+          "name": "Gorące Maliny",
+          "description": "hot raspberries w/ vanilla ice cream & whipped cream",
+          "price": 36
+        },
+        {
+          "name": "Piernik",
+          "description": "chocolate gingerbread w/ caramelized pear & prune mousse",
+          "price": 36
+        },
+        {
+          "name": "Racuchy",
+          "description": "crispy pancakes w/ apples, ice cream & whipped cream",
+          "price": 38
+        }
+      ]
+    },
+    {
+      "name": "Dodatki — Sides",
+      "items": [
+        {
+          "name": "Potatoes",
+          "price": 14
+        },
+        {
+          "name": "Pan-fried potatoes w/ bacon",
+          "price": 16
+        },
+        {
+          "name": "Steak fries",
+          "price": 16
+        },
+        {
+          "name": "Silesian dumplings",
+          "price": 14
+        },
+        {
+          "name": "Red cabbage salad",
+          "price": 12
+        },
+        {
+          "name": "Beets w/ horseradish",
+          "price": 12
+        },
+        {
+          "name": "Stewed cabbage",
+          "price": 12
+        },
+        {
+          "name": "Bread",
+          "price": 6
+        },
+        {
+          "name": "Condiments (ketchup/mayo/mustard/sour cream)",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "name": "Zimne napoje — Cold beverages",
+      "items": [
+        {
+          "name": "Soft drinks (Pepsi, Mirinda, 7up, Schweppes, Lipton)",
+          "price": 14
+        },
+        {
+          "name": "Juices (orange, apple)",
+          "price": 14
+        },
+        {
+          "name": "Mineral water — small/large",
+          "price": "14 / 23"
+        },
+        {
+          "name": "Fresh citrus juices",
+          "price": 22
+        },
+        {
+          "name": "Homemade lemonades — small/large",
+          "price": "22 / 45"
+        },
+        {
+          "name": "Raspberry/passion-fruit lemonade — small/large",
+          "price": "24 / 49"
+        }
+      ]
+    },
+    {
+      "name": "Gorące napoje — Hot beverages",
+      "items": [
+        {
+          "name": "Espresso / Double espresso",
+          "price": "12 / 18"
+        },
+        {
+          "name": "Americano",
+          "price": 14
+        },
+        {
+          "name": "Cappuccino",
+          "price": 18
+        },
+        {
+          "name": "Cafe latte",
+          "price": 19
+        },
+        {
+          "name": "Flat white (160 ml)",
+          "price": 19
+        },
+        {
+          "name": "Irish coffee (Jameson)",
+          "price": 33
+        },
+        {
+          "name": "Tonic espresso",
+          "price": 25
+        },
+        {
+          "name": "Tea with lemon",
+          "price": 21
+        },
+        {
+          "name": "Raspberry tea w/ orange, cloves, rosemary",
+          "price": 26
+        },
+        {
+          "name": "Add milk/decaf",
+          "price": "+2"
+        }
+      ]
+    },
+    {
+      "name": "Wina — Wines",
+      "subsections": [
+        {
+          "name": "House wines (125 ml / 500 ml / 1000 ml)",
+          "items": [
+            {
+              "name": "Semi-sweet red",
+              "price": "24 / 79 / 144"
+            },
+            {
+              "name": "Red dry",
+              "price": "22 / 74 / 132"
+            },
+            {
+              "name": "Semi-sweet white",
+              "price": "22 / 74 / 144"
+            },
+            {
+              "name": "White dry Chardonnay",
+              "price": "22 / 74 / 132"
+            }
+          ]
+        },
+        {
+          "name": "Cracow's wines (glass / bottle)",
+          "items": [
+            {
+              "name": "Tasting trio (red or white)",
+              "price": 43
+            },
+            {
+              "name": "Gewurztraminer",
+              "price": "32 / 159"
+            },
+            {
+              "name": "Pinot Noir",
+              "price": "32 / 159"
+            },
+            {
+              "name": "Cabernet Cortis",
+              "price": "32 / 159"
+            },
+            {
+              "name": "Cuvee Rouge",
+              "price": "29 / 149"
+            },
+            {
+              "name": "Riesling Pinot Gris",
+              "price": "34 / 169"
+            },
+            {
+              "name": "Cuvee Blanc",
+              "price": "29 / 149"
+            }
+          ]
+        },
+        {
+          "name": "White wines (bottle)",
+          "items": [
+            {
+              "name": "Sauvignon Blanc (NZ)",
+              "price": 155
+            },
+            {
+              "name": "Riesling Kalkstein (DE)",
+              "price": 139
+            },
+            {
+              "name": "Gewurztraminer (FR)",
+              "price": 155
+            },
+            {
+              "name": "Pinot Grigio delle Venezie (IT) — glass/bottle",
+              "price": "24 / 125"
+            },
+            {
+              "name": "Chardonnay Moi Puglia (IT)",
+              "price": 149
+            },
+            {
+              "name": "Pinot Grigio Da Vinci (IT)",
+              "price": 149
+            }
+          ]
+        },
+        {
+          "name": "Rosé",
+          "items": [
+            {
+              "name": "Sangiovese Rosato (IT)",
+              "price": 125
+            }
+          ]
+        },
+        {
+          "name": "Red wines (bottle, except where noted)",
+          "items": [
+            {
+              "name": "Nero d'Avola (IT) — glass/bottle",
+              "price": "24 / 125"
+            },
+            {
+              "name": "Bordeaux Réserve (FR)",
+              "price": 135
+            },
+            {
+              "name": "Carmenere Porta Reserva (Chile)",
+              "price": 135
+            },
+            {
+              "name": "Pinot Noir Trevenezie (IT)",
+              "price": 149
+            },
+            {
+              "name": "Primitivo Moi Puglia (IT)",
+              "price": 155
+            },
+            {
+              "name": "Rioja Pueblo Viejo (Spain)",
+              "price": 155
+            },
+            {
+              "name": "Montepulciano d'Abruzzo (IT)",
+              "price": 155
+            },
+            {
+              "name": "Malbec Nampe (Argentina)",
+              "price": 159
+            },
+            {
+              "name": "Da Vinci Rocca Di Cesana (IT)",
+              "price": 159
+            },
+            {
+              "name": "Merlot Rubicone (IT)",
+              "price": 159
+            },
+            {
+              "name": "Zingari Super Toscana (IT)",
+              "price": 175
+            },
+            {
+              "name": "Valpolicella Ripasso (IT)",
+              "price": 185
+            },
+            {
+              "name": "Barbera d'Asti (IT)",
+              "price": 185
+            }
+          ]
+        },
+        {
+          "name": "Sparkling",
+          "items": [
+            {
+              "name": "Chardonnay Colibri Nespoli (IT)",
+              "price": 135
+            },
+            {
+              "name": "Moet & Chandon Champagne Brut Imperial",
+              "price": 450
+            },
+            {
+              "name": "Prosecco Brut MonteCampo Zonin — glass/bottle",
+              "price": "24 / 125"
+            }
+          ]
+        },
+        {
+          "name": "Mulled & specialty",
+          "items": [
+            {
+              "name": "Galician mulled wine (20 cl)",
+              "price": 28
+            },
+            {
+              "name": "Mead (15 cl)",
+              "price": 27
+            },
+            {
+              "name": "Hot cider (20 cl)",
+              "price": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koktajle — Cocktails",
+      "subsections": [
+        {
+          "name": "Alcoholic",
+          "items": [
+            {
+              "name": "Hugo Spritz",
+              "price": 37
+            },
+            {
+              "name": "Aperol Spritz — single/jug",
+              "price": "38 / 99"
+            },
+            {
+              "name": "Mojito",
+              "price": 37
+            },
+            {
+              "name": "Espresso Martini",
+              "price": 35
+            },
+            {
+              "name": "Pornstar Martini",
+              "price": 38
+            },
+            {
+              "name": "Negroni (10 cl)",
+              "price": 36
+            },
+            {
+              "name": "Whisky Sour",
+              "price": 36
+            },
+            {
+              "name": "Long Island",
+              "price": 44
+            },
+            {
+              "name": "The Black Duck Cocktail",
+              "price": 38
+            }
+          ]
+        },
+        {
+          "name": "Non-alcoholic",
+          "items": [
+            {
+              "name": "Hugo Spritz 0%",
+              "price": 34
+            },
+            {
+              "name": "Aperol Spritz 0%",
+              "price": 34
+            },
+            {
+              "name": "Virgin Mojito",
+              "price": 34
+            },
+            {
+              "name": "Botanical Bloom",
+              "price": 35
+            },
+            {
+              "name": "Apple & Cinnamon Whisky 0%",
+              "price": 35
+            },
+            {
+              "name": "Virgin Mojito Raspberry",
+              "price": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Piwo — Beer",
+      "subsections": [
+        {
+          "name": "Draught (small / large)",
+          "items": [
+            {
+              "name": "Żywiec",
+              "price": "18 / 22"
+            },
+            {
+              "name": "Żywiec Biały (wheat)",
+              "price": "20 / 23"
+            },
+            {
+              "name": "Cider",
+              "price": 22
+            }
+          ]
+        },
+        {
+          "name": "Bottled",
+          "items": [
+            {
+              "name": "Heineken",
+              "price": 22
+            },
+            {
+              "name": "Żywiec Porter",
+              "price": 22
+            },
+            {
+              "name": "Żywiec IPA",
+              "price": 22
+            },
+            {
+              "name": "Brackie",
+              "price": 22
+            },
+            {
+              "name": "0% Żywiec Lager",
+              "price": 22
+            },
+            {
+              "name": "0% Żywiec Wheat",
+              "price": 23
+            },
+            {
+              "name": "0% Żywiec Mint with Bergamot",
+              "price": 22
+            },
+            {
+              "name": "0% Żywiec Raspberry",
+              "price": 22
+            },
+            {
+              "name": "0% Warka Radler Lemon",
+              "price": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wódki (4 cl) — Polish vodkas",
+      "items": [
+        {
+          "name": "Chopin Rye",
+          "price": 24
+        },
+        {
+          "name": "Chopin Potato",
+          "price": 28
+        },
+        {
+          "name": "Ostoya Wheat",
+          "price": 22
+        },
+        {
+          "name": "Belvedere Top Class Rye",
+          "price": 30
+        },
+        {
+          "name": "Krzeska Top Class Herbal",
+          "price": 33
+        },
+        {
+          "name": "Żubrówka (bison grass)",
+          "price": 19
+        },
+        {
+          "name": "Śliwowica Podbeskidzka 72° (plum brandy)",
+          "price": 29
+        },
+        {
+          "name": "Small Craft Walnut & Herbal Liqueur",
+          "price": 22
+        },
+        {
+          "name": "Small Craft Apple Pie Liqueur",
+          "price": 22
+        },
+        {
+          "name": "Small Craft Cherry & Smoked Plum Liqueur",
+          "price": 22
+        },
+        {
+          "name": "Vodka Trio (Chopin Rye, Chopin Potato, Ostoya Wheat — 3 × 2 cl)",
+          "price": 39
+        },
+        {
+          "name": "Small Craft Liqueurs Trio (3 × 2 cl)",
+          "price": 33
+        }
+      ]
+    },
+    {
+      "name": "Alkohole — Spirits",
+      "items": [
+        {
+          "name": "Metaxa 5* (brandy)",
+          "price": 20
+        },
+        {
+          "name": "Hennessy VS (cognac)",
+          "price": 36
+        },
+        {
+          "name": "Johnny Walker Black (4 cl)",
+          "price": 28
+        },
+        {
+          "name": "Jack Daniel's (4 cl)",
+          "price": 28
+        },
+        {
+          "name": "Jameson (4 cl)",
+          "price": 28
+        },
+        {
+          "name": "Chivas 12 YO (4 cl)",
+          "price": 30
+        },
+        {
+          "name": "Talisker 10 YO (4 cl)",
+          "price": 32
+        },
+        {
+          "name": "Ardbeg 10 YO (4 cl)",
+          "price": 38
+        },
+        {
+          "name": "Captain Morgan White (4 cl)",
+          "price": 23
+        },
+        {
+          "name": "Kraken Black Spiced (4 cl)",
+          "price": 30
+        },
+        {
+          "name": "Don Diego Gold tequila (4 cl)",
+          "price": "24 / 26"
+        },
+        {
+          "name": "Bombay Sapphire gin (4 cl)",
+          "price": 28
+        },
+        {
+          "name": "Kahlua / Amaretto / Jägermeister / Baileys (4 cl)",
+          "price": 20
+        },
+        {
+          "name": "Campari / Martini Bianco/Rosso/Fiero (4 cl / 10 cl)",
+          "price": 19
+        }
+      ]
+    }
+  ]
+}

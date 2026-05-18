@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+node_modules/
+
+# Unencrypted source — edit locally, re-encrypt with staticrypt before committing
+index.src.html
+
+# staticrypt working output
+encrypted/

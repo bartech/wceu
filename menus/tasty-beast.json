@@ -1,0 +1,315 @@
+{
+  "id": "tasty-beast",
+  "name": "Tasty Beast Burger — Rynek Dębnicki",
+  "description": "Long-running Kraków burger favourite (since ~2019) specializing in classic Black Angus stacks and a separate line of thin-patty smash burgers. Strong vegan/vegetarian section (oyster mushroom, halloumi, Beyond Meat), American-leaning vibe, casual seating.",
+  "gallery": [
+    "images/tasty-beast/place-01.webp",
+    "images/tasty-beast/food-01.webp",
+    "images/tasty-beast/food-02.webp",
+    "images/tasty-beast/food-03.webp",
+    "images/tasty-beast/food-04.webp",
+    "images/tasty-beast/food-05.webp"
+  ],
+  "currency": "PLN",
+  "source": "https://rynekdebnicki.tastybeast.pl/menu/section:menu",
+  "last_updated_from_source": "2026-05-13",
+  "sections": [
+    {
+      "name": "Wołowina — Beef burgers (Black Angus)",
+      "items": [
+        {
+          "name": "Classic Mały",
+          "description": "Black Angus, lettuce, tomato, onion, pickle, mayo, ketchup",
+          "price": 29
+        },
+        {
+          "name": "Classic Duży",
+          "description": "Black Angus, lettuce, tomato, onion, pickle, mayo, ketchup",
+          "price": 34
+        },
+        {
+          "name": "Cheeseburger Mały",
+          "description": "Black Angus, double cheddar",
+          "price": 31
+        },
+        {
+          "name": "Cheeseburger Duży",
+          "description": "Black Angus, double cheddar",
+          "price": 37
+        },
+        {
+          "name": "Bacon Burger Mały",
+          "description": "Black Angus, double bacon, BBQ sauce",
+          "price": 32
+        },
+        {
+          "name": "Bacon Burger Duży",
+          "description": "Black Angus, double bacon, BBQ sauce",
+          "price": 38
+        },
+        {
+          "name": "Whisky burger",
+          "description": "double cheddar, double bacon, whisky BBQ sauce",
+          "price": 43
+        },
+        {
+          "name": "Orzeszburger",
+          "description": "peanut butter, cheddar, bacon, tomato, arugula, caramelized onion, ketchup",
+          "price": 46
+        },
+        {
+          "name": "Blue",
+          "description": "gorgonzola, arugula, caramelized onion, tomato, balsamic, mayo",
+          "price": 47
+        },
+        {
+          "name": "Gooral",
+          "description": "smoked cheese, cranberry, double bacon, mayo",
+          "price": 44
+        },
+        {
+          "name": "Goat",
+          "description": "goat cheese, beet, arugula, caramelized onion, beet sauce, Worcestershire",
+          "price": 45
+        },
+        {
+          "name": "Bueno Jalapeño",
+          "description": "double cheddar, jalapeño, red onion, pickle, jalapeño sauce",
+          "price": 42
+        },
+        {
+          "name": "Hawajski",
+          "description": "double cheddar, pineapple, red onion, mango-chili sauce",
+          "price": 43
+        },
+        {
+          "name": "Lumberjack",
+          "description": "breaded cheese, double bacon, fried onion, spicy onion sauce",
+          "price": 49
+        },
+        {
+          "name": "Nacheese",
+          "description": "double cheddar, chorizo, cheese nachos, cheese sauce, BBQ",
+          "price": 43
+        },
+        {
+          "name": "Cheezilla",
+          "price": 47
+        },
+        {
+          "name": "Gringo",
+          "description": "bacon jam, onion rings, double cheddar, chipotle BBQ",
+          "price": 44
+        },
+        {
+          "name": "Tasty Beast",
+          "description": "double cheddar, mimolette, double bacon, jalapeño, mustard, Beast sauce",
+          "price": 43
+        },
+        {
+          "name": "America",
+          "description": "double Black Angus patties, 4× cheddar, 4× bacon, red onion, pickle, mustard sauce",
+          "price": 55
+        },
+        {
+          "name": "Nduja",
+          "description": "spicy spreadable Calabrian salami",
+          "price": 46
+        }
+      ]
+    },
+    {
+      "name": "Smash line (110g thin patty Black Angus)",
+      "items": [
+        {
+          "name": "Smashburger",
+          "description": "double cheddar, fried onion, red onion, lettuce, Beast sauce",
+          "price": 32
+        },
+        {
+          "name": "Oklahoma Smash",
+          "description": "sautéed onion, triple cheddar, pickle, caramelized onion, spicy onion sauce",
+          "price": 32
+        },
+        {
+          "name": "Jalapeño Smash",
+          "description": "double cheddar, jalapeño, lettuce, mayo-sriracha sauce",
+          "price": 32
+        },
+        {
+          "name": "Royal Smash",
+          "description": "truffle mayo, double cheddar, marinated onion, arugula",
+          "price": 32
+        }
+      ]
+    },
+    {
+      "name": "Kurczak — Chicken burgers",
+      "items": [
+        {
+          "name": "Chicken BBQ",
+          "price": 33
+        },
+        {
+          "name": "Texan",
+          "price": 45
+        },
+        {
+          "name": "My Thai",
+          "price": 42
+        },
+        {
+          "name": "Kentucky",
+          "price": 42
+        },
+        {
+          "name": "Parmesano",
+          "price": 39
+        }
+      ]
+    },
+    {
+      "name": "Wege — Vegetarian / Vegan burgers",
+      "items": [
+        {
+          "name": "Boczniaq",
+          "description": "oyster mushroom patty",
+          "price": 35
+        },
+        {
+          "name": "Smash Batat",
+          "description": "sweet potato smash patty",
+          "price": 34
+        },
+        {
+          "name": "Halloumi",
+          "price": 38
+        },
+        {
+          "name": "Beyond Burger",
+          "description": "Beyond Meat patty (vegan); typically w/ beet patty, vegan cheddar, sprouts, arugula, red onion, mustard, ketchup",
+          "price": 44
+        }
+      ]
+    },
+    {
+      "name": "Extra — Other dishes",
+      "items": [
+        {
+          "name": "Quesadilla",
+          "price": 33
+        },
+        {
+          "name": "Wrap",
+          "price": 37
+        },
+        {
+          "name": "Strips 200 g",
+          "price": 23
+        },
+        {
+          "name": "Strips 400 g",
+          "price": 39
+        },
+        {
+          "name": "Kubełek (bucket)",
+          "price": 59
+        },
+        {
+          "name": "Cezar salad",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "name": "Dodatki — Sides",
+      "items": [
+        {
+          "name": "Frytki belgijskie małe (Belgian fries small)",
+          "price": 13
+        },
+        {
+          "name": "Frytki belgijskie duże (Belgian fries large)",
+          "price": 17
+        },
+        {
+          "name": "Frytki z batata małe (sweet potato fries small)",
+          "price": 18
+        },
+        {
+          "name": "Frytki z batata duże (sweet potato fries large)",
+          "price": 33
+        },
+        {
+          "name": "Frytki chrupiące małe (crispy fries small)",
+          "price": 12
+        },
+        {
+          "name": "Frytki chrupiące duże (crispy fries large)",
+          "price": 17
+        },
+        {
+          "name": "Frytki Cajun małe",
+          "price": 13
+        },
+        {
+          "name": "Frytki Cajun duże",
+          "price": 17
+        },
+        {
+          "name": "Onion Rings 8 szt.",
+          "price": 14
+        },
+        {
+          "name": "Loaded Fries",
+          "price": 35
+        },
+        {
+          "name": "Coleslaw",
+          "price": 9
+        },
+        {
+          "name": "Sos do frytek (sauce)",
+          "price": 4
+        }
+      ]
+    },
+    {
+      "name": "Napoje — Drinks",
+      "items": [
+        {
+          "name": "Coca-Cola 330ml",
+          "price": 9
+        },
+        {
+          "name": "Cola Zero 330ml",
+          "price": 9
+        },
+        {
+          "name": "Sprite 330ml",
+          "price": 9
+        },
+        {
+          "name": "Fanta 330ml",
+          "price": 9
+        },
+        {
+          "name": "Dr Pepper 330ml",
+          "price": 9
+        },
+        {
+          "name": "Woda niegazowana 500ml (still water)",
+          "price": 8
+        },
+        {
+          "name": "Woda gazowana 500ml (sparkling water)",
+          "price": 8
+        },
+        {
+          "name": "On Lemon",
+          "price": 14
+        }
+      ]
+    }
+  ]
+}

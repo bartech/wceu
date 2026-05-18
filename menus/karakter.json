@@ -1,0 +1,226 @@
+{
+  "id": "karakter",
+  "name": "Karakter",
+  "description": "Michelin-listed bold bistro in Kazimierz — a love letter to meat and offal (sweetbreads, tongue, pig's ears, ostrich stomach, horse tartare) with French technique, plus a mussel bar and inventive desserts. Industrial-warm room, strong wine list, lively atmosphere. Seasonal menu — current theme: 'Lato w sercu rzeźnika' ('Summer in the butcher's heart').",
+  "gallery": [
+    "images/karakter/place-01.webp",
+    "images/karakter/food-01.webp",
+    "images/karakter/food-02.webp",
+    "images/karakter/food-03.webp",
+    "images/karakter/food-04.webp",
+    "images/karakter/menu-01.webp",
+    "images/karakter/menu-02.webp",
+    "images/karakter/menu-03.webp"
+  ],
+  "currency": "PLN",
+  "source": "https://menix.pl/menu-karakter-krakow",
+  "last_updated_from_source": "2026-05-13 (priced as of 2025-10-19 on menix.pl)",
+  "price_caveat": "Seasonal menu — items rotate. Verify on-site.",
+  "sections": [
+    {
+      "name": "Przystawki — Starters",
+      "items": [
+        {
+          "name": "Tatar (wołowy)",
+          "name_en": "Beef tartare",
+          "description": "eye fillet",
+          "price": 55
+        },
+        {
+          "name": "Tatar (polędwica końska)",
+          "name_en": "Horse tenderloin tartare",
+          "description": "eye fillet",
+          "price": 57
+        },
+        {
+          "name": "Tatar (struś)",
+          "name_en": "Ostrich tartare",
+          "description": "eye fillet",
+          "price": 65
+        },
+        {
+          "name": "Kałamarnica",
+          "name_en": "Squid",
+          "description": "blood-sausage (kaszanka) arancini, lemon veloute w/ marjoram, broccoli, pepper",
+          "price": 45
+        },
+        {
+          "name": "Mule zapiekane w beszamelu",
+          "name_en": "Mussels baked in béchamel",
+          "description": "leeks, smoked bacon, Old Rotterdam cheese",
+          "price": 51
+        },
+        {
+          "name": "Pączek z panierowaną golonką",
+          "name_en": "Donut w/ breaded pork shank",
+          "description": "horseradish cream, mustard glaze, dried capers",
+          "price": 43
+        },
+        {
+          "name": "Pomidory",
+          "name_en": "Tomatoes",
+          "description": "bundz (sheep cheese), cherry sauce, brown butter, truffle salt, ponzu couscous",
+          "price": 37
+        },
+        {
+          "name": "Stir-fry z wołowiny",
+          "name_en": "Beef stir-fry",
+          "description": "sesame glaze, toast w/ tomato-pepper salsa, burnt-butter egg-yolk sauce, chives",
+          "price": 39
+        }
+      ]
+    },
+    {
+      "name": "Lato w sercu rzeźnika — Summer special section",
+      "items": [
+        {
+          "name": "Salceson z koniny",
+          "name_en": "Horse head-cheese",
+          "description": "burnt-butter mayo, mint, pickled zucchini w/ mustard, pangrattato",
+          "price": 37
+        },
+        {
+          "name": "Uszy świńskie w tempurze",
+          "name_en": "Pig's ears tempura",
+          "description": "beetroot & red-wine risotto, creamy goat cheese, herbs w/ sesame oil",
+          "price": 43
+        },
+        {
+          "name": "Strusi żołądek",
+          "name_en": "Ostrich stomach",
+          "description": "trout gravlax, beurre-blanc on smoked halibut, asparagus, yolk, dill",
+          "price": 45
+        },
+        {
+          "name": "Raviolo z farszem z głowizny wieprzowej i gorgonzoli",
+          "name_en": "Raviolo w/ pork head-cheese & gorgonzola filling",
+          "description": "spicy aglione tomato sauce w/ garlic & parmesan, olive oil",
+          "price": 53
+        },
+        {
+          "name": "Kluski śląskie",
+          "name_en": "Silesian dumplings",
+          "description": "truffle sauce, trout roe, nasturtium, shiitake",
+          "price": 57
+        }
+      ]
+    },
+    {
+      "name": "Dania główne — Main courses",
+      "items": [
+        {
+          "name": "Tagliatelle al limone",
+          "description": "pork jowl, smoked lardo, parmesan",
+          "price": 55
+        },
+        {
+          "name": "Burger wołowy",
+          "name_en": "Beef burger",
+          "description": "red-cabbage & pickled-cucumber slaw, cheddar, tomato, pickled red pepper, red onion, mustard mayo, fries",
+          "price": 65
+        },
+        {
+          "name": "Pierś z kaczki",
+          "name_en": "Duck breast",
+          "description": "apple pie w/ caramelized onion, creme fraîche w/ Cointreau, buttery orange sauce",
+          "price": 77
+        },
+        {
+          "name": "Pstrąg złocisty z Zielenicy",
+          "name_en": "Golden trout from Zielenica",
+          "description": "young cabbage w/ wild garlic, green asparagus, raspberries, roasted butter, herbs",
+          "price": 83
+        },
+        {
+          "name": "Żebro wołowe pieczone 8 godzin, luzowane",
+          "name_en": "Beef rib baked 8 hours, boneless",
+          "description": "mashed potatoes, mushrooms, pickled onions, Guinness sauce",
+          "price": 93
+        },
+        {
+          "name": "Stek z przepony wołowej",
+          "name_en": "Beef skirt steak",
+          "description": "shrimp in spicy tomato sauce, sea-salt potatoes, salsa verde, horseradish w/ sour cream",
+          "price": 97
+        }
+      ]
+    },
+    {
+      "name": "Mule Bar — Mussel Bar",
+      "notes": "69 PLN — comes with small salad and baguette or French fries. Choose one sauce:",
+      "items": [
+        {
+          "name": "Mule — sos pomidorowy",
+          "description": "tomato sauce / garlic / green olives / anchovies / capers",
+          "price": 69
+        },
+        {
+          "name": "Mule — szalotka",
+          "description": "shallot / garlic / sour cream",
+          "price": 69
+        },
+        {
+          "name": "Mule — nduja",
+          "description": "nduja / greaves / parsley",
+          "price": 69
+        },
+        {
+          "name": "Mule — pietruszka",
+          "description": "parsley / garlic / parmesan",
+          "price": 69
+        },
+        {
+          "name": "Mule — HOT chili",
+          "description": "hot chili / coriander",
+          "price": 69
+        }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        {
+          "name": "Gruszka w białym winie",
+          "name_en": "Pear poached in white wine",
+          "description": "caramel cream, Norwegian Brunost caramel cheese",
+          "price": 29
+        },
+        {
+          "name": "Lody z maślanki",
+          "name_en": "Buttermilk ice cream",
+          "description": "burnt butter, fruit, Campari zabaglione",
+          "price": 33
+        },
+        {
+          "name": "Sernik z koziego sera",
+          "name_en": "Goat-cheese cheesecake",
+          "description": "salted-caramel chocolate mousse, beetroot ice cream",
+          "price": 33
+        },
+        {
+          "name": "Mus migdałowy",
+          "name_en": "Almond mousse",
+          "description": "mango, mint whipped cream, white-chocolate crumble w/ hemp seeds",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "name": "Drinks (no full online list)",
+      "items": [
+        {
+          "name": "Wine list",
+          "description": "Curated international selection, including some rare bottles"
+        },
+        {
+          "name": "Cocktails",
+          "description": "Rosemary-infused gin & tonic, lavender lemonade noted by reviewers"
+        },
+        {
+          "name": "Homemade iced tea",
+          "description": "Highly praised by guests"
+        }
+      ]
+    }
+  ]
+}

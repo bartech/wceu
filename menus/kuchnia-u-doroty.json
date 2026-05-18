@@ -1,0 +1,197 @@
+{
+  "id": "kuchnia-u-doroty",
+  "name": "Kuchnia u Doroty",
+  "description": "Home-style Polish 'mom's-kitchen' spot in Kazimierz — schabowy, kotlety, cabbage rolls, soups, daily specials around 41 PLN. No-frills, hearty, popular with locals and budget travellers; cited as one of the best-value sit-down Polish meals in central Kraków.",
+  "gallery": [
+    "images/kuchnia-u-doroty/place-01.jpg",
+    "images/kuchnia-u-doroty/place-02.jpg",
+    "images/kuchnia-u-doroty/place-03.jpg",
+    "images/kuchnia-u-doroty/food-01.jpg",
+    "images/kuchnia-u-doroty/food-02.jpg",
+    "images/kuchnia-u-doroty/food-03.jpg",
+    "images/kuchnia-u-doroty/food-04.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://www.restauracjaudoroty.pl/restauracja/restauracja-u-doroty",
+  "last_updated_from_source": "2026-05-13",
+  "notes": "On-site offering typically includes pierogi and additional appetizers/specials not published on the delivery menu. Verify in person.",
+  "sections": [
+    {
+      "name": "Danie dnia — Daily specials (rotates)",
+      "items": [
+        {
+          "name": "Jarzynowa + Zraz Wieprzowy z pieczarkami, cebulką, papryką, ziemniaki, surówki",
+          "description": "vegetable soup + pork roulade w/ mushrooms, onion, pepper, potatoes, coleslaws",
+          "price": 41
+        },
+        {
+          "name": "Jarzynowa + Tortilla z kurczakiem i warzywami",
+          "description": "vegetable soup + chicken & veggie tortilla",
+          "price": 41
+        }
+      ]
+    },
+    {
+      "name": "Zupy — Soups",
+      "items": [
+        {
+          "name": "Jarzynowa",
+          "name_en": "Vegetable soup",
+          "price": 17
+        },
+        {
+          "name": "Pomidorowa na maśle z makaronem",
+          "name_en": "Tomato soup w/ butter & pasta",
+          "price": 17
+        }
+      ]
+    },
+    {
+      "name": "Dania z drobiu — Poultry",
+      "notes": "Served with potatoes and three types of coleslaw.",
+      "items": [
+        {
+          "name": "Kotlet drobiowy",
+          "name_en": "Chicken cutlet",
+          "price": 37
+        },
+        {
+          "name": "Kotlet po parysku",
+          "description": "in egg batter ('Paris-style')",
+          "price": 38
+        },
+        {
+          "name": "Kurczak z grilla",
+          "name_en": "Grilled chicken",
+          "price": 36
+        },
+        {
+          "name": "Eskalopki",
+          "description": "filet in batter",
+          "price": 37
+        },
+        {
+          "name": "Kurczak sauté z pieczarkami",
+          "description": "chicken sauté w/ mushrooms",
+          "price": 37
+        },
+        {
+          "name": "Kurczak pod pierzynką",
+          "description": "w/ sundried tomatoes & mozzarella",
+          "price": 39
+        },
+        {
+          "name": "Stripsy z ziemniakami",
+          "description": "chicken strips w/ potatoes",
+          "price": 35
+        },
+        {
+          "name": "Stripsy z frytkami",
+          "description": "chicken strips w/ fries",
+          "price": 37
+        }
+      ]
+    },
+    {
+      "name": "Dania z wieprzowiny — Pork",
+      "notes": "Served with potatoes and three types of coleslaw.",
+      "items": [
+        {
+          "name": "Kotlet schabowy",
+          "name_en": "Classic breaded pork chop",
+          "price": 37
+        },
+        {
+          "name": "Kotlet po zbójnicku",
+          "description": "w/ bacon",
+          "price": 38
+        },
+        {
+          "name": "Kotlet szwajcarsku",
+          "description": "w/ mozzarella",
+          "price": 38
+        },
+        {
+          "name": "Kotlet po wiejsku",
+          "description": "w/ fried egg",
+          "price": 37
+        },
+        {
+          "name": "Kotlet XXL Al Capone",
+          "description": "bacon, mushrooms, mozzarella",
+          "price": 44
+        }
+      ]
+    },
+    {
+      "name": "Dodatki — Sides",
+      "items": [
+        {
+          "name": "Frytki firmowe (large portion)",
+          "price": 19
+        },
+        {
+          "name": "Wymiana na frytki (swap to fries)",
+          "price": 5
+        },
+        {
+          "name": "Ziemniaki (potatoes)",
+          "price": 6
+        },
+        {
+          "name": "Dodatkowy makaron do zupy (extra noodles for soup)",
+          "price": 2.5
+        },
+        {
+          "name": "Buraczki (beetroots)",
+          "price": 8
+        },
+        {
+          "name": "Biała kapusta (white cabbage)",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "name": "Napoje — Beverages",
+      "items": [
+        {
+          "name": "Pepsi 0,5 L",
+          "price": 10
+        },
+        {
+          "name": "Pepsi Zero 0,5 L",
+          "price": 10
+        },
+        {
+          "name": "Pepsi 0,85 L",
+          "price": 15
+        },
+        {
+          "name": "Pepsi Zero 0,85 L",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "Ciasta / Desery — Cakes & desserts",
+      "items": [
+        {
+          "name": "Ciasto czeskie",
+          "name_en": "Czech-style cake",
+          "price": 17
+        },
+        {
+          "name": "Szarlotka",
+          "name_en": "Apple pie",
+          "price": 17
+        },
+        {
+          "name": "Sernik na ciemnym spodzie",
+          "name_en": "Cheesecake on dark crust",
+          "price": 17
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "basta",
+  "name": "Basta - Pizza i Vino",
+  "description": "Coal-fired brick-oven pizzeria (claims the only such oven in Poland) using mostly authentic Italian products with Polish vegetables. 35 cm thin-crust pizzas, Czech beers, natural wines from small Italian vineyards.",
+  "gallery": [
+    "images/basta/place-01.jpg",
+    "images/basta/place-02.jpg",
+    "images/basta/food-01.jpg",
+    "images/basta/food-02.jpg",
+    "images/basta/food-03.jpg",
+    "images/basta/food-04.jpg",
+    "images/basta/food-05.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://www.konopnickiej11.com/menus",
+  "last_updated_from_source": "2026-05-13",
+  "sections": [
+    {
+      "name": "Pizze — numbered specials",
+      "notes": "Diameter 35 cm. Base shown first, then toppings.",
+      "items": [
+        {
+          "n": 1,
+          "name": "Margherita + prosciutto crudo, rukola, parmezan",
+          "price": 48
+        },
+        {
+          "n": 2,
+          "name": "Margherita + kiełbasa włoska (Italian sausage), grilled pepper",
+          "price": 44
+        },
+        {
+          "n": 3,
+          "name": "Marinara + feta, red onion",
+          "price": 36
+        },
+        {
+          "n": 4,
+          "name": "Margherita + pieczarki (mushrooms), Polish ham",
+          "price": 42
+        },
+        {
+          "n": 5,
+          "name": "Bianca + gorgonzola, garlic, spinach",
+          "price": 46
+        },
+        {
+          "n": 6,
+          "name": "Bianca + spianata (spicy salami), red onion",
+          "price": 44
+        },
+        {
+          "n": 7,
+          "name": "Bianca + pancetta, pesto",
+          "price": 46
+        },
+        {
+          "n": 8,
+          "name": "Margherita + spianata, garlic",
+          "price": 42
+        },
+        {
+          "n": 9,
+          "name": "Margherita + mushrooms, red onion",
+          "price": 38
+        },
+        {
+          "n": 10,
+          "name": "Marinara + capers, anchovies",
+          "price": 38
+        },
+        {
+          "n": 11,
+          "name": "Marinara + black olives, sundried tomatoes",
+          "price": 38
+        },
+        {
+          "n": 12,
+          "name": "Focaccia + mozzarella fior di latte, mushrooms, garlic",
+          "price": 36
+        }
+      ]
+    },
+    {
+      "name": "Bazy — build-your-own bases",
+      "notes": "Customize by adding toppings from three groups.",
+      "items": [
+        {
+          "name": "Margherita",
+          "price": 30
+        },
+        {
+          "name": "Bianca",
+          "price": 32
+        },
+        {
+          "name": "Marinara",
+          "price": 26
+        },
+        {
+          "name": "Focaccia",
+          "price": 22
+        }
+      ]
+    },
+    {
+      "name": "Sałatki & przystawki — Salads & starters",
+      "items": [
+        {
+          "name": "Wiosenna",
+          "description": "mixed greens, tomato, cucumber, feta, pesto dressing, breadsticks",
+          "price": 20
+        },
+        {
+          "name": "Rokola",
+          "description": "mixed greens, onion, sundried tomato, black olives, grana padano DOP, balsamic dressing, breadsticks",
+          "price": 20
+        },
+        {
+          "name": "Prosciutto & Mozzarella",
+          "description": "mozzarella fior di latte, prosciutto crudo, basil, olive oil, balsamico",
+          "price": 19
+        },
+        {
+          "name": "Caprese",
+          "description": "mozzarella fior di latte, tomatoes, basil, olive oil, balsamico",
+          "price": 17
+        }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        {
+          "name": "NY cheesecake",
+          "description": "New York–style cheesecake on shortcrust base, fresh fruit, caramelized sugar top",
+          "price": 20
+        },
+        {
+          "name": "Beza meringa",
+          "description": "Meringue",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Drinks (no online prices)",
+      "items": [
+        {
+          "name": "Natural Italian wines",
+          "description": "Tuscany reds, Friuli whites & orange wines, light frizzante"
+        },
+        {
+          "name": "Czech beers",
+          "description": "selection on draught & bottled"
+        }
+      ]
+    }
+  ]
+}

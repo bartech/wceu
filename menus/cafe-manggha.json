@@ -1,0 +1,185 @@
+{
+  "id": "cafe-manggha",
+  "name": "Café Manggha",
+  "description": "Museum café widely considered the benchmark for Polish museum dining; serves authentic Japanese teishoku-style sets and pan-Asian dishes with a celebrated tea program (gyokuro, hojicha, soba cha, matcha). Breakfast until 12:00; lunch sets (vegan / fish / meat) 12:00–17:30. Wawel view from the terrace.",
+  "gallery": [
+    "images/cafe-manggha/place-01.jpg",
+    "images/cafe-manggha/food-01.jpg",
+    "images/cafe-manggha/food-02.jpg",
+    "images/cafe-manggha/food-03.jpg",
+    "images/cafe-manggha/food-04.jpg",
+    "images/cafe-manggha/food-05.jpg",
+    "images/cafe-manggha/food-06.jpg",
+    "images/cafe-manggha/food-07.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://manggha.pl/cafe-manggha + reviews on bezfarmazonu.pl and mochiko.pl",
+  "last_updated_from_source": "2026-05-13",
+  "price_caveat": "Prices partly from 2023–2024 review data — expect 10–25% increases. Verify on-site.",
+  "sections": [
+    {
+      "name": "Śniadania — Breakfast (served until 12:00)",
+      "items": [
+        {
+          "name": "Japanese breakfast with salmon",
+          "description": "miso w/ wakame & tofu, Japanese rice, marinated salmon, tamagoyaki omelet, cucumber pickles",
+          "price": 19,
+          "price_approx": true
+        },
+        {
+          "name": "Japanese breakfast vegan (tofu)",
+          "description": "tofu version of the teishoku breakfast",
+          "price": 17,
+          "price_approx": true
+        },
+        {
+          "name": "Onigiri",
+          "description": "rice balls — salmon and tuna-mayo fillings"
+        },
+        {
+          "name": "Tamagoyaki",
+          "description": "Japanese rolled egg omelet"
+        }
+      ]
+    },
+    {
+      "name": "Lunch sety — Lunch sets (12:00–17:30, teishoku style)",
+      "notes": "Each set includes marinated daikon, rice, miso soup, edamame salad, pickled cucumber, seaweed.",
+      "items": [
+        {
+          "name": "Lunch set — mięsny (meat)",
+          "description": "teriyaki-glazed chicken thighs",
+          "price": 39,
+          "price_approx": true
+        },
+        {
+          "name": "Lunch set — wegański (vegan)",
+          "description": "teriyaki-glazed tofu",
+          "price": 38,
+          "price_approx": true
+        },
+        {
+          "name": "Lunch set — rybny (fish)",
+          "description": "fish version"
+        }
+      ]
+    },
+    {
+      "name": "Dania główne — Mains",
+      "items": [
+        {
+          "name": "Chirashi zushi",
+          "description": "marinated tuna, salmon, egg, tobiko caviar, ginger, edamame, sesame",
+          "price": 32,
+          "price_approx": true
+        },
+        {
+          "name": "Rice bowl z łososiem (salmon)",
+          "description": "rice, edamame, pickled ginger, daikon, shiitake",
+          "price": 26,
+          "price_approx": true
+        },
+        {
+          "name": "Rice bowl z tofu",
+          "description": "rice, edamame, pickled ginger, daikon, shiitake",
+          "price": 25,
+          "price_approx": true
+        },
+        {
+          "name": "Shogayaki",
+          "description": "ginger pork"
+        },
+        {
+          "name": "Soba",
+          "description": "fried tofu, vegetables, peanuts, peanut sauce",
+          "price": 26,
+          "price_approx": true
+        },
+        {
+          "name": "Udon",
+          "description": "spicy ground pork, loaganma paste, pickled ginger, shiitake mushrooms",
+          "price": 39,
+          "price_approx": true
+        },
+        {
+          "name": "Gomoku rice with shrimp",
+          "price": 19,
+          "price_approx": true
+        },
+        {
+          "name": "Chicken teriyaki",
+          "price": 19,
+          "price_approx": true
+        }
+      ]
+    },
+    {
+      "name": "Małe / Sides",
+      "items": [
+        {
+          "name": "Gyoza z wieprzowiną (pork)",
+          "price": 19,
+          "price_approx": true
+        },
+        {
+          "name": "Miso-shiru z tofu i wakame",
+          "price": 10,
+          "price_approx": true
+        },
+        {
+          "name": "Edamame",
+          "description": "with coarse salt",
+          "price": 12,
+          "price_approx": true
+        },
+        {
+          "name": "Fish broth with shrimp and vegetables",
+          "price": 10,
+          "price_approx": true
+        }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        {
+          "name": "Matcha desserts"
+        },
+        {
+          "name": "Mochi"
+        },
+        {
+          "name": "Sweet toast with cream"
+        },
+        {
+          "name": "Daily homemade cakes & pastries"
+        }
+      ]
+    },
+    {
+      "name": "Napoje — Drinks (notable for traditional Japanese teas)",
+      "items": [
+        {
+          "name": "Matcha latte",
+          "price": 10,
+          "price_approx": true
+        },
+        {
+          "name": "Cappuccino",
+          "price": 8,
+          "price_approx": true
+        },
+        {
+          "name": "Japanese teas",
+          "description": "soba cha, hojicha, gyokuro — traditionally brewed"
+        },
+        {
+          "name": "Frizzante",
+          "description": "1L carafe",
+          "price": 60,
+          "price_approx": true
+        }
+      ]
+    }
+  ]
+}
