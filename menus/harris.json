@@ -1,0 +1,40 @@
+{
+  "id": "harris",
+  "name": "Harris Piano Jazz Bar",
+  "eyebrow": "Venue",
+  "description": "Underground jazz club on Rynek Główny — live music every night spanning jazz, blues, funk, soul, hip-hop. Self-described as the only club in Poland (and one of two in Europe) offering original jazz concerts every day. Drinks, food, and a sub-cellar vibe.",
+  "gallery": [
+    "images/harris/oklubie.jpg",
+    "images/harris/DSC02897.JPG",
+    "images/harris/DSC02931.JPG",
+    "images/harris/1269295_632338753456058_1968775072_o.jpg",
+    "images/harris/1265326_632340563455877_1476885575_o.jpg",
+    "images/harris/1238243_733341933355739_666372119728751276_n.jpg",
+    "images/harris/901443_668457799844153_178485226_o.jpg"
+  ],
+  "source": "https://harris.krakow.pl/en/o-nas/",
+  "last_updated_from_source": "2026-05-21",
+  "notes": "Mon–Fri from 13:00 · Sat–Sun from 12:00 · open until last guest. Concerts most nights from ~21:30.",
+  "sections": [
+    {
+      "name": "Music programme (rotates weekly)",
+      "items": [
+        { "name": "Mon", "description": "Jam session / corporate jam" },
+        { "name": "Tue", "description": "Classic jazz" },
+        { "name": "Wed", "description": "Fusion / contemporary jazz" },
+        { "name": "Thu", "description": "Jazz jam session — open mic" },
+        { "name": "Fri", "description": "Blues & rock" },
+        { "name": "Sat", "description": "Guest Polish or international artists" },
+        { "name": "Sun", "description": "Classic jazz" }
+      ]
+    },
+    {
+      "name": "Practical",
+      "items": [
+        { "name": "Address", "description": "Rynek Główny 28, Kraków" },
+        { "name": "Style", "description": "Underground cellar club — small, drinks + bar food" },
+        { "name": "Cover", "description": "Some concerts ticketed — check the events page for the night" }
+      ]
+    }
+  ]
+}

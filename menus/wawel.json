@@ -1,0 +1,36 @@
+{
+  "id": "wawel",
+  "name": "Wawel Royal Castle — The Most Precious route",
+  "eyebrow": "Tickets",
+  "description": "Curated route through selected exhibition spaces: Castle 1st floor, Castle 2nd floor, Castle Underground, Crown Treasury, and Armoury. Wawel Royal Castle's curators picked rooms and objects from the collection. Guided tour, ~110 min visiting time.",
+  "gallery": [
+    "images/wawel/image.png"
+  ],
+  "source": "https://bilety.wawel.krakow.pl/",
+  "last_updated_from_source": "2026-05-21",
+  "notes": "Booking date considered: 2026-06-04 · Start of attraction: 10:00. Guided tours in English are available only at certain hours — note the flag displayed next to each time slot and select the correct one.",
+  "sections": [
+    {
+      "name": "About the route",
+      "items": [
+        { "name": "Spaces", "description": "Castle 1st floor · Castle 2nd floor · Castle Underground · Crown Treasury · Armoury" },
+        { "name": "Guide", "description": "Guided tour in English at flagged time slots" },
+        { "name": "Duration", "description": "About 110 minutes" },
+        { "name": "Age restriction", "description": "Not available to children under seven years old" },
+        { "name": "Meeting point", "description": "Lost Wawel exhibition — the first part of the Castle Underground combined route" }
+      ]
+    },
+    {
+      "name": "Tickets",
+      "items": [
+        { "name": "Reduced ticket required for free-admission groups", "description": "Persons with statutory rights to individual free admission to the Castle's exhibitions must purchase a reduced ticket for special routes / guided exhibitions / events (workshops)." }
+      ]
+    },
+    {
+      "name": "Accessibility",
+      "items": [
+        { "name": "Staircases & narrow passages", "description": "Route leads through numerous staircases and narrow passages — not recommended for people with movement difficulties; wheelchair access is not possible." }
+      ]
+    }
+  ]
+}

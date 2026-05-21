@@ -1,0 +1,42 @@
+{
+  "id": "botanical-garden",
+  "name": "Botanic Garden of the Jagiellonian University",
+  "eyebrow": "Visit",
+  "description": "Poland's oldest botanic garden, founded in 1783. 9.6 hectares, ~9,000 plant taxa across alpine gardens, medicinal plants, tropical glasshouses, and an arboretum. A quiet, slow-paced break from the Old Town crowds; the glasshouses are the highlight.",
+  "gallery": [
+    "images/botanical-garden/hero.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://ogrod.uj.edu.pl/english",
+  "last_updated_from_source": "2026-05-21",
+  "notes": "Address: Kopernika 27 · ~25 min walk east of Rynek or one tram stop. Phone +48 12 663 36 35.",
+  "sections": [
+    {
+      "name": "Opening hours (April–August)",
+      "items": [
+        { "name": "Garden", "description": "Daily 09:00 – 19:00" },
+        { "name": "Greenhouses", "description": "Tue–Sun 10:00 – 18:30 · closed Mondays" },
+        { "name": "Museum", "description": "Tue–Sun 10:00 – 14:45 · closed Mondays" }
+      ]
+    },
+    {
+      "name": "Admission",
+      "items": [
+        { "name": "Standard", "price": 22 },
+        { "name": "Concession", "price": 12 },
+        { "name": "Family (2 adults + 2 children)", "price": 45 },
+        { "name": "Annual pass", "price": 180 }
+      ]
+    },
+    {
+      "name": "What's inside",
+      "items": [
+        { "name": "Alpine garden — mountain flora terraces" },
+        { "name": "Medicinal plants — herb beds with educational signage" },
+        { "name": "Tropical glasshouses — palms, orchids, water lilies (Victoria amazonica in season)" },
+        { "name": "Arboretum — old-growth trees including 200+ year specimens" },
+        { "name": "Botanical museum — herbarium, illustrations, garden history" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3099 @@
+{
+  "id": "szara-ges",
+  "name": "Szara Gęś w Kuchni",
+  "description": "Refined Polish kitchen on Rynek Główny — Old Town fine dining with goose dishes, deer tenderloin, sea trout, caviar, oysters, and a deep Polish-and-international wine list. Tasting menu format with optional wine pairing. Service fee 12.5% on tasting menus and for tables of 5+.",
+  "gallery": [
+    "images/szara-ges/DSC_7893.JPG",
+    "images/szara-ges/20190709-IMG_9247.jpg",
+    "images/szara-ges/20200821-IMG_2925.jpg",
+    "images/szara-ges/IMG_0445.jpg",
+    "images/szara-ges/20200625-IMG_3577.jpg",
+    "images/szara-ges/IMG_8148.jpg",
+    "images/szara-ges/ALTANA.jpg",
+    "images/szara-ges/_DSC4106a2.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://szarages.com/en/menu/",
+  "last_updated_from_source": "2026-05-21",
+  "price_caveat": "Menu rotates seasonally. Verify on-site.",
+  "sections": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Oyster Gillardeau",
+          "weight": "1 pc.",
+          "price": 29
+        },
+        {
+          "name": "Siberian sturgeon caviar served with buckwheat pancakes, pickles, smoked cream",
+          "weight": "30 g",
+          "price": 330
+        },
+        {
+          "name": "Romaine lettuce, goat cheese, cucumber, pickled shallot, chive mayonnaise",
+          "price": 54
+        },
+        {
+          "name": "Goose slices, pear jam with mustard seeds, pistachio crunch",
+          "price": 64
+        },
+        {
+          "name": "Sea trout, pickled cucumber, horseradish mousse, dill",
+          "price": 72
+        },
+        {
+          "name": "Seasoned beef tenderloin tartare, Hungarian pepper syrup, trout roe",
+          "price": 78
+        },
+        {
+          "name": "Deer tenderloin comber, hazelnuts, black truffle, black garlic cream",
+          "price": 98
+        }
+      ]
+    },
+    {
+      "name": "Soups",
+      "items": [
+        {
+          "name": "Sour rye soup with goose, goose sausage, quail egg",
+          "price": 38
+        },
+        {
+          "name": "Green vegetable cream soup, cream, black truffle",
+          "price": 38
+        }
+      ]
+    },
+    {
+      "name": "Side dishes",
+      "items": [
+        {
+          "name": "Homemade bread with butter",
+          "price": 22
+        },
+        {
+          "name": "Selection of salads, radish, mustard",
+          "price": 24
+        },
+        {
+          "name": "Roasted potatoes, herbs",
+          "price": 26
+        },
+        {
+          "name": "Wild broccoli with roasted garlic and smoked olive oil",
+          "price": 28
+        }
+      ]
+    },
+    {
+      "name": "Tasting menu",
+      "items": [
+        {
+          "name": "Dear Guests, For each tasting menu and for tables of more than 4 people, we add a service fee of 12,5%. With best regards, The Szara Gęś Restaurant Team Tasting menuFive courses menu",
+          "price": 360
+        },
+        {
+          "name": "Seven courses menu",
+          "price": 460
+        },
+        {
+          "name": "Five wines tastingNon-alcoholic",
+          "price": 190
+        },
+        {
+          "name": "Classic",
+          "price": 340
+        },
+        {
+          "name": "Premium",
+          "price": 470
+        },
+        {
+          "name": "Seven wines tastingNon-alcoholic",
+          "price": 280
+        },
+        {
+          "name": "Classic",
+          "price": 410
+        },
+        {
+          "name": "Premium",
+          "price": 690
+        }
+      ]
+    },
+    {
+      "name": "Main courses",
+      "items": [
+        {
+          "name": "Homemade pasta, Bursztyn cheese, black truffle",
+          "price": 78
+        },
+        {
+          "name": "Goose dumplings with cider, apple, sugar snap peas",
+          "price": 86
+        },
+        {
+          "name": "Free range chicken with truffle, leek",
+          "price": 98
+        },
+        {
+          "name": "Slow-cooked beef cheek, beetroot purée, seasonal vegetables",
+          "price": 108
+        },
+        {
+          "name": "Sea bass fillet, butter sauce, cabbage, trout roe",
+          "price": 132
+        },
+        {
+          "name": "Confit goose leg, red cabbage, apple gel, Suska Sechlońska plum sauce",
+          "price": 144
+        },
+        {
+          "name": "Seasoned beef tenderloin, spinach, ruby port sauce",
+          "price": 162
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Millefoglie with vanilla cream, seasonal fruits",
+          "price": 52
+        },
+        {
+          "name": "Chocolate tart, raspberries",
+          "price": 48
+        },
+        {
+          "name": "Grey Goose - our specialty",
+          "price": 58
+        },
+        {
+          "name": "Polish cheese selection",
+          "price": 84
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 16
+        },
+        {
+          "name": "Espresso macchiato",
+          "price": 17
+        },
+        {
+          "name": "Double espresso",
+          "price": 19
+        },
+        {
+          "name": "Americano",
+          "price": 20
+        },
+        {
+          "name": "Cappuccino",
+          "price": 22
+        },
+        {
+          "name": "Latte",
+          "price": 22
+        },
+        {
+          "name": "Newby Tea",
+          "price": 24
+        },
+        {
+          "name": "COLD BEVERAGESCoca Cola Original Taste",
+          "weight": "250 ml",
+          "price": 18
+        },
+        {
+          "name": "Fanta",
+          "weight": "250 ml",
+          "price": 18
+        },
+        {
+          "name": "Sprite",
+          "weight": "250 ml",
+          "price": 28
+        },
+        {
+          "name": "Kinley Tonic Water/ Kinley Pink Aromatic Berry",
+          "weight": "250 ml",
+          "price": 28
+        },
+        {
+          "name": "Fuzetea Peach with hibiscus",
+          "weight": "250 ml",
+          "price": 18
+        },
+        {
+          "name": "Cappy orange juice/ apple juice",
+          "weight": "250 ml",
+          "price": 28
+        },
+        {
+          "name": "Burn Energy Drink",
+          "weight": "250 ml",
+          "price": 21
+        },
+        {
+          "name": "Freshly squizzed juice",
+          "weight": "250 ml",
+          "price": 26
+        },
+        {
+          "name": "Lemonade",
+          "weight": "250 ml",
+          "price": 26
+        },
+        {
+          "name": "WATERKropla Beskidu still water",
+          "weight": "330 ml",
+          "price": 18
+        },
+        {
+          "name": "|",
+          "weight": "750 ml",
+          "price": 24
+        },
+        {
+          "name": "Kropla Beskidu Delice sparkling water",
+          "weight": "330 ml",
+          "price": 18
+        },
+        {
+          "name": "|",
+          "weight": "750 ml",
+          "price": 24
+        },
+        {
+          "name": "Kinga Pienińska still / sparkling water",
+          "weight": "330 ml",
+          "price": 18
+        },
+        {
+          "name": "|",
+          "weight": "750 ml",
+          "price": 24
+        },
+        {
+          "name": "Aqua Panna",
+          "weight": "750 ml",
+          "price": 29
+        },
+        {
+          "name": "San Pellegrino",
+          "weight": "750 ml",
+          "price": 29
+        }
+      ]
+    },
+    {
+      "name": "Beer & spirits",
+      "items": [
+        {
+          "name": "Peroni Nastro Azurro",
+          "weight": "400 ml",
+          "price": 25
+        },
+        {
+          "name": "Pilsner Urquell",
+          "weight": "400 ml",
+          "price": 25
+        },
+        {
+          "name": "Książęce Złote Pszeniczne",
+          "weight": "300 ml",
+          "price": 23
+        },
+        {
+          "name": "|",
+          "weight": "500 ml",
+          "price": 26
+        },
+        {
+          "name": "BOTTLED BEERPeroni Nastro Azzurro",
+          "weight": "330 ml",
+          "price": 25
+        },
+        {
+          "name": "Książęce IPA",
+          "weight": "500 ml",
+          "price": 27
+        },
+        {
+          "name": "Książęce Czerwony Lager",
+          "weight": "400 ml",
+          "price": 27
+        },
+        {
+          "name": "Lech Easy",
+          "weight": "400 ml",
+          "price": 26
+        },
+        {
+          "name": "NON-ALCOHOLIC BEERPeroni Nastro Azurro 0.0%",
+          "weight": "330 ml",
+          "price": 23
+        },
+        {
+          "name": "Lech Free",
+          "weight": "330 ml",
+          "price": 20
+        },
+        {
+          "name": "Książęce Złote Pszeniczne 0.0 %",
+          "weight": "500 ml",
+          "price": 24
+        },
+        {
+          "name": "Książęce IPA 0.0%",
+          "weight": "500 ml",
+          "price": 24
+        },
+        {
+          "name": "CRAFT PREMIUM BEERTrzy Korony Browar Nowosądecki Chmyz Pils",
+          "weight": "330 ml",
+          "price": 29
+        },
+        {
+          "name": "Chmyz is Pils with light grain aroma, brewed with the use of four natural ingredients: barley malt, water, hops and yeast.Trzy Korony Browar Nowosądecki Krasa Weizen",
+          "weight": "330 ml",
+          "price": 29
+        },
+        {
+          "name": "Light top-fermented beer, with a refreshing taste. Aroma composition bananas, cloves and cinnamon combined with a sour aftertasteTrzy Korony Browar Nowosądecki Sędek Wheat IPA",
+          "weight": "330 ml",
+          "price": 29
+        },
+        {
+          "name": "Light top-fermented beer with intense aroma of hops, citrus, bananas, flowers and a distinct aftertaste of bitterness.Trzy Korony Browar Nowosądecki Kicarz Koźlak",
+          "weight": "330 ml",
+          "price": 29
+        },
+        {
+          "name": "Kicarz is a distinctive and heavy beer with intense aromas of coffee, chocolate and caramel.COCTAILSLumiere Spritz",
+          "price": 92
+        },
+        {
+          "name": "Champagne Laurent Lequart Brut Reserve, St-Germain Liqueur, Vermouth Dolin Dry, Lemon Bitters, Sparkling WaterMagnolia Tonic",
+          "price": 85
+        },
+        {
+          "name": "Heritage Magnolia Gin (Poland), Lime Juice, Thomas Henry Tonic, Sugar SyrupBasil & Grapefruit Fizz",
+          "price": 82
+        },
+        {
+          "name": "Tanqueray Nr. 10 Gin, Grapefruit Juice, Basil Syrup, Lemon JuiceLily Blossom",
+          "price": 88
+        },
+        {
+          "name": "Remy Martin VSOP Cognac, St-Germain Liqueur, Vermouth Dolin Blanc, Lemon Bitters, Egg whiteEmber Boulevardier",
+          "price": 103
+        },
+        {
+          "name": "Ardbeg Whisky 10 YO, Bulleit Bourbon Frontier Whiskey, Vermouth Carpano Antica Formula Amaro Montenegro, Maple Syrup, Angostura Bitter, Cherry Wood SmokePornstar Martini",
+          "price": 94
+        },
+        {
+          "name": "Vanilla-infused Vodka, Passoa Passion Fruit Liqueur, Champagne Laurent Lequart Brut Reserve, Passion Fruit Puree, Lime Juice, Egg whiteMOCKTAILSNegroni 0%",
+          "price": 44
+        },
+        {
+          "name": "Gordon’s Gin 0%, Lyre’s Aperitif Rosso, Lyre’s Italian SpritzHugo 0%",
+          "price": 48
+        },
+        {
+          "name": "Elderflower Syrup, Gordon’s Gin 0%, Thomas Henry Tonic, Lemon JuicePornstar Martini 0%",
+          "price": 49
+        },
+        {
+          "name": "Dr. Lo Alcohol Free Sparkling Riesling, Pineapple juice, Gordon’s Gin 0%, Passion fruit puree, Sweet & Sour, Egg WhitePink Forest Spritz 0%",
+          "price": 49
+        },
+        {
+          "name": "Lyre’s Pink London Spirit 0%, Lavender Syrup, Lemon Juice, Red Fruits, Rosemary, Dr. Lo Alcohol Free Sparkling RieslingBAR MENUPOLISH SPECIALStarka 21y.o",
+          "weight": "40 ml",
+          "price": 92
+        },
+        {
+          "name": "Mlody Ziemniak",
+          "weight": "40 ml",
+          "price": 49
+        },
+        {
+          "name": "Krzeska Herbal Vodka",
+          "weight": "40 ml",
+          "price": 46
+        },
+        {
+          "name": "Vodka Aged in Barrels",
+          "weight": "40 ml",
+          "price": 79
+        },
+        {
+          "name": "Miodula Prezydencka",
+          "weight": "40 ml",
+          "price": 46
+        },
+        {
+          "name": "Śliwowica by Chateau Kirwan & Dwór Sieraków",
+          "weight": "40 ml",
+          "price": 88
+        },
+        {
+          "name": "Palona by Chateau Kirwan & Dwór Sieraków",
+          "weight": "40 ml",
+          "price": 95
+        },
+        {
+          "name": "COGNAC, BRANDY, ARMAGNACArmagnac Baron Gostan Legrand",
+          "weight": "199540 ml",
+          "price": 99
+        },
+        {
+          "name": "Armagnac Baron Gostan Legrand",
+          "weight": "197640 ml",
+          "price": 109
+        },
+        {
+          "name": "Hennessy VSOP",
+          "weight": "40 ml",
+          "price": 65
+        },
+        {
+          "name": "Hennessy XO",
+          "weight": "40 ml",
+          "price": 188
+        },
+        {
+          "name": "Hennessy Paradis Imperial",
+          "weight": "20 ml",
+          "price": 490
+        },
+        {
+          "name": "Remy Martin VSOP",
+          "weight": "40 ml",
+          "price": 58
+        },
+        {
+          "name": "Remy Martin 1738 Accord Royal Cognac",
+          "weight": "40 ml",
+          "price": 78
+        },
+        {
+          "name": "Remy Martin XO",
+          "weight": "40 ml",
+          "price": 129
+        },
+        {
+          "name": "Torres Jaime 30y.o. Brandy",
+          "weight": "40 ml",
+          "price": 109
+        },
+        {
+          "name": "RUMZacapa Centenario Solera 23y.o",
+          "weight": "40 ml",
+          "price": 59
+        },
+        {
+          "name": "Zacapa XO",
+          "weight": "40 ml",
+          "price": 98
+        },
+        {
+          "name": "Brugal",
+          "weight": "188840 ml",
+          "price": 54
+        },
+        {
+          "name": "Dictator 12y.o",
+          "weight": "40 ml",
+          "price": 52
+        },
+        {
+          "name": "Dictator 20y.o",
+          "weight": "40 ml",
+          "price": 65
+        },
+        {
+          "name": "Mount Gay Triple Cask XO",
+          "weight": "40 ml",
+          "price": 48
+        },
+        {
+          "name": "Dictator XO Insolent",
+          "weight": "40 ml",
+          "price": 119
+        },
+        {
+          "name": "Dictator XO Perpetual",
+          "weight": "40 ml",
+          "price": 119
+        },
+        {
+          "name": "WHISKY, WHISKEY, BOURBONThe Macallan Double Cask 12y.o",
+          "weight": "40 ml",
+          "price": 71
+        },
+        {
+          "name": "The Macallan Triple Cask 15y.o",
+          "weight": "40 ml",
+          "price": 99
+        },
+        {
+          "name": "Johnnie Walker Blue Label",
+          "weight": "40 ml",
+          "price": 138
+        },
+        {
+          "name": "Ardbeg 10y.o",
+          "weight": "40 ml",
+          "price": 69
+        },
+        {
+          "name": "Talisker Single Malt 10y.o",
+          "weight": "40 ml",
+          "price": 59
+        },
+        {
+          "name": "Lagavulin Single Malt 16y.o",
+          "weight": "40 ml",
+          "price": 89
+        },
+        {
+          "name": "Balvenie 14y.o. Caribbean Cask",
+          "weight": "40 ml",
+          "price": 78
+        },
+        {
+          "name": "Oban Single Malt 14y.o",
+          "weight": "40 ml",
+          "price": 68
+        },
+        {
+          "name": "Wild Turkey Longbranch Bourbon",
+          "weight": "40 ml",
+          "price": 44
+        },
+        {
+          "name": "Glenmorangie 18y.o. Extremely Rare",
+          "weight": "40 ml",
+          "price": 119
+        },
+        {
+          "name": "Glenfiddich Our Solera 15y.o",
+          "weight": "40 ml",
+          "price": 62
+        },
+        {
+          "name": "Hibiki Japanese Harmony",
+          "weight": "40 ml",
+          "price": 99
+        }
+      ]
+    },
+    {
+      "name": "Wine — By the glass",
+      "items": [
+        {
+          "name": "SPARKLING WINESWinnica Turnau, Classique, Brut, Zachodniopomorskie, Poland",
+          "weight": "100 ml",
+          "price": 69
+        },
+        {
+          "name": "NVCharles Heidsieck, Brut Reserve, Champagne, France",
+          "weight": "100 ml",
+          "price": 99
+        },
+        {
+          "name": "NVWHITE WINESPinot Blanc, Winnica Barczentewicz, Dobre, Lubelskie, Poland",
+          "weight": "125 ml",
+          "price": 63
+        },
+        {
+          "name": "2023Gruner Veltliner, Ried Steinsetz, Schloss Gobelsburg, Kamptal, Austria",
+          "weight": "125 ml",
+          "price": 79
+        },
+        {
+          "name": "2024Riesling, Kabinett, Erdener Treppchen, Dr Loosen, Mosel, Germany",
+          "weight": "125 ml",
+          "price": 59
+        },
+        {
+          "name": "2023Sancerre, Roger & Didier Raimbault, Loire Valley, France",
+          "weight": "125 ml",
+          "price": 84
+        },
+        {
+          "name": "2024Montagny 1er Cru, Olivier Leflaive, Burgundy, France",
+          "weight": "125 ml",
+          "price": 95
+        },
+        {
+          "name": "2022RED WINESBläufrankisch, Winnica Barczentewicz, Dobre, Lubelskie, Poland",
+          "weight": "125 ml",
+          "price": 67
+        },
+        {
+          "name": "2022Shiraz, Spinifex, Barossa, Australia",
+          "weight": "125 ml",
+          "price": 55
+        },
+        {
+          "name": "2022Cabernet Sauvignon, St. Francis, Sonoma County, California, USA",
+          "weight": "125 ml",
+          "price": 76
+        },
+        {
+          "name": "2020Malbec, Catena Alta, Bodega Catena Zapata, Mendoza, Argentina",
+          "weight": "125 ml",
+          "price": 84
+        },
+        {
+          "name": "2021Santenay, 1er Cru La Comme, Maison Louis Latour, Burgundy, France",
+          "weight": "125 ml",
+          "price": 87
+        },
+        {
+          "name": "2022R. Lopez de Heredia, Vina Tondonia, Reserva, Rioja, Spain",
+          "weight": "125 ml",
+          "price": 95
+        },
+        {
+          "name": "2012Barolo Riserva, Roberto Sarotto, Piedmont, Italy",
+          "weight": "125 ml",
+          "price": 98
+        },
+        {
+          "name": "2016ROSÉ WINESWhispering Angel, Chateau d’Esclans, Rose, Cotes de Provence, France",
+          "weight": "125 ml",
+          "price": 69
+        },
+        {
+          "name": "2024SWEET AND FORTIFIED WINESWinnica Turnau, Szlachetny Zbiór, Zachodniopomorskie, Poland",
+          "weight": "75 ml",
+          "price": 49
+        },
+        {
+          "name": "2023Winnica Majątek Drzewce, Solaris, Lubelskie, Poland",
+          "weight": "75 ml",
+          "price": 45
+        },
+        {
+          "name": "2022Kopke, Porto 40 Y.O. Tawny Port, Portugal",
+          "weight": "75 ml",
+          "price": 89
+        },
+        {
+          "name": "NVKopke, Colheita Porto, Portugal",
+          "weight": "75 ml",
+          "price": 139
+        },
+        {
+          "name": "1966Madeira, Malmsey 20y.o., Blandy’s, Portugal",
+          "weight": "75 ml",
+          "price": 129
+        },
+        {
+          "name": "NVVery Old Rare Sherry 30y.o., Matusalem, Cream, Gonzalez Byass, Jerez, Spain",
+          "weight": "75 ml",
+          "price": 80
+        },
+        {
+          "name": "NVVin Santo del Chianti Classico, Isole e Olena, Tuscany, Italy",
+          "weight": "75 ml",
+          "price": 125
+        },
+        {
+          "name": "2008Hollokoi Mihaly, Tokaj Aszu 5 Puttonyos, Tokaj, Hungary",
+          "weight": "75 ml",
+          "price": 79
+        },
+        {
+          "name": "2008Chateau Doisy-Vedrines, 2eme Cru Classe, Bordeaux, Sauternes, France",
+          "weight": "75 ml",
+          "price": 87
+        },
+        {
+          "name": "2004Chateau d’Yquem, 1er Cru Superieur, Bordeaux, Sauternes, France",
+          "weight": "20 ml",
+          "price": 180
+        },
+        {
+          "name": "1996NON-ALCOHOLIC WINESDr. Lo, Alcohol free Riesling, Dr. Loosen, Mosel, Germany",
+          "weight": "125 ml",
+          "price": 32
+        },
+        {
+          "name": "NVDr. Lo, Alcohol free Sparkling Riesling, Dr. Loosen, Mosel, Germany",
+          "weight": "125 ml",
+          "price": 35
+        },
+        {
+          "name": "NVSPARKLING TEASparkling Tea Weiss, Wein & Sektkellerei Kloss, Mosel, Germany",
+          "weight": "200 ml",
+          "price": 41
+        },
+        {
+          "name": "NVSparkling Tea Rose, Wein & Sektkellerei Kloss, Mosel, Germany",
+          "weight": "20 ml",
+          "price": 41
+        },
+        {
+          "name": "NVCORAVIN SELECTIONWHITE WINESChablis, Les Lys 1er Cru, Daniel Etienne–Defaix, Burgundy, France",
+          "weight": "75 ml",
+          "price": 85
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 130
+        },
+        {
+          "name": "2014Condrieu, Domaine Verzier, Authentic Blanc, Rhone Valley, France",
+          "weight": "75 ml",
+          "price": 63
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 98
+        },
+        {
+          "name": "2022Meursault, Vieilles Vignes, Paul Garaudet, Burgundy, France",
+          "weight": "75 ml",
+          "price": 88
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 125
+        },
+        {
+          "name": "2022Vin Jaune, Domaine de Montbourgeau, Jura, France",
+          "weight": "75 ml",
+          "price": 95
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 159
+        },
+        {
+          "name": "2016Sauvignon Blanc, Alteni di Brassica, Gaja, Piedmont, Italy",
+          "weight": "75 ml",
+          "price": 155
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 245
+        },
+        {
+          "name": "2023RED WINESBrunello di Montalcino, Pieve Santa Restituta, Gaja, Tuscany, Italy",
+          "weight": "75 ml",
+          "price": 97
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 160
+        },
+        {
+          "name": "2020Amarone della Valpolicella Classico, Bertani, Veneto, Italy",
+          "weight": "75 ml",
+          "price": 115
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 175
+        },
+        {
+          "name": "2011Château Lynch Moussas, 5ème Grand Cru Classe, Pauillac, Bordeaux, France",
+          "weight": "75 ml",
+          "price": 135
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 220
+        },
+        {
+          "name": "2010Chateauneuf du Pape, Chateau de Beaucastel, Rhone Valley, France",
+          "weight": "75 ml",
+          "price": 145
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 235
+        },
+        {
+          "name": "2022Alion, Vega Sicilia, Ribera del Duero, Spain",
+          "weight": "75 ml",
+          "price": 99
+        },
+        {
+          "name": "|",
+          "weight": "125 ml",
+          "price": 165
+        },
+        {
+          "name": "2020MAGNUMSCHAMPAGNELaurent Perrier, La Cuvee, Brut",
+          "weight": "1500 ml",
+          "price": 1500
+        },
+        {
+          "name": "NVWHITE WINESChablis, Vaillon 1er Cru, Christian Moreau, Burgundy, France",
+          "weight": "1500 ml",
+          "price": 990
+        },
+        {
+          "name": "2023Gruner Veltliner, Smaragd, Kellerberg, Domaine Wachau, Wachau, Austria",
+          "weight": "1500 ml",
+          "price": 1300
+        },
+        {
+          "name": "2019RED WINESPinot Noir, GG, Steinbuckel, Philipp Kuhn, Pfalz, Germany",
+          "weight": "1500 ml",
+          "price": 970
+        },
+        {
+          "name": "2017Xinomavro, Hedgehog, Alpha Estate, Amynteo, Greece",
+          "weight": "1500 ml",
+          "price": 690
+        },
+        {
+          "name": "2020Amarone della Valpolicella, Zenato Winery, Veneto, Italy",
+          "weight": "1500 ml",
+          "price": 1100
+        },
+        {
+          "name": "2019Chianti Classico Riserva, Berardenga, Felsina, Tuscany, Italy",
+          "weight": "1500 ml",
+          "price": 950
+        },
+        {
+          "name": "2018Volpolo, Podere Sapaio, Bolgheri, Tuscany, Italy",
+          "weight": "1500 ml",
+          "price": 890
+        },
+        {
+          "name": "2021Abstract, Orin Swift Cellars, Napa Valley, California, USA",
+          "weight": "1500 ml",
+          "price": 900
+        },
+        {
+          "name": "2020JEROBOAMSRED WINESBrunello di Montalcino, Madonna delle Grazie, Il Marronetto, Tuscany, Italy",
+          "weight": "3000 ml",
+          "price": 11700
+        },
+        {
+          "name": "2018HALF BOTTLESCHAMPAGNE AND SPARKLING WINESFerrari, Brut, Trento, Italy",
+          "weight": "375 ml",
+          "price": 270
+        },
+        {
+          "name": "NVDumenil, Grande Reserve 1er Cru, Brut, Champagne, France",
+          "weight": "375 ml",
+          "price": 390
+        },
+        {
+          "name": "NVPaul Bara, Grand Cru Bouzy, Rose, Brut, Champagne, France",
+          "weight": "375 ml",
+          "price": 430
+        },
+        {
+          "name": "NVWHITE WINESChablis, Christian Moreau, Burgundy, France",
+          "weight": "375 ml",
+          "price": 250
+        },
+        {
+          "name": "2023Pouilly Fume, Les Racines, Domaine Cailbourdin, Loire Valley, France",
+          "weight": "375 ml",
+          "price": 200
+        },
+        {
+          "name": "2023RED WINESEmbruix de Vall Llach, Priorat, Spain",
+          "weight": "375 ml",
+          "price": 280
+        },
+        {
+          "name": "2022SWEET AND FORTIFIED WINES‘NOBLE ROT’ WINEWinnica Turnau, Szlachetny Zbiór, Zachodniopomorskie, Polandbottle",
+          "weight": "375 ml",
+          "price": 195
+        },
+        {
+          "name": "2023Gruner Veltliner Auslese, Schloss Gobelsburg, Kamptal, Austriabottle",
+          "weight": "375 ml",
+          "price": 230
+        },
+        {
+          "name": "2017Hollokoi Mihaly, Tokaj Aszu 5 Puttonyos, Tokaj, Hungarybottle",
+          "weight": "375 ml",
+          "price": 380
+        },
+        {
+          "name": "2008D. Blouin, Chenin Blanc, Coteaux du Layon, Loire Valley, Francebottle",
+          "weight": "375 ml",
+          "price": 240
+        },
+        {
+          "name": "2017Chateau Roumieu, Sauternes, Francebottle",
+          "weight": "375 ml",
+          "price": 190
+        },
+        {
+          "name": "2022Chateau Doisy-Vedrines, 2eme Cru Classe, Sauternes, Francebottle",
+          "weight": "375 ml",
+          "price": 850
+        },
+        {
+          "name": "2004Chateau d’Yquem, 1er Cru Superieur, Sauternes, Francebottle",
+          "weight": "375 ml",
+          "price": 3300
+        },
+        {
+          "name": "2015Chateau d’Yquem, 1er Cru Superieur, Sauternes, Francebottle",
+          "weight": "375 ml",
+          "price": 5000
+        },
+        {
+          "name": "1996‘LATE HARVEST’ WINEWinnica Majątek Drzewce, Solaris, Lubelskie, Polandbottle",
+          "weight": "375 ml",
+          "price": 230
+        },
+        {
+          "name": "2022Gewurztraminer, Grand Cru Spiegel Elément Air VT, Dirler-Cade, Alsace, Francebottle",
+          "weight": "375 ml",
+          "price": 530
+        },
+        {
+          "name": "2019ICE WINEIce wine, Rany Vineyard, Budahazy Fekete, Kuria, Hungarybottle",
+          "weight": "375 ml",
+          "price": 230
+        },
+        {
+          "name": "2018FORTIFIED WINEBurmester, Porto Colheita, Portugalbottle",
+          "weight": "375 ml",
+          "price": 490
+        },
+        {
+          "name": "2004Burmester, Porto Colheita, Portugalbottle",
+          "weight": "375 ml",
+          "price": 490
+        },
+        {
+          "name": "2008Kopke, Porto 40y.o. Tawny Port, Portugalbottle",
+          "weight": "375 ml",
+          "price": 790
+        },
+        {
+          "name": "NVKopke, Porto Colheita, Portugalbottle",
+          "weight": "375 ml",
+          "price": 1300
+        },
+        {
+          "name": "1966Madeira, Malmsey 20y.o., Blandy’s, Portugalbottle",
+          "weight": "375 ml",
+          "price": 1150
+        },
+        {
+          "name": "NVMoscatel de Setubal, Alambre, Jose Maria da Fonseca, Portugalbottle",
+          "weight": "375 ml",
+          "price": 130
+        },
+        {
+          "name": "2018Sherry, Palo Cortado 12yo, Leonor, Gonzalez Byass, Jerez, Spainbottle",
+          "weight": "375 ml",
+          "price": 270
+        },
+        {
+          "name": "NVVery Old Rare Sherry 30y.o., Matusalem, Cream, Gonzalez Byass, Jerez, Spainbottle",
+          "weight": "375 ml",
+          "price": 680
+        },
+        {
+          "name": "NVPedro Ximenez, Toro Albala, Montilla-Moriles, Spainbottle",
+          "weight": "375 ml",
+          "price": 2100
+        },
+        {
+          "name": "1965PASSITO WINERecioto della Valpolicella, Monte Zovo, Cottini, Veneto, Italybottle",
+          "weight": "375 ml",
+          "price": 230
+        },
+        {
+          "name": "2022Vin Santo del Chianti Classico, Isole e Olena, Tuscany, Italybottle",
+          "weight": "375 ml",
+          "price": 540
+        },
+        {
+          "name": "2008SWEET SPARKLING WINEMoscato d’Asti, Bricco Quaglia, La Spinetta, Piedmont, Italybottle",
+          "weight": "375 ml",
+          "price": 300
+        },
+        {
+          "name": "2024WHITE WINESPinot Blanc, Winnica Barczentewicz, Dobre, Lubelskie",
+          "weight": "750 ml",
+          "price": 300
+        },
+        {
+          "name": "2023Riesling, Winnica Barczentewicz, Dobre, Lubelskie",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2023Gewurztraminer, Winnica Barczentewicz, Dobre, Lubelskie",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2023Chardonnay Barrique, Winnica Barczentewicz, Dobre, Lubelskie",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2022Solaris, Winnica Turnau, Baniewice, Zachodniopomorskie",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2024Souvignier Gris, Winnica Dom Charbielin, Opolskie",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2023Sauvignon Blanc, Thoma 6, Winnice Czajkowski, Podkarpackie",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2021RED WINESMerlot, Thoma 26, Winnice Czajkowski, Podkarpackie",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2021Cabernet Franc, Thoma 27, Winnice Czajkowski, Podkarpackie",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2021Bläufrankisch, Winnica Barczentewicz, Dobre, Lubelskie",
+          "weight": "750 ml",
+          "price": 370
+        },
+        {
+          "name": "2022Pinot Noir Dobre Major, Winnica Barczentewicz, Dobre, Lubelskie",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2022ROSÉ WINESWinnica Turnau, Rose, Zachodniopomorskie",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2024Pinot Noir Rose, Winnica Barczentewicz, Dobre, Lubelskie",
+          "weight": "750 ml",
+          "price": 300
+        },
+        {
+          "name": "2023ORANGE WINESJohanniter Ultra, Dom Bliskowice, Malopolski Przelom Wisly",
+          "weight": "750 ml",
+          "price": 340
+        },
+        {
+          "name": "2023WHITE WINESLEBANONChateau Musar, Bekaa Valley",
+          "weight": "750 ml",
+          "price": 570
+        },
+        {
+          "name": "2018SOUTH AFRICAChenin Blanc, The Golden Slopes, A.A. Badenhorst, Swartland",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2022Chenin Blanc, Secateurs, A.A. Badenhorst, Swartland",
+          "weight": "750 ml",
+          "price": 280
+        },
+        {
+          "name": "2024ISRAELChardonnay Katzrin, Yarden, Golan Heights Winery, Galilee",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2022HUNGARYKekfrankos, Incognito, Lajver, Szekszard",
+          "weight": "750 ml",
+          "price": 220
+        },
+        {
+          "name": "2022Furmint, Szent Tamas, Balassa, Tokaj",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2021GREECESantorini Field Blend, Sigalas, Santorini",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2023RED WINESLEBANONChateau Musar, Bekaa Valley",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2012Chateau Musar, Bekaa Valley",
+          "weight": "750 ml",
+          "price": 520
+        },
+        {
+          "name": "2018Chateau Kefraya, Bekaa Valley",
+          "weight": "750 ml",
+          "price": 400
+        },
+        {
+          "name": "2018SOUTH AFRICACinsault, Ramnasgras, A.A. Badenhorst, Swartland",
+          "weight": "750 ml",
+          "price": 400
+        },
+        {
+          "name": "2021Kalmoesfontein Red Blend, A.A. Badenhorst, Swartland",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2020Pinotage, Delheim, Stellenbosch",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2023JAPANCabernet Franc, Domaine Nakajima, Nagano",
+          "weight": "750 ml",
+          "price": 650
+        },
+        {
+          "name": "2019ISRAELCabernet Sauvignon, Yarden, Golan Heights Winery, Galilee",
+          "weight": "750 ml",
+          "price": 440
+        },
+        {
+          "name": "2021PORTUGALRedoma Tinto Douro, Niepoort, Douro",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2021Lagar de Baixo, Niepoort, Bairrada",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2021GREECEAgiorgitiko, Nemea Winery, Nemea",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2022HUNGARYEgri Bikaver. Merengo, St. Andrea, Eger",
+          "weight": "750 ml",
+          "price": 380
+        },
+        {
+          "name": "2022Egri Bikaver, Big Band Gold, Petreny, Eger",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2016CHAMPAGNE GRANDES MARQUESBollinger, Special Cuvee, Brut",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "NVLe Mesnil, Blanc de Blancs, Le Mesnil sur Oger Grand Cru, Brut",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "NVCharles Heidsieck, Brut Reserve",
+          "weight": "750 ml",
+          "price": 640
+        },
+        {
+          "name": "NVFrerejean Freres, Blanc de Blancs 1er Cru, Brut",
+          "weight": "750 ml",
+          "price": 650
+        },
+        {
+          "name": "NVRuinart, Blanc de Blancs, Brut",
+          "weight": "750 ml",
+          "price": 810
+        },
+        {
+          "name": "NVPhilipponnat, Royal Reserve, Brut",
+          "weight": "750 ml",
+          "price": 620
+        },
+        {
+          "name": "NVKrug, Grande Cuvee 172eme Edition, Brut",
+          "weight": "750 ml",
+          "price": 2500
+        },
+        {
+          "name": "NVLaurent Perrier, Grand Siecle, Brut",
+          "weight": "750 ml",
+          "price": 1900
+        },
+        {
+          "name": "NVCHAMPAGNE GROWERSPierre Gerbais, Grains de Celles, Extra Brut",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "NVLaurent Lequart, Brut Reserve",
+          "weight": "750 ml",
+          "price": 490
+        },
+        {
+          "name": "NVRemy Massin, Tradition, Brut",
+          "weight": "750 ml",
+          "price": 510
+        },
+        {
+          "name": "NVPierre Mignon, Blanc de Noir, Brut",
+          "weight": "750 ml",
+          "price": 510
+        },
+        {
+          "name": "NVBenoit Lahaye, Grand Cru Bouzy, Brut Nature",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "NVJM. Seleque, Solessence, Extra Brut",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "NVBereche & Fils, Reserve, Brut",
+          "weight": "750 ml",
+          "price": 640
+        },
+        {
+          "name": "NVPierre Gimonnet, Cuis 1er Cru, Blanc de Blancs, Brut",
+          "weight": "750 ml",
+          "price": 630
+        },
+        {
+          "name": "NVPierre Gimonnet, Oger Grand Cru, Blanc de Blancs, Brut",
+          "weight": "750 ml",
+          "price": 700
+        },
+        {
+          "name": "NVBenoit Marguet, Yuman 20, Blanc de Blancs 1er Cru, Brut Nature",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "NVHenri Giraud, Esprit de Nature, Brut",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "NVHenri Giraud, MV18, Ay Grand Cru, Brut",
+          "weight": "750 ml",
+          "price": 1590
+        },
+        {
+          "name": "NVDhondt - Grellet, Dans Un Premier Temps, Assemblage 1er Cru, Extra Brut",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "NVDhondt - Grellet, Les Terres Fines, Blanc de Blancs 1er Cru, Extra Brut",
+          "weight": "750 ml",
+          "price": 750
+        },
+        {
+          "name": "NVDhondt - Grellet, Cramant, Grand Cru, Blanc de Blancs, Extra Brut",
+          "weight": "750 ml",
+          "price": 1000
+        },
+        {
+          "name": "NVVINTAGE CHAMPAGNESDumenil, Millesime, Premier Cru, Brut",
+          "weight": "750 ml",
+          "price": 850
+        },
+        {
+          "name": "2013Remy Massin, Pinot Noir, Special Club, Brut",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2013Remy Massin, Pinot Blanc, Special Club, Brut",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2015Domaine Lagille, Les Bergeres, Brut Nature",
+          "weight": "750 ml",
+          "price": 720
+        },
+        {
+          "name": "2020Champagne Clandestin, Boreal, Brut Nature",
+          "weight": "750 ml",
+          "price": 670
+        },
+        {
+          "name": "2020Les Freres Mignon, Cramant Grand Cru, Extra Brut",
+          "weight": "750 ml",
+          "price": 730
+        },
+        {
+          "name": "2017Charles Heidsieck, Blanc de Millenaires, Brut",
+          "weight": "750 ml",
+          "price": 1990
+        },
+        {
+          "name": "2007Le Mesnil, Prestige, Grand Cru, Brut Nature",
+          "weight": "750 ml",
+          "price": 1250
+        },
+        {
+          "name": "2008Philipponnat, Blanc de Noirs, Extra Brut",
+          "weight": "750 ml",
+          "price": 960
+        },
+        {
+          "name": "2019Gosset, Celebris, Brut",
+          "weight": "750 ml",
+          "price": 1800
+        },
+        {
+          "name": "2012Pol Roger, Sir Winston Churchill, Brut",
+          "weight": "750 ml",
+          "price": 1990
+        },
+        {
+          "name": "2018Bollinger, La Grande Annee, Brut",
+          "weight": "750 ml",
+          "price": 1510
+        },
+        {
+          "name": "2015Paul Bara, Annonciade, Brut",
+          "weight": "750 ml",
+          "price": 1900
+        },
+        {
+          "name": "2007Dom Perignon, Brut",
+          "weight": "750 ml",
+          "price": 2600
+        },
+        {
+          "name": "2012Dom Perignon, Brut",
+          "weight": "750 ml",
+          "price": 2300
+        },
+        {
+          "name": "2013Dom Perignon, Brut",
+          "weight": "750 ml",
+          "price": 2100
+        },
+        {
+          "name": "2015Louis Roederer, Cristal, Brut",
+          "weight": "750 ml",
+          "price": 2800
+        },
+        {
+          "name": "2015ROSE CHAMPAGNESPaul Bara, Grand Cru Bouzy, Rose, Brut",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "NVPol Cochet, Rose, Brut",
+          "weight": "750 ml",
+          "price": 580
+        },
+        {
+          "name": "NVLaurent Perrier, Rose, Brut",
+          "weight": "750 ml",
+          "price": 1050
+        },
+        {
+          "name": "NVRuinart, Rose, Brut",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "NVDom Perignon Rose, Brut",
+          "weight": "750 ml",
+          "price": 3200
+        },
+        {
+          "name": "2006Dom Perignon Rose, Brut",
+          "weight": "750 ml",
+          "price": 3500
+        },
+        {
+          "name": "2008WHITE WINESURUGUAYAlbarino Reserva, Bodega Garzon, Maldonado",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2024ARGENTINAChardonnay, Catena Alta, Bodega Catena Zapata, Mendoza",
+          "weight": "750 ml",
+          "price": 380
+        },
+        {
+          "name": "2021Semillon, Zaha, Bodega Teho, Uco Valley, Mendoza",
+          "weight": "750 ml",
+          "price": 360
+        },
+        {
+          "name": "2021RED WINESARGENTINAMalbec, Catena Alta, Bodega Catena Zapata, Mendoza",
+          "weight": "750 ml",
+          "price": 450
+        },
+        {
+          "name": "2021Gran Corte, Enzo Bianchi, San Rafael, Mendoza",
+          "weight": "750 ml",
+          "price": 850
+        },
+        {
+          "name": "2018CHILEClos Apalta, Casa Lapostolle, Colchagua Valley",
+          "weight": "750 ml",
+          "price": 1500
+        },
+        {
+          "name": "2021La Piu Belle, VIK, Colchagua Valley",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2021Cabernet Sauvignon, Casa Lapostolle, Colchagua Valley",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2021Carmenere, Cuvee Alexandre, Casa Lapostolle, DO Apalta",
+          "weight": "750 ml",
+          "price": 340
+        },
+        {
+          "name": "2023Carignan-Garnacha-Mataro, Garage Wine Co, Sauzal Vineyard, Maule Valley",
+          "weight": "750 ml",
+          "price": 360
+        },
+        {
+          "name": "2017URUGUAYTannat Reserva, Bodega Garzon, Maldonado",
+          "weight": "750 ml",
+          "price": 280
+        },
+        {
+          "name": "2023Tannat, Arretxea Gran Reserva, Bodega Pisano, Progreso",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2015SPARKLING WINESPOLANDClassique, Brut, Winnica Turnau, Zachodniopomorskie, Poland",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "NVFRANCECremant de Loire, Brut, Leduc Frouin, Loire Valley, France",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "NVCremant de Bourgogne, Brut, Prosper Mafoux, Burgundy, France",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "NVITALYCa del Bosco, Cuvee Prestige, 46 Edizione, Franciacorta, Brut, Lombardy, Italy",
+          "weight": "750 ml",
+          "price": 480
+        },
+        {
+          "name": "NVCa del Bosco, Cuvee Prestige, 47 Edizione, Franciacorta, Brut, Lombardy, Italy",
+          "weight": "750 ml",
+          "price": 480
+        },
+        {
+          "name": "NVFerrari, Brut, Trento, Italy",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "NVGiulio Ferrari Riserva del Fondatore, Extra-Brut, Trento, Italy",
+          "weight": "750 ml",
+          "price": 1250
+        },
+        {
+          "name": "2015SPAINCava Gran Reserva, Kripta, Brut Nature, Agusti Torello Mata, Catalonia, Spain",
+          "weight": "750 ml",
+          "price": 990
+        },
+        {
+          "name": "2013Cava Gran Reserva Rose, Alta Alella Laieta, Brut Nature, Catalonia, Spain",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2020Recaredo, Terrers, Brut Nature, Corpinnat, Penedes, Spain",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2020SOUTH AFRICAGraham Beck, MCC, Brut, Western Cape, South Africa",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "NVGraham Beck, MCC, Brut Rose, Western Cape, South Africa",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "NVGraham Beck, MCC, Vintage Collection, Ultra Brut, Western Cape, South Africa",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2017Graham Beck, MCC, Blanc de Blancs, Brut, Western Cape, South Africa",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2019AUSTRIASchloss Gobelsburg, Sekt Austria Reserve, Brut Reserve, Lower Austria, Austria",
+          "weight": "750 ml",
+          "price": 400
+        },
+        {
+          "name": "NVGERMANYCremant Rochus, Jonas Dostert, Obermosel, Germany",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2021WHITE WINESNEW ZEALANDChardonnay, Greywacke, Marlborough",
+          "weight": "750 ml",
+          "price": 410
+        },
+        {
+          "name": "2021Sauvignon Blanc, Wild Fermented, Greywacke, Marlborough",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2023AUSTRALIARiesling, Henschke, Peggy's Hill, Eden Valley",
+          "weight": "750 ml",
+          "price": 365
+        },
+        {
+          "name": "2023Roussanne, Jamsheed, Beechworth, Victoria",
+          "weight": "750 ml",
+          "price": 430
+        },
+        {
+          "name": "2021Lola, Spinifex, Barossa",
+          "weight": "750 ml",
+          "price": 360
+        },
+        {
+          "name": "2021RED WINESAUSTRALIAShiraz, Spinifex, Barossa",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2022Cabernet Sauvignon, Sexy Beast, Two Hands, McLaren Vale",
+          "weight": "750 ml",
+          "price": 310
+        },
+        {
+          "name": "2022Mount Edelstone, Henschke, Eden Valley",
+          "weight": "750 ml",
+          "price": 1700
+        },
+        {
+          "name": "2018Hill of Grace, Henschke, Eden Valley",
+          "weight": "750 ml",
+          "price": 4800
+        },
+        {
+          "name": "2018Grange Bin 95, Penfolds",
+          "weight": "750 ml",
+          "price": 3900
+        },
+        {
+          "name": "1987NEW ZEALANDPinot Noir, The Hermit Ram, North Canterbury",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2020Pinot Noir, Sugar Loaf, Marlborough",
+          "weight": "750 ml",
+          "price": 280
+        },
+        {
+          "name": "2018WHITE WINESFRANCE - BURGUNDYBourgogne Aligote, Antichtone, Benoit Ente",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "2022Bourgogne Chardonnay, Alain Chavy",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2022FRANCE - BURGUNDY - CHABLISChablis, Domaine Begue Mathiot",
+          "weight": "750 ml",
+          "price": 365
+        },
+        {
+          "name": "2023Chablis, 1er Cru Montmains, Joseph Drouhin",
+          "weight": "750 ml",
+          "price": 620
+        },
+        {
+          "name": "2023Chablis, 1er Cru Les Lys, Daniel Etienne - Defaix",
+          "weight": "750 ml",
+          "price": 620
+        },
+        {
+          "name": "2014Chablis Grand Cru, Bougros, Joseph Drouhin",
+          "weight": "750 ml",
+          "price": 1100
+        },
+        {
+          "name": "2018Chablis Grand Cru, Bougros, Julien Baillard",
+          "weight": "750 ml",
+          "price": 800
+        },
+        {
+          "name": "2019Chablis Grand Cru, Bougros, Patrick Piuze",
+          "weight": "750 ml",
+          "price": 720
+        },
+        {
+          "name": "2023Chablis Grand Cru, Château Grenouilles, La Chablisienne",
+          "weight": "750 ml",
+          "price": 800
+        },
+        {
+          "name": "2021Chablis Grand Cru, Les Clos, Christian Moreau",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2022Chablis Grand Cru, Les Clos, Joseph Drouhin",
+          "weight": "750 ml",
+          "price": 1100
+        },
+        {
+          "name": "2022FRANCE - BURGUNDY – COTE DE BEAUNECorton-Charlemagne Grand Cru, Olivier Leflaive",
+          "weight": "750 ml",
+          "price": 3000
+        },
+        {
+          "name": "2020Corton Grand Cru, Domaine Chandon de Brialles",
+          "weight": "750 ml",
+          "price": 1800
+        },
+        {
+          "name": "2018Savigny-Les-Beaune, 1er Cru Hauts Marconnets, Domaine Chanson",
+          "weight": "750 ml",
+          "price": 460
+        },
+        {
+          "name": "2023Meursault, 1er Cru Blagny, Antoine Jobard",
+          "weight": "750 ml",
+          "price": 1300
+        },
+        {
+          "name": "2019Meursault, Vieilles Vignes, Paul Garaudet",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2022Meursault, 1er Cru Charmes, Domaine Douhairet Porcheret",
+          "weight": "750 ml",
+          "price": 1300
+        },
+        {
+          "name": "2022Meursault, 1er Cru Sous le Dos d’Ane, Olivier Leflaive",
+          "weight": "750 ml",
+          "price": 1450
+        },
+        {
+          "name": "2023Saint-Aubin, Clos du Chateau, Prosper Maufoux",
+          "weight": "750 ml",
+          "price": 710
+        },
+        {
+          "name": "2019Saint-Aubin, 1er Cru Clos du Meix, Domaine Hubert Lamy",
+          "weight": "750 ml",
+          "price": 890
+        },
+        {
+          "name": "2021Saint-Aubin, 1er Cru Frionnes, Domaine Hubert Lamy",
+          "weight": "750 ml",
+          "price": 860
+        },
+        {
+          "name": "2021Saint-Aubin, 1er Cru En Remilly, Joseph Colin",
+          "weight": "750 ml",
+          "price": 660
+        },
+        {
+          "name": "2022Puligny-Montrachet, Domaine de la Choupette",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2021Puligny-Montrachet, Bachelet-Monnot",
+          "weight": "750 ml",
+          "price": 990
+        },
+        {
+          "name": "2022Puligny-Montrachet, Domaine Leflaive",
+          "weight": "750 ml",
+          "price": 1400
+        },
+        {
+          "name": "2022Puligny-Montrachet, 1er Cru Les Pucelles, Olivier Leflaive",
+          "weight": "750 ml",
+          "price": 1800
+        },
+        {
+          "name": "2017Puligny-Montrachet, 1er Cru Les Folatieres, Olivier Leflaive",
+          "weight": "750 ml",
+          "price": 2300
+        },
+        {
+          "name": "2018Puligny-Montrachet, 1er Cru Clavoillon, Domaine Leflaive",
+          "weight": "750 ml",
+          "price": 2500
+        },
+        {
+          "name": "2022Chassagne-Montrachet, 1er Cru Clos Saint Jean, Paul Pillot",
+          "weight": "750 ml",
+          "price": 1150
+        },
+        {
+          "name": "2022FRANCE – BURGUNDY – COTE CHALONNAISEMontagny 1er Cru, Olivier Leflaive",
+          "weight": "750 ml",
+          "price": 540
+        },
+        {
+          "name": "2022FRANCE – BURGUNDY - MACONNAISSaint-Veran, Jules Desjourneys",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2019Macon-Verze, Domaine Leflaive",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2020Pouilly-Fuisse, 1er Cru Sur La Roche, Domaine Leflaive",
+          "weight": "750 ml",
+          "price": 790
+        },
+        {
+          "name": "2021WHITE WINESUNITED STATES OF AMERICAChardonnay, St. Francis, Sonoma County, California",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2022Chardonnay, Matthiasson, Napa Valley, California",
+          "weight": "750 ml",
+          "price": 490
+        },
+        {
+          "name": "2021Chardonnay, Sixto, Charles Smith, Washington State",
+          "weight": "750 ml",
+          "price": 530
+        },
+        {
+          "name": "2017Chardonnay, Demuth Vineyard, Lioco Wines, Mendocino, California",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2016Chardonnay Soco, Lioco Wines, Sonoma County, California",
+          "weight": "750 ml",
+          "price": 400
+        },
+        {
+          "name": "2022Viognier, Cline Family Cellars, North Coast, California",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2023Sauvignon Blanc, Clos du Val, Napa Valley, California",
+          "weight": "750 ml",
+          "price": 500
+        },
+        {
+          "name": "2023RED WINESUNITED STATES OF AMERICACabernet Sauvignon, Substance, Charles Smith, Washington",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2021Cabernet Sauvignon, St. Francis, Sonoma County, California",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2020Old Vine Zinfandel, St. Francis, Sonoma County, California",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2021Old Vine Zinfandel, Cline Family Cellars, Lodi, California",
+          "weight": "750 ml",
+          "price": 280
+        },
+        {
+          "name": "2023Cabernet Sauvignon, Black Stallion, Napa Valley, California",
+          "weight": "750 ml",
+          "price": 530
+        },
+        {
+          "name": "2021Papillon, Orin Swift Cellars, Napa Valley, California",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2021Opus One, Mondavi & Rothschild, Oakville, Napa Valley, California",
+          "weight": "750 ml",
+          "price": 4200
+        },
+        {
+          "name": "2012Syrah, Cline Family Cellars, Los Carneros, California",
+          "weight": "750 ml",
+          "price": 400
+        },
+        {
+          "name": "2020Ridge, Monte Bello, Santa Cruz Mountains, California",
+          "weight": "750 ml",
+          "price": 2500
+        },
+        {
+          "name": "2019Pinot Noir, Calera, Ryan Vineyards, Mt. Harlan, California",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "2019Very Dark Red, Scheid Family, Monterey County, California",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2021Pinot Noir, Madam Pinot, Santa Lucia Highlands, California",
+          "weight": "750 ml",
+          "price": 2250
+        },
+        {
+          "name": "2015Pinot Noir, Matinee, Paul Lato, Santa Barbara, California",
+          "weight": "750 ml",
+          "price": 800
+        },
+        {
+          "name": "2020RED WINESFRANCE - BURGUNDYBourgogne Pinot Noir, Domaine Forey Pere & Fils",
+          "weight": "750 ml",
+          "price": 300
+        },
+        {
+          "name": "2023FRANCE – BURGUNDY – COTE DE NUITSHautes Cotes de Nuits, Les Dames Huguette, Guy Simon & Fils",
+          "weight": "750 ml",
+          "price": 330
+        },
+        {
+          "name": "2021Gevrey-Chambertin, Joseph Drouhin",
+          "weight": "750 ml",
+          "price": 930
+        },
+        {
+          "name": "2020Gevrey–Chambertin, Garaudet Pere & Fils",
+          "weight": "750 ml",
+          "price": 760
+        },
+        {
+          "name": "2020Gevrey–Chambertin, Vieilles Vignes, Domaine Heresztyn – Mazzini",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2021Gevrey-Chambertin, Lavaux Saint Jacques 1er Cru, Armand Rousseau",
+          "weight": "750 ml",
+          "price": 4400
+        },
+        {
+          "name": "2014Charmes-Chambertin Grand Cru, Domaine Hubert Lignier",
+          "weight": "750 ml",
+          "price": 1900
+        },
+        {
+          "name": "2014Charmes-Chambertin Grand Cru, Armand Rousseau",
+          "weight": "750 ml",
+          "price": 4900
+        },
+        {
+          "name": "2000Chambertin Grand Cru, Domaine Tortochot",
+          "weight": "750 ml",
+          "price": 2600
+        },
+        {
+          "name": "2004Mazoyeres-Chambertin Grand Cru, Vielles Vignes, Perrot Minot",
+          "weight": "750 ml",
+          "price": 3900
+        },
+        {
+          "name": "1999Morey-Saint-Denis, Domaine Forey Pere & Fils",
+          "weight": "750 ml",
+          "price": 460
+        },
+        {
+          "name": "2022Morey-Saint-Denis, 1er Cru Cuvee Renaissance, D. Tortochot",
+          "weight": "750 ml",
+          "price": 1250
+        },
+        {
+          "name": "2014Clos de La Roche Grand Cru, Armand Rousseau",
+          "weight": "750 ml",
+          "price": 4400
+        },
+        {
+          "name": "2012Chambolle-Musigny, Les Baudes 1er Cru, Domaine Hubert Lignier",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2013Chambolle-Musigny, Les Feusselottes 1er Cru, Meo-Camuzet",
+          "weight": "750 ml",
+          "price": 1300
+        },
+        {
+          "name": "2019Chambolle-Musigny 1er Cru, Joseph Drouhin",
+          "weight": "750 ml",
+          "price": 1500
+        },
+        {
+          "name": "2018Clos de Vougeot Grand Cru, Henri de Villamont",
+          "weight": "750 ml",
+          "price": 1950
+        },
+        {
+          "name": "2012Clos de Vougeot Grand Cru, Le Grand Maupertui, D. Anne Gros",
+          "weight": "750 ml",
+          "price": 2400
+        },
+        {
+          "name": "2017Vosne-Romanee, Domaine Forey Pere & Fils",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2023Echezeaux Grand Cru, Nicole Lamarche",
+          "weight": "750 ml",
+          "price": 1550
+        },
+        {
+          "name": "2022Romanee Saint-Vivant Grand Cru, Domaine De La Romanee-Conti",
+          "weight": "750 ml",
+          "price": 17500
+        },
+        {
+          "name": "2014Romanee Saint-Vivant Grand Cru, Domaine De La Romanee-Conti",
+          "weight": "750 ml",
+          "price": 17500
+        },
+        {
+          "name": "2016Richebourg Grand Cru, Domaine De La Romanee-Conti",
+          "weight": "750 ml",
+          "price": 18000
+        },
+        {
+          "name": "2021La Tache Grand Cru, Domaine De La Romanee-Conti",
+          "weight": "750 ml",
+          "price": 22000
+        },
+        {
+          "name": "2021Nuits-Saint-Georges, Joseph Drouhin",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2023Nuits-Saint-Georges, Les Perrieres 1er Cru, Garaudet Pere & Fils",
+          "weight": "750 ml",
+          "price": 750
+        },
+        {
+          "name": "2018FRANCE – BURGUNDY – COTE DE BEAUNECorton Grand Cru, Clos du Roi, Olivier Leflaive",
+          "weight": "750 ml",
+          "price": 1650
+        },
+        {
+          "name": "2022Pommard, Domaine Douhairet Porcheret",
+          "weight": "750 ml",
+          "price": 650
+        },
+        {
+          "name": "2021Pommard, Fanny Sabre",
+          "weight": "750 ml",
+          "price": 750
+        },
+        {
+          "name": "2021Volnay, Fanny Sabre",
+          "weight": "750 ml",
+          "price": 700
+        },
+        {
+          "name": "2021Volnay 1er Cru, Les Roncerets, Domaine Paul Garaudet",
+          "weight": "750 ml",
+          "price": 790
+        },
+        {
+          "name": "2016Monthelie 1er Cru, Les Duresses, Domaine Paul Garaudet",
+          "weight": "750 ml",
+          "price": 460
+        },
+        {
+          "name": "2018Chassagne-Montrachet, Vieilles Vignes, Paul Pillot",
+          "weight": "750 ml",
+          "price": 620
+        },
+        {
+          "name": "2022Santenay, 1er Cru La Comme, Maison Louis Latour",
+          "weight": "750 ml",
+          "price": 450
+        },
+        {
+          "name": "2022Santenay, Prosper Mafoux, Domaine de Ruere",
+          "weight": "750 ml",
+          "price": 410
+        },
+        {
+          "name": "2021Maranges, 1er Cru Clos de la Boutiere, Bachelet-Monnot",
+          "weight": "750 ml",
+          "price": 500
+        },
+        {
+          "name": "2022FRANCE – BURGUNDY – BEAUJOLAISChenas, Le Jugement Dernier, Jules Desjourneys",
+          "weight": "750 ml",
+          "price": 570
+        },
+        {
+          "name": "2015Moulin-a-Vent, Jules Desjourneys",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "2012WHITE WINESAUSTRIAGruner Veltliner, Smaragd, Durnsteiner Kellerberg, FX Pichler, Wachau",
+          "weight": "750 ml",
+          "price": 1350
+        },
+        {
+          "name": "1998Sauvignon Blanc, Kalk & Kreide, Tement, Styria",
+          "weight": "750 ml",
+          "price": 430
+        },
+        {
+          "name": "2024Morillon, Ried Kapellenweingarten, Sattlerhof, Styria",
+          "weight": "750 ml",
+          "price": 450
+        },
+        {
+          "name": "2021Gruner Veltliner, Ried Supperin, Pichler-Krutzler, Wachau",
+          "weight": "750 ml",
+          "price": 480
+        },
+        {
+          "name": "2017Gruner Veltliner, Ried Steinsetz, Schloss Gobelsburg, Kamptal",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2024Riesling, Ried Loibenberg, Pichler-Krutzler, Wachau",
+          "weight": "750 ml",
+          "price": 600
+        },
+        {
+          "name": "2017Riesling, Ried Steinmassl, Weingut Brundlmayer, Kamptal",
+          "weight": "750 ml",
+          "price": 430
+        },
+        {
+          "name": "2023RED WINESAUSTRIAPinot Noir Reserve, Schloss Gobelsburg, Kamptal",
+          "weight": "750 ml",
+          "price": 440
+        },
+        {
+          "name": "2021Pinot Noir, Stift Gottweig, Kremstal",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2022Blauburgunder, Alte Reben, Sattlerhof, Styria",
+          "weight": "750 ml",
+          "price": 520
+        },
+        {
+          "name": "2021Pittnauer, Pitti, Burgenland",
+          "weight": "750 ml",
+          "price": 200
+        },
+        {
+          "name": "2023Umathum, Cuvee Haideboden, Burgenland",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2020WHITE WINESFRANCE – BORDEAUXChateau le Bruilleau, Pessac-Leognan",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2022Chateau Latour Martillac Blanc, Pessac-Leognan",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2015RED WINESFRANCE – BORDEAUX – SAINT-ESTEPHEChâteau Cos d’Estournel, 2ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 3500
+        },
+        {
+          "name": "2009Chateau Calon Segur, 3ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 1300
+        },
+        {
+          "name": "2014Château Lafon-Rochet, 4ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "1996Château Cos Labory, 5ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 580
+        },
+        {
+          "name": "2019Marquis de Calon, 2nd wine of Château Calon-Segur",
+          "weight": "750 ml",
+          "price": 850
+        },
+        {
+          "name": "2006Château Le Boscq, Cru Bourgeois Exceptionnels",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2016FRANCE – BORDEAUX - PAUILLACChâteau Latour, 1er Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 6000
+        },
+        {
+          "name": "2004Château Latour, 1er Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 6900
+        },
+        {
+          "name": "2016Château Lafite-Rothschild, 1er Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 6500
+        },
+        {
+          "name": "2001Château Mouton-Rothschild, 1er Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 7500
+        },
+        {
+          "name": "2015Château Croizet Bages, 5ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2019Château Lynch Moussas, 5ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2010Château Pontet-Canet, 5ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 1500
+        },
+        {
+          "name": "2014Chateau Pedesclaux, 5ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 540
+        },
+        {
+          "name": "2019Le Pauillac de Château Latour, 3rd wine of Château Latour",
+          "weight": "750 ml",
+          "price": 980
+        },
+        {
+          "name": "2018Le Pauillac de Château Latour, 3rd wine of Château Latour",
+          "weight": "750 ml",
+          "price": 950
+        },
+        {
+          "name": "2019Le Pauillac de Château Latour, 3rd wine of Château Latour",
+          "weight": "750 ml",
+          "price": 950
+        },
+        {
+          "name": "2020Les Forts de Latour, 2nd wine of Château Latour",
+          "weight": "750 ml",
+          "price": 1800
+        },
+        {
+          "name": "2019FRANCE – BORDEAUX - POMEROLChâteau Clinet",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2017Château Franc-Maillet",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2020Clos L’Eglise",
+          "weight": "750 ml",
+          "price": 1300
+        },
+        {
+          "name": "2011Chateau Petrus",
+          "weight": "750 ml",
+          "price": 43900
+        },
+        {
+          "name": "2018FRANCE – BORDEAUX – SAINT-JULIENChâteau Ducru Beaucaillou, 2ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 2950
+        },
+        {
+          "name": "2015Château Leoville-Las Cases, 2ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 6900
+        },
+        {
+          "name": "1986Château Leoville-Las Cases, 2ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 2100
+        },
+        {
+          "name": "2011Château Langoa Barton, 3ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 850
+        },
+        {
+          "name": "2016Château Lagrange, 3ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 1100
+        },
+        {
+          "name": "2019Les Fiefs de Lagrange, 2nd wine of Château Lagrange",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2018Château Gloria",
+          "weight": "750 ml",
+          "price": 650
+        },
+        {
+          "name": "2017FRANCE – BORDEAUX - GRAVESChâteau Haut-Brion, 1er Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 5500
+        },
+        {
+          "name": "2007Château Haut-Brion, 1er Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 5800
+        },
+        {
+          "name": "2015Domaine de Chevalier, Pessac-Léognan, Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 1450
+        },
+        {
+          "name": "2008Château Villa Bel-Air",
+          "weight": "750 ml",
+          "price": 450
+        },
+        {
+          "name": "2020FRANCE – BORDEAUX – HAUT-MEDOCChâteau Belgrave, 5ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 690
+        }
+      ]
+    },
+    {
+      "name": "Wine — Red",
+      "items": [
+        {
+          "name": "FRANCE – BORDEAUX – SAINT-EMILIONChâteau Cheval Blanc, 1er Grand Cru Classe A",
+          "weight": "750 ml",
+          "price": 6500
+        },
+        {
+          "name": "2012Château Beau-Sejour Becot, 1er Grand Cru Classe B",
+          "weight": "750 ml",
+          "price": 1100
+        },
+        {
+          "name": "2018Château Figeac, 1er Grand Cru Classe B",
+          "weight": "750 ml",
+          "price": 3000
+        },
+        {
+          "name": "2011Château La Grangere, Saint-Emilion Grand Cru",
+          "weight": "750 ml",
+          "price": 400
+        },
+        {
+          "name": "2020Charles de Sarpe, 2nd wine of Château Clos de Sarpe",
+          "weight": "750 ml",
+          "price": 870
+        },
+        {
+          "name": "2010Petit Figeac, 2nd wine of Château Figeac",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2021Clarendelle by Haut Brion",
+          "weight": "750 ml",
+          "price": 395
+        },
+        {
+          "name": "2021FRANCE – BORDEAUX - MARGAUXChâteau Marquis d’Alesme Becker, 3ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 1050
+        },
+        {
+          "name": "2016Château Kirwan, 3ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 950
+        },
+        {
+          "name": "2016Château Kirwan, 3ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 850
+        },
+        {
+          "name": "2020Chateau d’Issan, 3ème Grand Cru Classe",
+          "weight": "750 ml",
+          "price": 920
+        },
+        {
+          "name": "2019Alter Ego, 2nd wine of Château Palmer",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2019WHITE WINESGERMANYRiesling, Haus Klosterberg, Markus Molitor, Mosel",
+          "weight": "750 ml",
+          "price": 240
+        },
+        {
+          "name": "2023Riesling, Kabinett, Erdener Treppchen, Dr Loosen, Mosel",
+          "weight": "750 ml",
+          "price": 250
+        },
+        {
+          "name": "2023Riesling, Grosse Gewachs, Greiffenberg, Schloss Vollrads, Rheingau",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2018Riesling, Grosse Gewachs, Schlossberg, Schloss Vollrads, Rheingau",
+          "weight": "750 ml",
+          "price": 510
+        },
+        {
+          "name": "2020Riesling, Grosse Gewachs, Schlossberg, Schloss Vollrads, Rheingau",
+          "weight": "750 ml",
+          "price": 510
+        },
+        {
+          "name": "2021Riesling Reserve, Dr. Bürklin-Wolf Wachenheimer, Pfalz",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2020Grauer Burgunder, Vom Loss, Philipp Kuhn, Pfalz",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2023Chardonnay Reserve, Kapellenberg Erste Lage, Philipp Kuhn, Pfalz",
+          "weight": "750 ml",
+          "price": 470
+        },
+        {
+          "name": "2023Grauer Burgunder, Vom Loss, Franz Keller, Baden",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2022Elbling, Alte Reben, Jonas Dostert, Obermosel",
+          "weight": "750 ml",
+          "price": 300
+        },
+        {
+          "name": "2023RED WINESGERMANYPinot Noir, Kirschgarden, Grosse Gewachs, Philipp Kuhn, Pfalz",
+          "weight": "750 ml",
+          "price": 580
+        },
+        {
+          "name": "2022Pinot Noir, Tradition, Weingut Pflüger, Pfalz",
+          "weight": "750 ml",
+          "price": 330
+        },
+        {
+          "name": "2023Pinot Noir, Herrenberg, Weingut Pflüger, Pfalz",
+          "weight": "750 ml",
+          "price": 470
+        },
+        {
+          "name": "2021Spatburgunder “S”, Meyer-Nakel, Ahr",
+          "weight": "750 ml",
+          "price": 680
+        },
+        {
+          "name": "2001WHITE WINESFRANCE – LOIRE VALLEYSancerre, Les Baronnes, Henri Bourgeois",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2024Sancerre, Roger & Didier Raimbault",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2024Menetou-Salon, Cuvee Les Bornes, Domaine Pelle",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2022Pouilly Fume, Triptyque, Domaine Cailbourdin",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "2020Pouilly Fume, Corty, La Loge Aux Moines, Monopole, Patrice Moreux",
+          "weight": "750 ml",
+          "price": 430
+        },
+        {
+          "name": "2022Savennieres, Domaine Des Deux Vallees",
+          "weight": "750 ml",
+          "price": 330
+        },
+        {
+          "name": "2023Romorantin, Jardin du Poira, Les Jardins de Theseiis (VdF)",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2021Clos de la Coulee de Serrant, Nicolas Joly",
+          "weight": "750 ml",
+          "price": 950
+        },
+        {
+          "name": "2021Clos de le Bergerie, Savennieres-Roche Aux Moines, Nicolas Joly",
+          "weight": "750 ml",
+          "price": 620
+        },
+        {
+          "name": "2020Les Vieux Clos, Savennieres, Nicolas Joly",
+          "weight": "750 ml",
+          "price": 660
+        },
+        {
+          "name": "2015XXI, Domaine Didier Dagueneau, (VdF)",
+          "weight": "750 ml",
+          "price": 1400
+        },
+        {
+          "name": "2021Pur Sang, Domaine Didier Dagueneau, (VdF)",
+          "weight": "750 ml",
+          "price": 1300
+        },
+        {
+          "name": "2020Silex, Domaine Didier Dagueneau, (VdF)",
+          "weight": "750 ml",
+          "price": 1600
+        },
+        {
+          "name": "2022RED WINESFRANCE – LOIRE VALLEYChinon, Couily-Dutheil, Domaine Rene Couily",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2018Saumur-Champigny, Terres Chaudes, Domaine des Roches Neuves",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2022WHITE WINESSPAINAlbarino, Albamar, Bodega Albamar, Rias Baixas",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2024Anadas Frias, Bodegas y Vinedos Pujanza, Rioja",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2019Anadas Frias, Bodegas y Vinedos Pujanza, Rioja",
+          "weight": "750 ml",
+          "price": 630
+        },
+        {
+          "name": "2023S. J. Anteportalatina, Bodegas y Vinedos Pujanza, Rioja",
+          "weight": "750 ml",
+          "price": 580
+        },
+        {
+          "name": "2020Altos Pigeage Blanco, Altos de Rioja, Rioja",
+          "weight": "750 ml",
+          "price": 280
+        },
+        {
+          "name": "2022Muga Blanco, Bodegas Muga, Rioja",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2024Dido Blanc, Venus La Universal, Montsant",
+          "weight": "750 ml",
+          "price": 300
+        },
+        {
+          "name": "2021RED WINESSPAIN – RIOJALa Rioja Alta, 904, Gran Reserva",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2015Bodegas Muga, Prado Enea, Gran Reserva",
+          "weight": "750 ml",
+          "price": 790
+        },
+        {
+          "name": "2016Marques de Riscal, Gran Reserva",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "2019R. Lopez de Heredia, Vina Tondonia, Reserva",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2012SPAIN - PRIORATL’Ermita, Velles Vinyes, Alvaro Palacios",
+          "weight": "750 ml",
+          "price": 4300
+        },
+        {
+          "name": "1994Clos Martinet, Mas Martinet",
+          "weight": "750 ml",
+          "price": 590
+        },
+        {
+          "name": "2021Martinet Bru, Mas Martinet",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2022Vall Llach, Mas de la Rosa, Porrera",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2017Embruix de Vall Llach",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2022SPAIN - MONTSANTVenus de la Figuera, Venus La Universal",
+          "weight": "750 ml",
+          "price": 490
+        },
+        {
+          "name": "2019SPAIN – RIBERA DEL DUERODominio de Pingus",
+          "weight": "750 ml",
+          "price": 7300
+        },
+        {
+          "name": "2015PSI, Dominio de Pingus",
+          "weight": "750 ml",
+          "price": 430
+        },
+        {
+          "name": "2022Unico, Vega Sicilia",
+          "weight": "750 ml",
+          "price": 3900
+        },
+        {
+          "name": "2011Alion, Vega Sicilia",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2020Bodega Matarromera, Gran Reserva",
+          "weight": "750 ml",
+          "price": 900
+        },
+        {
+          "name": "2016Bodega Matarromera, Reserva",
+          "weight": "750 ml",
+          "price": 500
+        },
+        {
+          "name": "2020Tinto Pesquera, Reserva",
+          "weight": "750 ml",
+          "price": 470
+        },
+        {
+          "name": "2020Tinto Pesquera, Crianza",
+          "weight": "750 ml",
+          "price": 300
+        },
+        {
+          "name": "2022Emilio Moro, Malleolus de Sanchomartin",
+          "weight": "750 ml",
+          "price": 1350
+        },
+        {
+          "name": "2011Emilio Moro, Malleolus de Valderramiro",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2014WHITE WINESFRANCE - ALSACEGewurztraminer, Classic, Hugel",
+          "weight": "750 ml",
+          "price": 330
+        },
+        {
+          "name": "2023Pinot Gris, Turckheim, Domaine Zind-Humbrecht",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2023Riesling, Kastelberg Grand Cru, Domaine Wach",
+          "weight": "750 ml",
+          "price": 420
+        },
+        {
+          "name": "2020FRANCE – JURASavagnin, Les Molates, Domaine des Marnes Blanches",
+          "weight": "750 ml",
+          "price": 400
+        },
+        {
+          "name": "2022Chardonnay&Savagnin, l’Etoile, Domaine de Montbourgeau",
+          "weight": "750 ml",
+          "price": 390
+        },
+        {
+          "name": "2019Vin Jaune, Domaine de Montbourgeau",
+          "weight": "620 ml",
+          "price": 690
+        },
+        {
+          "name": "2016FRANCE – RHONE VALLEYCondrieu, Domaine Verzier, Authentic Blanc",
+          "weight": "750 ml",
+          "price": 490
+        },
+        {
+          "name": "2022Saint Joseph, Blanc, Domaine Pascal Marthouret",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2023Hermitage, Chante Alouette, M. Chapoutier",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2020FRANCE – LANGUEDOC - ROUSSILLONPicpoul de Pinet, Patience l’O, Domaine de Petit Roubie",
+          "weight": "750 ml",
+          "price": 280
+        },
+        {
+          "name": "2022FRANCE – PROVENCEVermentino, Les Genets, Chateau Roquefort",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2020ROSÉ WINESFRANCJAWhispering Angel, Chateau d’Esclans, Rose, Cotes de Provence",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2024RED WINESITALY - TUSCANYRosso di Montalcino, Biondi Santi, Tenuta Greppo",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2021Chianti Classico, Berardenga, Felsina",
+          "weight": "750 ml",
+          "price": 290
+        },
+        {
+          "name": "2022Chianti Classico Riserva, Brancaia",
+          "weight": "750 ml",
+          "price": 450
+        },
+        {
+          "name": "2021Brunello di Montalcino, Pieve Santa Restituta, Gaja",
+          "weight": "750 ml",
+          "price": 890
+        },
+        {
+          "name": "2019Brunello di Montalcino, Madonna delle Grazie, Il Marronetto",
+          "weight": "750 ml",
+          "price": 2590
+        },
+        {
+          "name": "2018Brunello di Montalcino, Biondi Santi, Tenuta Greppo",
+          "weight": "750 ml",
+          "price": 2200
+        },
+        {
+          "name": "2018Brunello di Montalcino, Biondi Santi, Tenuta Greppo",
+          "weight": "750 ml",
+          "price": 2200
+        },
+        {
+          "name": "2016Brunello di Montalcino, Casanova di Neri, Tenuta Nuova",
+          "weight": "750 ml",
+          "price": 1600
+        },
+        {
+          "name": "2013ITALY – SUPER TUSCANSSassicaia, Tenuta San Guido, Bolgheri- Sassicaia",
+          "weight": "750 ml",
+          "price": 3900
+        },
+        {
+          "name": "2016Tassinaia, Castello del Terriccio, Maremma",
+          "weight": "750 ml",
+          "price": 410
+        },
+        {
+          "name": "2020Ca'Marcanda, Promis, Gaja, Bolgheri",
+          "weight": "750 ml",
+          "price": 600
+        },
+        {
+          "name": "2023Ca'Marcanda, Magari, Gaja, Bolgheri",
+          "weight": "750 ml",
+          "price": 990
+        },
+        {
+          "name": "2020Ca'Marcanda, Magari, Gaja, Bolgheri",
+          "weight": "750 ml",
+          "price": 990
+        },
+        {
+          "name": "2021Ca'Marcanda, Gaja, Bolgheri",
+          "weight": "750 ml",
+          "price": 1990
+        },
+        {
+          "name": "2020Cepparello, Isole e Olena",
+          "weight": "750 ml",
+          "price": 1350
+        },
+        {
+          "name": "2020Tignanello, Antinori",
+          "weight": "750 ml",
+          "price": 2150
+        },
+        {
+          "name": "2007Tignanello, Antinori",
+          "weight": "750 ml",
+          "price": 2550
+        },
+        {
+          "name": "2019ITALY - PUGLIACastel del Monte Nero di Troia Riserva, Ottagono, Torrevento",
+          "weight": "750 ml",
+          "price": 340
+        },
+        {
+          "name": "2015Primitivo di Manduria, Il Bacca, Luccarelli",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2021ITALY - BASILICATAPiano del Cerro, Aglianico del Vulture, Vigneti del Vulture",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2020ITALY - SICILIANero d’Avola – Nerello Mascalese, Due Lune, Cantine Cellaro",
+          "weight": "750 ml",
+          "price": 350
+        },
+        {
+          "name": "2020ITALY - SARDEGNACannonau di Sardegna Riserva, Senes, Argiolas",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2021ITALY - PIEDMONTBarbera d'Asti, Desideria, Guasti Clemente",
+          "weight": "750 ml",
+          "price": 220
+        },
+        {
+          "name": "2024Dolcetto di Diano d’Alba, Sori Costa Fiore, Alario Claudio",
+          "weight": "750 ml",
+          "price": 230
+        },
+        {
+          "name": "2023Nebbiolo, Langhe, Ciabot Russ, Mario Gagliasso",
+          "weight": "750 ml",
+          "price": 250
+        },
+        {
+          "name": "2023Sito Moresco, Gaja",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2023ITALY – PIEDMONT - BAROLOBarolo, Gramolere, Fratelli Alessandria",
+          "weight": "750 ml",
+          "price": 990
+        },
+        {
+          "name": "2019Barolo, Monvigliero, Fratelli Alessandria",
+          "weight": "750 ml",
+          "price": 1250
+        },
+        {
+          "name": "2017Barolo, Rocche dei Manzoni",
+          "weight": "750 ml",
+          "price": 650
+        },
+        {
+          "name": "2021Barolo, Dagromis, Gaja",
+          "weight": "750 ml",
+          "price": 1200
+        },
+        {
+          "name": "2019Barolo Riserva, Roberto Sarotto",
+          "weight": "750 ml",
+          "price": 570
+        },
+        {
+          "name": "2016Barolo Riserva, Guasti Clemente",
+          "weight": "750 ml",
+          "price": 1700
+        },
+        {
+          "name": "1989ITALY – PIEDMONT - BARBARESCOBarbaresco Riserva, Roberto Sarotto",
+          "weight": "750 ml",
+          "price": 450
+        },
+        {
+          "name": "2019Barbaresco, Gaja",
+          "weight": "750 ml",
+          "price": 2200
+        },
+        {
+          "name": "1986Barbaresco, Gaja",
+          "weight": "750 ml",
+          "price": 2400
+        },
+        {
+          "name": "2020ITALY - VENETOValpolicella Ripasso Superiore, Zenato",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2021Amarone della Valpolicella Classico, Bertani",
+          "weight": "750 ml",
+          "price": 990
+        },
+        {
+          "name": "2011ITALY – FRIULI VENEZIA GIULIAPinot Nero, Bressan",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2020Schioppettino, Bressan",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "2018ITALY – ABRUZZOMontepulciano d’Abruzzo, Emidio Pepe",
+          "weight": "750 ml",
+          "price": 940
+        },
+        {
+          "name": "2021RED WINESFRANCE – RHONE VALLEYCote Rotie, La Giroflarie, Patrick Jasmin",
+          "weight": "750 ml",
+          "price": 550
+        },
+        {
+          "name": "n2022Hermitage, L’Ermite, M. Chapoutier",
+          "weight": "750 ml",
+          "price": 2500
+        },
+        {
+          "name": "2006Hermitage, Monier de la Sizeranne, M. Chapoutier",
+          "weight": "750 ml",
+          "price": 790
+        },
+        {
+          "name": "2018Crozes Hermitage, Domaine de Thalabert, Paul Jaboulet Aine",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2015Cornas, Les Arenes, M. Chapoutier",
+          "weight": "750 ml",
+          "price": 490
+        },
+        {
+          "name": "2020Saxeolum, Les Vignobles de Seyssuel, Domaine Cheze",
+          "weight": "750 ml",
+          "price": 460
+        },
+        {
+          "name": "2020Gigondas, Cuvee de Beauchamp, Chateau de Montmirail",
+          "weight": "750 ml",
+          "price": 330
+        },
+        {
+          "name": "2021Chateauneuf du Pape, Chateau de Beaucastel",
+          "weight": "750 ml",
+          "price": 1300
+        },
+        {
+          "name": "2022Chateauneuf du Pape, Saintes Pierre’s de Nalys, E. Guigal",
+          "weight": "750 ml",
+          "price": 650
+        },
+        {
+          "name": "2017Chateauneuf du Pape, Clos de l’Oratoire des Papes, Ogier",
+          "weight": "750 ml",
+          "price": 770
+        },
+        {
+          "name": "2021FRANCE – LANGUEDOC - ROUSSILLONAlto Stratus, Minervois, Abbotts & Delaunay",
+          "weight": "750 ml",
+          "price": 280
+        },
+        {
+          "name": "2015Cumulo Nimbus, Minervois, Abbotts & Delaunay",
+          "weight": "750 ml",
+          "price": 330
+        },
+        {
+          "name": "2023FRANCE – JURARuzard Trousseau, Cuvee des Geologues, Arbois, Lucien Aviet & Fils",
+          "weight": "750 ml",
+          "price": 470
+        },
+        {
+          "name": "2021WHITE WINESITALYLanghe Bianco, La Spinetta, Piedmont",
+          "weight": "750 ml",
+          "price": 570
+        },
+        {
+          "name": "2022Chardonnay, Manzoni L'Angelica, Piedmont",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2020Rossj - Bass, Gaja, Piedmont",
+          "weight": "750 ml",
+          "price": 730
+        },
+        {
+          "name": "2023Sauvignon Blanc, Alteni di Brassica, Gaja, Piedmont",
+          "weight": "750 ml",
+          "price": 1350
+        },
+        {
+          "name": "2023Gaia & Rey, Gaja, Piedmont",
+          "weight": "750 ml",
+          "price": 1900
+        },
+        {
+          "name": "2021Timorasso, Piccolo Derthona, Vigneti Massa, Colli Tortonesi, Piedmont",
+          "weight": "750 ml",
+          "price": 270
+        },
+        {
+          "name": "2024Roero Arneis, Giacomo Fenocchio, Piedmont",
+          "weight": "750 ml",
+          "price": 300
+        },
+        {
+          "name": "2023Pinot Grigio, Alois Lageder, Sud Tyrol",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2024Chardonnay, Alois Lageder, Sud Tyrol",
+          "weight": "750 ml",
+          "price": 320
+        },
+        {
+          "name": "2024Gewurztraminer, Alois Lageder, Sud Tyrol",
+          "weight": "750 ml",
+          "price": 360
+        },
+        {
+          "name": "2024Chardonnay, Lowegang, Alois Lageder, Sud Tyrol",
+          "weight": "750 ml",
+          "price": 690
+        },
+        {
+          "name": "2021Kerner, Aristos, Cantina Valle Isarco, Alto Adige",
+          "weight": "750 ml",
+          "price": 345
+        },
+        {
+          "name": "2022Vermentino, Aia Vecchia, Tuscany",
+          "weight": "750 ml",
+          "price": 260
+        },
+        {
+          "name": "2024Chardonnay, Punta di Colle, Marramiero, Abruzzo",
+          "weight": "750 ml",
+          "price": 370
+        },
+        {
+          "name": "2022Pecorino, Colli Aprutini, Emidio Pepe, Abruzzo",
+          "weight": "750 ml",
+          "price": 880
+        },
+        {
+          "name": "2021Trebbiano d’Abruzzo, Emidio Pepe, Abruzzo",
+          "weight": "750 ml",
+          "price": 650
+        },
+        {
+          "name": "2021Etna Bianco, Alta Mora, Gusumano, Sicilia",
+          "weight": "750 ml",
+          "price": 300
+        }
+      ]
+    }
+  ]
+}
