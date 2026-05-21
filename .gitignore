@@ -4,6 +4,7 @@
 .idea/
 .vscode/
 node_modules/
+.playwright-cli
 
 # Unencrypted source — edit locally, re-encrypt with staticrypt before committing
 index.src.html
