@@ -1,0 +1,109 @@
+{
+  "id": "morskie-oko",
+  "name": "Morskie Oko",
+  "description": "Highland (góralski) Polish kitchen on Plac Szczepański — Tatra-mountain dishes, oscypek sheep cheese, game, hearty stews. Mountain-lodge interior with live folk music in the background. Open noon to midnight daily.",
+  "gallery": [
+    "images/morskie-oko/header_menu2.jpg",
+    "images/morskie-oko/vertical_1.jpg",
+    "images/morskie-oko/dania_pierogi.jpg",
+    "images/morskie-oko/dania_smalec.jpg",
+    "images/morskie-oko/danie_stek.jpg",
+    "images/morskie-oko/danie_kaczka-1.jpg",
+    "images/morskie-oko/danie_golako-1.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://www.morskieoko.krakow.pl/en/menu/",
+  "source_pdf": "https://www.morskieoko.krakow.pl/wp-content/uploads/2026/03/PL_morskie-oko_menu-wiosna_30_03_2026.pdf",
+  "last_updated_from_source": "2026-05-21",
+  "sections": [
+    {
+      "name": "Przystawki — Starters",
+      "items": [
+        { "name": "Mountain-style grilled sheep cheese (oscypek) with cranberry jelly", "description": "vegetarian", "price": 37 },
+        { "name": "Traditional pork lard (smalec) with pickles and bread", "price": 33 },
+        { "name": "Traditional Polish herring in cream sauce with onion, bread", "price": 44 },
+        { "name": "Traditional black pudding (kaszanka) with onion, pork bites, bread", "price": 45 },
+        { "name": "Baked prunes wrapped in bacon", "price": 32 },
+        { "name": "Traditional Polish sausage grilled with onion, bread", "price": 44 },
+        { "name": "Hunter's stew (bigos) with cabbage, mushrooms and game, bread", "price": 48 },
+        { "name": "Highland potato pancakes baked on iron skillet, garlic butter", "description": "vegetarian", "price": 41 }
+      ]
+    },
+    {
+      "name": "Specjały kuchni — Homemade specialities",
+      "items": [
+        { "name": "Russian-style dumplings — potatoes & cottage cheese, golden fried onions", "description": "vegetarian", "price": 44 },
+        { "name": "Meat dumplings, crispy pork bits", "price": 46 },
+        { "name": "Sweet cottage-cheese & raspberry dumplings, sweetened sour cream", "description": "vegetarian", "price": 43 },
+        { "name": "Cabbage & mushroom dumplings, golden fried onions", "description": "vegetarian", "price": 45 },
+        { "name": "Gołąbki — cabbage leaf stuffed with rice and meat, tomato sauce", "price": 47 },
+        { "name": "Platter of different dumplings", "price": 98 },
+        { "name": "Spinach & buckwheat pancakes, classical green-pepper sauce", "description": "vegetarian", "price": 48 },
+        { "name": "Traditional potato pancakes", "description": "vegetarian", "price": 37 },
+        { "name": "Traditional potato pancakes with sour cream", "description": "vegetarian", "price": 40 },
+        { "name": "Traditional potato pancakes with porcini mushroom sauce", "description": "vegetarian", "price": 48 }
+      ]
+    },
+    {
+      "name": "Zupy — Soups",
+      "items": [
+        { "name": "Regional sauerkraut soup (kapuśniak) with rib, bread", "price": 39 },
+        { "name": "Traditional Polish soup (żurek) with egg and sausage, in bread bowl", "price": 43 },
+        { "name": "Golden chicken broth (rosół) with homemade noodles", "price": 31 },
+        { "name": "Spring beetroot soup with potatoes", "price": 32 },
+        { "name": "Beef stroganoff goulash with mushrooms and pepper, bread", "price": 46 }
+      ]
+    },
+    {
+      "name": "Menu dziecięce — Kid's menu",
+      "items": [
+        { "name": "Golden chicken broth with homemade noodles", "price": 28 },
+        { "name": "Crispy breaded chicken breast, fries, carrot salad", "price": 42 },
+        { "name": "Sweet cottage cheese & raspberry dumplings, sweetened sour cream", "description": "vegetarian", "price": 32 }
+      ]
+    },
+    {
+      "name": "Dania główne — Main courses",
+      "items": [
+        { "name": "Highlander's potato pancake with beef goulash and sheep cheese", "price": 59 },
+        { "name": "Boar loin in red pine mushroom sauce", "price": 71 },
+        { "name": "Veal fillets with forest mushroom sauce", "price": 64 },
+        { "name": "Breaded chicken breast", "price": 46 },
+        { "name": "Half duck with cherry sauce", "price": 87 },
+        { "name": "Grilled pork neck with garlic butter", "price": 50 },
+        { "name": "Platter of regional meats and delicacies (for 2+)", "price": 145 },
+        { "name": "Pork rib from our smokehouse", "price": 72 },
+        { "name": "Chicken breast with forest mushroom sauce", "price": 51 },
+        { "name": "Grilled sirloin steak with green-pepper sauce", "price": 99 },
+        { "name": "Traditional golden-brown pork knuckle, horseradish and mustard", "price": 71 },
+        { "name": "Traditional breaded pork chop", "price": 50 }
+      ]
+    },
+    {
+      "name": "Ryby — Fish",
+      "items": [
+        { "name": "Trout roasted in the oven", "price": 57 },
+        { "name": "Salmon fillet with caper sauce", "price": 67 }
+      ]
+    },
+    {
+      "name": "Sałatki — Salads",
+      "items": [
+        { "name": "Highland-style salad with sheep cheese, bacon, tomatoes, garlic dressing", "price": 49 },
+        { "name": "Grilled chicken salad with vinaigrette", "price": 51 },
+        { "name": "Marinated beetroot, vegan cheese, pear, roasted sunflower seeds, raspberry dressing", "description": "vegan", "price": 51 }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        { "name": "Hot apple pie with vanilla ice cream", "price": 36 },
+        { "name": "Fluffy cheesecake with raspberry mousse", "price": 38 },
+        { "name": "Vanilla ice cream with caramel mousse", "price": 37 },
+        { "name": "Polish fudge \"krówka\" ice cream, whipped cream, crushed gingerbread", "price": 42 },
+        { "name": "Fruit sorbet", "price": 38 },
+        { "name": "Polish rose ice cream with almonds and raspberry mousse", "price": 41 }
+      ]
+    }
+  ]
+}

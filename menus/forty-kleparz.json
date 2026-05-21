@@ -1,0 +1,37 @@
+{
+  "id": "forty-kleparz",
+  "name": "The Night Is Ours — WCEU After-Party",
+  "eyebrow": "Event",
+  "description": "WCEU 2026 closing party at Forty Kleparz, a 19th-century Austro-Hungarian fortress north of the Old Town. Two live music stages, complimentary drinks on arrival, open-air BBQ, karaoke, vaulted casemates inside and open courtyards outside.",
+  "gallery": [
+    "images/forty-kleparz/image.jpeg",
+    "images/forty-kleparz/image-1.jpeg",
+    "images/forty-kleparz/image-2.jpeg",
+    "images/forty-kleparz/image-3.jpeg"
+  ],
+  "source": "https://europe.wordcamp.org/2026/the-night-is-ours/",
+  "last_updated_from_source": "2026-05-21",
+  "notes": "Doors 20:00 · last call 04:00 · Sat Jun 6, 2026. WordCamp badge serves as entry — no separate ticket. Two complimentary drinks included with badge. Same evening: Kraków's Dragon Parade affects street traffic around the Old Town and Vistula riverbank — plan transport accordingly.",
+  "sections": [
+    {
+      "name": "At the venue",
+      "items": [
+        { "name": "Live music — two stages" },
+        { "name": "Open-air BBQ in the courtyard" },
+        { "name": "Karaoke" },
+        { "name": "Vaulted fortress casemates inside, courtyards outside" },
+        { "name": "Two complimentary drinks per badge on arrival" }
+      ]
+    },
+    {
+      "name": "Practical",
+      "items": [
+        { "name": "Address", "description": "ul. Kamienna 2, 30-001 Kraków" },
+        { "name": "Doors", "description": "20:00" },
+        { "name": "Last call", "description": "04:00" },
+        { "name": "Entry", "description": "WCEU badge — no separate ticket" },
+        { "name": "Heads-up", "description": "Dragon Parade same evening — Old Town traffic affected" }
+      ]
+    }
+  ]
+}

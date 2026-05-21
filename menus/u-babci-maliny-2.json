@@ -1,0 +1,1047 @@
+{
+  "id": "u-babci-maliny-2",
+  "name": "Kuchnia u Babci Maliny — Szpitalna",
+  "description": "The original Old Town location of Kuchnia u Babci Maliny on ul. Szpitalna 38, a few minutes east of Rynek. Same family-style Polish kitchen — pierogi, hearty mains, soup in a bread bowl, regional specialities — in a separate dining room with its own menu.",
+  "gallery": [
+    "images/u-babci-maliny/image-2.png",
+    "images/u-babci-maliny/garden.jpg",
+    "images/u-babci-maliny/szpitalna-7943.jpg",
+    "images/u-babci-maliny/szpitalna-7949.jpg",
+    "images/u-babci-maliny/szpitalna-7970.jpg",
+    "images/u-babci-maliny/szpitalna-8027.jpg",
+    "images/u-babci-maliny/szpitalna-8054-HDR-2.jpg",
+    "images/u-babci-maliny/szpitalna-8243.jpg",
+    "images/u-babci-maliny/szpitalna-8366.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://kuchniaubabcimaliny.pl/menu-szpitalna-en/",
+  "last_updated_from_source": "2026-05-21",
+  "sections": [
+    {
+      "name": "Polecane przez Babcię — Babcia's recommendations",
+      "items": [
+        {
+          "name": "Babcia Malina's meat delicacy (beef sirloin, pork loin, chicken fillet, fruit, potatoe, mixed salad)",
+          "price": 72
+        },
+        {
+          "name": "roasted steak chicken, potatoes, cucumbers",
+          "price": 65
+        },
+        {
+          "name": "chicken fillet in coconut pieces, potatoes, mixed salad",
+          "price": 65
+        },
+        {
+          "name": "chicken fillet in sesame pieces, potatoes, mixed salad",
+          "price": 65
+        },
+        {
+          "name": "Hungarian style potatoe pancakes",
+          "weight": "450g",
+          "price": 55
+        },
+        {
+          "name": "Budapest style potatoe pancakes",
+          "weight": "450g",
+          "price": 55
+        }
+      ]
+    },
+    {
+      "name": "Przekąski zimne — Cold snacks",
+      "items": [
+        {
+          "name": "beef tatar",
+          "weight": "130g",
+          "price": 45
+        },
+        {
+          "name": "salomon tatar",
+          "weight": "130g",
+          "price": 45
+        },
+        {
+          "name": "tomatoes with bryndza cheese and basil",
+          "weight": "130g",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "name": "Dania regionalne — Regional dishes",
+      "items": [
+        {
+          "name": "bowl of three different types of dumplings, baked",
+          "price": 59
+        },
+        {
+          "name": "bowl of dumplings, boiled",
+          "price": 57
+        },
+        {
+          "name": "traditional goulash stew, served in bread",
+          "price": 50
+        },
+        {
+          "name": "pork chop of the house, served with potatoes and cabbage",
+          "price": 65
+        }
+      ]
+    },
+    {
+      "name": "Zupy — Soups",
+      "items": [
+        {
+          "name": "chicken soup",
+          "weight": "300ml",
+          "price": 25
+        },
+        {
+          "name": "chicken soup with meat",
+          "weight": "300ml/30g",
+          "price": 27
+        },
+        {
+          "name": "Garlic chicken soup with croutons and Parma ham",
+          "weight": "300ml/30g",
+          "price": 25
+        },
+        {
+          "name": "tomatoes soup with noodles",
+          "weight": "300ml",
+          "price": 20
+        },
+        {
+          "name": "white borsch with potatoes, sasuage",
+          "weight": "300ml",
+          "price": 22
+        },
+        {
+          "name": "beetroot soup",
+          "weight": "150ml",
+          "price": 13
+        },
+        {
+          "name": "beetroot soup with raviolli",
+          "price": 25
+        },
+        {
+          "name": "beetroot soup with croquette",
+          "weight": "300ml/100g",
+          "price": 27
+        },
+        {
+          "name": "beetroot soup with egg",
+          "weight": "300ml/50g",
+          "price": 18
+        },
+        {
+          "name": "white borsch served in bread",
+          "price": 40
+        },
+        {
+          "name": "mushroom soup, served in bread",
+          "weight": "300ml",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "name": "Dania z wieprzowiny — Pork",
+      "items": [
+        {
+          "name": "pork czop coated in breadcrump, potatoes",
+          "weight": "100g",
+          "price": 49
+        },
+        {
+          "name": "old polish style pork chop, potatoes",
+          "weight": "130g",
+          "price": 49
+        },
+        {
+          "name": "pork filets in cream sauce, potatoes",
+          "weight": "130g",
+          "price": 49
+        },
+        {
+          "name": "escalloped pork, potatoes",
+          "weight": "130g",
+          "price": 48
+        },
+        {
+          "name": "roast pork, porridge",
+          "weight": "130g",
+          "price": 48
+        }
+      ]
+    },
+    {
+      "name": "Dania z wołowiny — Beef",
+      "items": [
+        {
+          "name": "beefsteak with hunter's sauce, potatoes",
+          "weight": "100g",
+          "price": 52
+        },
+        {
+          "name": "brisol, mushrooms, potatoes",
+          "weight": "100g",
+          "price": 52
+        },
+        {
+          "name": "beef sirloin, potatoes",
+          "weight": "200g",
+          "price": 88
+        },
+        {
+          "name": "rump steak, onion, potatoes",
+          "weight": "100g",
+          "price": 52
+        }
+      ]
+    },
+    {
+      "name": "Dania z drobiu — Poultry",
+      "items": [
+        {
+          "name": "fillet coated in breadcrump, potatoes",
+          "weight": "130g",
+          "price": 50
+        },
+        {
+          "name": "roasted chicken, potatoes",
+          "weight": "150g",
+          "price": 45
+        },
+        {
+          "name": "boiled chicken, rice",
+          "weight": "150g",
+          "price": 49
+        },
+        {
+          "name": "cutlet de'volaille, potatoes",
+          "weight": "130g",
+          "price": 53
+        },
+        {
+          "name": "coated in breadcrump chicken bites, potatoes",
+          "weight": "130g",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "name": "Ryby — Fish",
+      "items": [
+        {
+          "name": "salomon saute with butter,  potatoes",
+          "price": 70
+        },
+        {
+          "name": "boiled salomon with vegetables, potatoes",
+          "price": 70
+        },
+        {
+          "name": "trout saute with butter",
+          "price": 66
+        }
+      ]
+    },
+    {
+      "name": "Dania wegetariańskie — Vegetarian",
+      "items": [
+        {
+          "name": "Babcia Malina's special pancakes",
+          "weight": "350g",
+          "price": 41
+        },
+        {
+          "name": "pancakes filled with apples",
+          "weight": "250g",
+          "price": 37
+        },
+        {
+          "name": "pancakes with cheese + sour cream",
+          "weight": "300g",
+          "price": 36
+        },
+        {
+          "name": "pancakes with spinach",
+          "weight": "300g",
+          "price": 40
+        },
+        {
+          "name": "pancakes with mushrooms in garlic sauce",
+          "weight": "300g",
+          "price": 40
+        },
+        {
+          "name": "potatoe pancakes",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "name": "Pierogi — Dumplings",
+      "items": [
+        {
+          "name": "boiled russian style dumplings",
+          "weight": "300g",
+          "price": 40
+        },
+        {
+          "name": "boiled dumplings with cabbage and meat",
+          "weight": "300g",
+          "price": 42
+        },
+        {
+          "name": "boiled dumplings with meat",
+          "weight": "300g",
+          "price": 42
+        },
+        {
+          "name": "boiled dumplings with cabbage and mushrooms",
+          "weight": "300g",
+          "price": 42
+        },
+        {
+          "name": "fried russian style dumplings",
+          "weight": "400g",
+          "price": 43
+        },
+        {
+          "name": "fried dumplings with cabbage and meat",
+          "weight": "400g",
+          "price": 45
+        },
+        {
+          "name": "fried dumplings with meat",
+          "weight": "400g",
+          "price": 45
+        },
+        {
+          "name": "fried dumplings with cabbage and mushrooms",
+          "weight": "400g",
+          "price": 45
+        },
+        {
+          "name": "boiled dumplings with cheese and cream",
+          "weight": "400g",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "name": "Makarony — Pasta",
+      "items": [
+        {
+          "name": "Spaghetti Bolognese",
+          "weight": "350g",
+          "price": 43
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "weight": "350g",
+          "price": 46
+        },
+        {
+          "name": "Spaghetti with chicken",
+          "weight": "350g",
+          "price": 49
+        }
+      ]
+    },
+    {
+      "name": "Warzywa gorące — Hot vegetables",
+      "items": [
+        {
+          "name": "fried sauerkraut",
+          "weight": "150g",
+          "price": 16
+        },
+        {
+          "name": "fried beetroot with cream",
+          "weight": "150g",
+          "price": 16
+        },
+        {
+          "name": "fried vegetables",
+          "weight": "150g",
+          "price": 16
+        }
+      ]
+    },
+    {
+      "name": "Surówki — Side salads",
+      "items": [
+        {
+          "name": "mixed salad",
+          "weight": "200g",
+          "price": 16
+        },
+        {
+          "name": "carrot salad",
+          "weight": "150g",
+          "price": 15
+        },
+        {
+          "name": "sauerkraut salad",
+          "weight": "150g",
+          "price": 15
+        },
+        {
+          "name": "white cabbage salad",
+          "weight": "150g",
+          "price": 15
+        },
+        {
+          "name": "pickled cucumber",
+          "weight": "150g",
+          "price": 15
+        },
+        {
+          "name": "MIXED SALAD",
+          "weight": "150g",
+          "price": 16
+        },
+        {
+          "name": "cucmber salad in cream",
+          "weight": "150g",
+          "price": 16
+        }
+      ]
+    },
+    {
+      "name": "Sałatki — Salads",
+      "items": [
+        {
+          "name": "greek salad with feta cheese",
+          "weight": "250g",
+          "price": 35
+        },
+        {
+          "name": "salomon salad",
+          "weight": "250g",
+          "price": 45
+        },
+        {
+          "name": "chicken salad",
+          "weight": "250g",
+          "price": 43
+        }
+      ]
+    },
+    {
+      "name": "Dodatki — Extras",
+      "items": [
+        {
+          "name": "potatoes",
+          "weight": "200g",
+          "price": 7
+        },
+        {
+          "name": "french fries",
+          "weight": "150g",
+          "price": 15
+        },
+        {
+          "name": "cracovian style potatoes with garlic sauce",
+          "weight": "250g",
+          "price": 18
+        },
+        {
+          "name": "bread",
+          "weight": "40g",
+          "price": 5
+        },
+        {
+          "name": "butter",
+          "weight": "15g",
+          "price": 5
+        },
+        {
+          "name": "mustard",
+          "weight": "20g",
+          "price": 5
+        },
+        {
+          "name": "KETCHUP",
+          "weight": "20g",
+          "price": 5
+        },
+        {
+          "name": "cream",
+          "weight": "20g",
+          "price": 5
+        },
+        {
+          "name": "horseradish",
+          "weight": "20g",
+          "price": 5
+        },
+        {
+          "name": "mayonnaise",
+          "weight": "20g",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "name": "Sosy — Sauces",
+      "items": [
+        {
+          "name": "hunter's sauce",
+          "weight": "100ml",
+          "price": 10
+        },
+        {
+          "name": "tomato sauce",
+          "weight": "100ml",
+          "price": 7
+        },
+        {
+          "name": "horseradish sauce",
+          "weight": "100ml",
+          "price": 7
+        },
+        {
+          "name": "dill sauce",
+          "weight": "100ml",
+          "price": 7
+        },
+        {
+          "name": "garlic sauce",
+          "weight": "100ml",
+          "price": 7
+        }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        {
+          "name": "Babcia Malina's pear in raspberry sauce",
+          "weight": "120g",
+          "price": 30
+        },
+        {
+          "name": "Babcia Malina's pear in chocolate sauce",
+          "weight": "120g",
+          "price": 30
+        },
+        {
+          "name": "pancakes with cheese and walnut mousse",
+          "weight": "250g",
+          "price": 36
+        },
+        {
+          "name": "bowl with ice-cream",
+          "weight": "150g",
+          "price": 30
+        },
+        {
+          "name": "ice-cream with warm raspberys sauce",
+          "weight": "200g",
+          "price": 31
+        }
+      ]
+    },
+    {
+      "name": "Napoje gorące — Hot drinks",
+      "items": [
+        {
+          "name": "Winter Tea - black tea, rum, fresh mint, ginger syrup, orange, lemon",
+          "weight": "2g/200ml",
+          "price": 26
+        },
+        {
+          "name": "Vitamins Tea - black tea, fresh ginger, quince with some of honey, lemon, cloves",
+          "weight": "2g/200ml",
+          "price": 26
+        },
+        {
+          "name": "Warming Tea - black and jasmine tea, orange liqueur, cloves,orange, raspberry jam",
+          "weight": "2g/200ml",
+          "price": 26
+        },
+        {
+          "name": "Raspberry Grandma's Tea - black tea, raspberry jam, fresh fruits",
+          "weight": "2g/200ml",
+          "price": 26
+        },
+        {
+          "name": "Hot chocolate",
+          "weight": "150ml",
+          "price": 29
+        },
+        {
+          "name": "coffee",
+          "weight": "12g/150ml",
+          "price": 17
+        },
+        {
+          "name": "Maroccan coffee",
+          "weight": "150ml",
+          "price": 26
+        },
+        {
+          "name": "coffee with advocat vodka",
+          "weight": "150ml",
+          "price": 26
+        },
+        {
+          "name": "coffee with amaretto",
+          "weight": "150ml",
+          "price": 26
+        },
+        {
+          "name": "royal caffee",
+          "weight": "150ml",
+          "price": 26
+        },
+        {
+          "name": "Cappuccino caffee",
+          "weight": "150ml",
+          "price": 19
+        },
+        {
+          "name": "Caffe Latte",
+          "weight": "150ml",
+          "price": 27
+        },
+        {
+          "name": "iced coffee",
+          "weight": "12g/200ml",
+          "price": 30
+        },
+        {
+          "name": "irish coffee",
+          "weight": "150ml",
+          "price": 26
+        },
+        {
+          "name": "High quality tea",
+          "weight": "2g/200ml",
+          "price": 16
+        }
+      ]
+    },
+    {
+      "name": "Napoje zimne — Cold drinks",
+      "items": [
+        {
+          "name": "PEPSI LIGHT",
+          "weight": "200ml",
+          "price": 14
+        },
+        {
+          "name": "spring water",
+          "weight": "300ml",
+          "price": 12
+        },
+        {
+          "name": "Juices - orange, grapefruit, apple, blackcurrant, tomatoe",
+          "weight": "200ml",
+          "price": 15
+        },
+        {
+          "name": "Fresh juice - orange, grapefruit",
+          "weight": "200ml",
+          "price": 26
+        },
+        {
+          "name": "Schweppes",
+          "weight": "200ml",
+          "price": 14
+        },
+        {
+          "name": "MIRINDA Orange",
+          "weight": "200ml",
+          "price": 14
+        },
+        {
+          "name": "PEPSI",
+          "weight": "200ml",
+          "price": 14
+        }
+      ]
+    },
+    {
+      "name": "Piwo — Beer",
+      "items": [
+        {
+          "name": "Warm wine",
+          "weight": "200ml",
+          "price": 25
+        },
+        {
+          "name": "Warm honey",
+          "weight": "200ml",
+          "price": 25
+        },
+        {
+          "name": "juice for beer",
+          "weight": "50ml",
+          "price": 3
+        },
+        {
+          "name": "warm beer",
+          "weight": "500ml",
+          "price": 24
+        },
+        {
+          "name": "warm beer",
+          "weight": "300ml",
+          "price": 23
+        },
+        {
+          "name": "OKOCIM (tap beer)",
+          "weight": "500ml",
+          "price": 20
+        },
+        {
+          "name": "OKOCIM (tap beer)",
+          "weight": "300ml",
+          "price": 19
+        },
+        {
+          "name": "CARLSBERG (BOTTLE)",
+          "weight": "500ml",
+          "price": 22
+        }
+      ]
+    },
+    {
+      "name": "Wódki — Vodka (40 ml)",
+      "items": [
+        {
+          "name": "Absolut vodka",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Absolut citron",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Finlandia",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Smirnoff",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Wyborowa",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Becherovka",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Luksusowa",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Żołądkowa",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Żołądkowa miętowa (mint)",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Żubrówka",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "cherry vodka",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Walnut vodka",
+          "weight": "40ml",
+          "price": 15
+        },
+        {
+          "name": "Honey vodka",
+          "weight": "40ml",
+          "price": 18
+        },
+        {
+          "name": "Cranberry vodka",
+          "weight": "40ml",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "Gin (40 ml)",
+      "items": [
+        {
+          "name": "LUBUSKI",
+          "weight": "40ml",
+          "price": 23
+        },
+        {
+          "name": "SEAGRAM'S",
+          "weight": "40ml",
+          "price": 26
+        },
+        {
+          "name": "GORDON'S",
+          "weight": "40ml",
+          "price": 24
+        }
+      ]
+    },
+    {
+      "name": "Whisky (40 ml)",
+      "items": [
+        {
+          "name": "Jack Daniels",
+          "weight": "40ml",
+          "price": 26
+        },
+        {
+          "name": "Chivas Regal",
+          "weight": "40ml",
+          "price": 28
+        },
+        {
+          "name": "Jim Beam",
+          "weight": "40ml",
+          "price": 25
+        },
+        {
+          "name": "Balantine's Finest",
+          "weight": "40ml",
+          "price": 25
+        },
+        {
+          "name": "Johnny Walker Black Label",
+          "weight": "40ml",
+          "price": 25
+        },
+        {
+          "name": "Johnny Walker Red Label",
+          "weight": "40ml",
+          "price": 22
+        },
+        {
+          "name": "The Famous Grouse",
+          "weight": "40ml",
+          "price": 21
+        }
+      ]
+    },
+    {
+      "name": "Rum (40 ml)",
+      "items": [
+        {
+          "name": "BACARDI LIGHT",
+          "weight": "40ml",
+          "price": 25
+        }
+      ]
+    },
+    {
+      "name": "Tequila (50 ml)",
+      "items": [
+        {
+          "name": "TEQUILA OLMECA",
+          "weight": "50ml",
+          "price": 26
+        }
+      ]
+    },
+    {
+      "name": "Brandy / Cognac (40 ml)",
+      "items": [
+        {
+          "name": "HENNESSY",
+          "weight": "40ml",
+          "price": 28
+        },
+        {
+          "name": "BRANDY NAPOLEON",
+          "weight": "40ml",
+          "price": 24
+        },
+        {
+          "name": "STOCK 84",
+          "weight": "40ml",
+          "price": 24
+        },
+        {
+          "name": "MARTELL",
+          "weight": "40ml",
+          "price": 28
+        },
+        {
+          "name": "METAXA",
+          "weight": "40ml",
+          "price": 26
+        }
+      ]
+    },
+    {
+      "name": "Likiery — Liqueurs (40 ml)",
+      "items": [
+        {
+          "name": "PASSOA",
+          "weight": "40ml",
+          "price": 20
+        },
+        {
+          "name": "JAGERMEISTER",
+          "weight": "40ml",
+          "price": 25
+        },
+        {
+          "name": "COINTREAU",
+          "weight": "40ml",
+          "price": 20
+        },
+        {
+          "name": "CREME DE BANANES",
+          "weight": "40ml",
+          "price": 18
+        },
+        {
+          "name": "BLUE CURACAO",
+          "weight": "40ml",
+          "price": 18
+        },
+        {
+          "name": "BAILEY'S",
+          "weight": "40ml",
+          "price": 20
+        },
+        {
+          "name": "TRIPLE SEC",
+          "weight": "40ml",
+          "price": 19
+        },
+        {
+          "name": "MALIBU",
+          "weight": "40ml",
+          "price": 18
+        },
+        {
+          "name": "ADVOCAT",
+          "weight": "40ml",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Vermouth (100 ml)",
+      "items": [
+        {
+          "name": "MARTI ROSE",
+          "weight": "100ml",
+          "price": 20
+        },
+        {
+          "name": "MARTINI EXTRA DRY",
+          "weight": "100ml",
+          "price": 20
+        },
+        {
+          "name": "MARTINI ROSSO",
+          "weight": "100ml",
+          "price": 20
+        },
+        {
+          "name": "MARTINI BIANCO",
+          "weight": "100ml",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Nalewki — Bitters (40 ml)",
+      "items": [
+        {
+          "name": "CAMPARI",
+          "weight": "40ml",
+          "price": 20
+        },
+        {
+          "name": "CAPRI",
+          "weight": "40ml",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Drinki — Cocktails",
+      "items": [
+        {
+          "name": "Malibu, mleczko skondensowane",
+          "weight": "250ml",
+          "price": 33
+        },
+        {
+          "name": "KAMIKAZE (Vodka, Blue Curacao, lemon juice)",
+          "weight": "50ml",
+          "price": 35
+        },
+        {
+          "name": "Bacardi rum, sparkling water, lime, cane sugar, mint",
+          "weight": "250ml",
+          "price": 38
+        },
+        {
+          "name": "SEX ON THE BEACH - Malibu, banana liqueur, Sprite",
+          "weight": "250ml",
+          "price": 38
+        },
+        {
+          "name": "Vodka, raspberry juice, Tabasco",
+          "weight": "50ml",
+          "price": 18
+        },
+        {
+          "name": "Gin and tonic",
+          "weight": "250ml",
+          "price": 33
+        },
+        {
+          "name": "Campari with orange juice",
+          "weight": "250ml",
+          "price": 34
+        },
+        {
+          "name": "Bayley's, orange juice, condensed milk, grenadine",
+          "weight": "250ml",
+          "price": 36
+        },
+        {
+          "name": "Żubrówka, sok jabłkowy",
+          "weight": "250ml",
+          "price": 35
+        },
+        {
+          "name": "Martini, Passoa, Sprite",
+          "weight": "250ml",
+          "price": 34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "starka",
+  "name": "Starka",
+  "description": "Tucked into Kazimierz off Plac Nowy. Two cosy red-walled rooms with Heinrich Zille graphics; modern takes on Polish classics built around Mrs Rysia's pierogi, slow-cooked mains, and Gabriel's homemade vodka infusions. Live acoustic music Wed & Fri at 20:30.",
+  "gallery": [
+    "images/starka/place-01.jpg",
+    "images/starka/hero-3.jpg",
+    "images/starka/hero-5.jpg",
+    "images/starka/menu-przystawki.jpg",
+    "images/starka/menu-dania-glowne.jpg",
+    "images/starka/menu-desery.jpg",
+    "images/starka/about-onas.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://www.starka-restauracja.pl/en/#menu",
+  "last_updated_from_source": "2026-05-21",
+  "price_caveat": "Menu rotates seasonally. Verify on-site.",
+  "sections": [
+    {
+      "name": "Przystawki — Starters",
+      "items": [
+        { "name": "Mrs Rysia's dumplings (5 pcs) — Russian", "description": "vegetarian", "price": 35 },
+        { "name": "Mrs Rysia's dumplings (5 pcs) — spinach, bundz cheese & wild garlic", "description": "vegetarian", "price": 37 },
+        { "name": "Dumplings with beetroot (5 pcs)", "description": "BBQ marinated tofu, sun-dried tomatoes", "price": 39 },
+        { "name": "Mrs Rysia's dumplings (5 pcs) — beef cheeks & marjoram", "price": 41 },
+        { "name": "Mix of Rysia's dumplings (6 pcs)", "description": "russian, spinach, beef cheeks", "price": 45 },
+        { "name": "Spring beetroot in delicate cream", "description": "whipped feta w/ lemon, edamame, pomegranate seeds, warm radishes w/ mint and pistachios, zucchini ribbons, bee pollen, herbal olive oil, bun (V)", "price": 39 },
+        { "name": "Baked young carrots with pistachios", "description": "green pea mousse, warm radishes w/ mint, lime, pomegranate, peanut sauce, chili oil, parsley chips (V)", "price": 38 },
+        { "name": "Beef tenderloin tartare with homemade pickles", "description": "marinated mushrooms, cucumber, radish, pickled onion, quail yolk, fried capers, baguette, black garlic butter", "price": 58 }
+      ]
+    },
+    {
+      "name": "Zupy — Soups",
+      "items": [
+        { "name": "Zalewajka served in a bread bowl", "description": "sausage and bacon from Mr Edek of Muchówka, wild mushrooms, boiled egg, horseradish mashed potatoes, sour cream and dill", "price": 45 },
+        { "name": "Cream of white vegetables with asparagus and cheese bun", "description": "vegetarian", "price": 38 }
+      ]
+    },
+    {
+      "name": "Sałatki — Salads",
+      "items": [
+        { "name": "Starka salad with creamy goat cheese on toast (or grilled chicken)", "description": "spinach, basil, edamame, marinated zucchini, carrot ribbons, celery, cucumber, radish, strawberries, green apple, caramelized nuts, marinated onion, spring onion, mini pretzels, cherry gel, celery-lime gel, honey-lime vinaigrette, bun", "price": 59 }
+      ]
+    },
+    {
+      "name": "Starka Specials",
+      "items": [
+        { "name": "Grilled asparagus with hollandaise", "description": "poached egg, green pea mousse w/ mint, pickled onion, pistachios, bee pollen, pea sprouts, roll with black garlic butter (V)", "price": 54 }
+      ]
+    },
+    {
+      "name": "Dania główne — Main dishes",
+      "items": [
+        { "name": "Kraków-style maczanka", "description": "steamed bun, slow-roasted pork neck with caraway, bacon and mushrooms, pickles by Magda (bell pepper, beetroot, zucchini in honey-mustard brine)", "price": 59 },
+        { "name": "Grilled chicken breast (sous-vide)", "description": "baked carrots w/ pistachios and pomegranate, creamy thyme sauce, green pea mousse w/ mint, celery-lime gel, Hasselback potato w/ crème fraîche & spring onion, parsley chips", "price": 59 },
+        { "name": "Pork tenderloin in herbs stuffed with bacon (sous-vide)", "description": "cauliflower and nut mousse, young cabbage in butter w/ dill, gravy, Hasselback potato w/ crème fraîche & spring onion, cherry gel, parsley chips", "price": 66 },
+        { "name": "Duck breast with the aroma of orange (sous-vide)", "description": "young carrot mousse w/ chili, red cabbage w/ orange and cranberry, red-currant & raspberry sauce, Hasselback potato, cherry gel, parsley chips, marjoram", "price": 73 },
+        { "name": "Beef cheeks", "description": "hunter's sauce w/ bacon and peppers on demi-glace, pickled beetroots, baked carrots, celery-parsley-horseradish mashed potatoes, spring onions, pea sprouts, parsley chips", "price": 79 },
+        { "name": "Delicate salmon in creamy caviar sauce", "description": "asparagus, wild broccoli, celery-lime gel, celery-parsley-horseradish mashed potatoes, celery ribbon, grilled lemon, roasted onion powder", "price": 98 },
+        { "name": "Beef tenderloin steak with black garlic, lemon zest, oregano butter & beech smoke aroma", "description": "grilled seasonal vegetables, pepper sauce, cauliflower-nut mousse, Hasselback potato w/ crème fraîche & spring onion, hollandaise", "price": 119 },
+        { "name": "Baked seasonal vegetables in honey with creamy cheese and bun", "description": "asparagus, beet greens, celery root, wild broccoli, zucchini, red onion, radish, carrot-chili puree, green pea puree, cherry gel, roasted pumpkin & sunflower seeds (V)", "price": 58 }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        { "name": "Creamy cheesecake with passion fruit topping", "description": "white chocolate, chocolate sauce, homemade whipped cream", "price": 35 },
+        { "name": "Strawberry sponge cake with pistachio", "description": "fresh strawberries, chocolate ganache, pistachio topping, whipped cream, vanilla sauce, raspberry sauce", "price": 38 },
+        { "name": "Ice cream sundae with macaron", "description": "mango sorbet, raspberry sorbet, whipped cream, chocolate sauce, almond flakes", "price": 32 },
+        { "name": "Rhubarb jar with bee pollen", "description": "strawberry granola, homemade granola w/ nuts, whipped cream, vanilla sauce, macaron, almond flakes", "price": 35 }
+      ]
+    },
+    {
+      "name": "Napoje zimne — Cold drinks",
+      "items": [
+        { "name": "Coca-Cola Zero, Fanta, Sprite, Kinley, Fuze Tea", "description": "0.25 l", "price": 15 },
+        { "name": "Cappy juices", "description": "orange or apple · 0.25 l", "price": 16 },
+        { "name": "Freshly squeezed juice", "description": "orange, apple, carrot", "price": 26 },
+        { "name": "Mineral water Kropla Beskidu", "description": "0.33 l", "price": 14 },
+        { "name": "Mineral water carafe", "description": "1 l", "price": 18 },
+        { "name": "Mineral water Kropla Beskidu", "description": "0.75 l bottle", "price": 22 },
+        { "name": "Starka lemonade (0.4 l)", "description": "lime & cucumber / aloe vera / passion fruit", "price": 26 },
+        { "name": "Starka lemonade jug (1 l)", "description": "lime & cucumber / aloe vera / passion fruit", "price": 44 },
+        { "name": "Homemade iced tea (0.4 l)", "description": "forest-fruit tea, cranberry & raspberry syrup, fruits", "price": 26 },
+        { "name": "Homemade iced tea (1 l)", "description": "forest-fruit tea, cranberry & raspberry syrup, fruits", "price": 44 }
+      ]
+    },
+    {
+      "name": "Napoje gorące — Hot drinks",
+      "items": [
+        { "name": "Espresso / Espresso macchiato", "price": 12 },
+        { "name": "Espresso doppio / Macchiato", "price": 14 },
+        { "name": "Black coffee / Americano", "price": 14 },
+        { "name": "White coffee / Cappuccino", "price": 16 },
+        { "name": "Flat white", "price": 17 },
+        { "name": "Latte macchiato", "price": 18 },
+        { "name": "Irish coffee", "price": 33 },
+        { "name": "Richmond tea jug", "description": "Ceylon Golden / Gunpowder Green / Earl Grey / Forest Fruits / Ginger Paradise / Rooibos honey-pineapple", "price": 19 },
+        { "name": "Starka tea — large glass", "description": "loose black tea, dried cranberry, cranberry syrup, orange", "price": 25 },
+        { "name": "Liqueur coffee", "description": "with homemade whipped cream — Bailey's / Kahlua / Amaretto", "price": 33 },
+        { "name": "Affogato classic", "description": "espresso w/ ice cream", "price": 19 },
+        { "name": "Pistachio affogato", "description": "with pistachio cream & whipped cream", "price": 29 },
+        { "name": "Iced coffee", "description": "with vanilla ice cream & whipped cream", "price": 28 }
+      ]
+    },
+    {
+      "name": "Wina — Wines (glass / bottle)",
+      "items": [
+        { "name": "Winnica Srebrna Góra Cuvee Blanc — Kraków, PL", "description": "semi-dry white", "price": 149 },
+        { "name": "Sauvignon Blanc, Gato Negro — San Pedro, CL", "description": "16 / 89 zł", "price": 16 },
+        { "name": "Rocca Ventosa Pinot Grigio — Abruzzo, IT", "description": "19 / 110 zł · dry, fresh, floral", "price": 19 },
+        { "name": "Tormaresca Chardonnay Antinori — Puglia, IT", "description": "25 / 159 zł", "price": 25 },
+        { "name": "Kendermanns Riesling Classic — Pfalz, DE", "description": "23 / 139 zł", "price": 23 },
+        { "name": "Winnica Turnau Solaris — Baniewice, PL", "description": "29 / 199 zł · cold-resistant Polish grape", "price": 29 },
+        { "name": "Hugel Gentil Alsace AOC — FR", "price": 168 },
+        { "name": "Joseph Drouhin Chablis Vaudon — Bourgogne, FR", "price": 299 },
+        { "name": "Sheep Dreams Sauvignon Blanc — Marlborough, NZ", "price": 175 },
+        { "name": "Esterházy Estoras Grüner Veltliner — Burgenland, AT", "price": 198 },
+        { "name": "Eisberg Selection Pinot Grigio (alcohol-free) — DE", "description": "16 / 89 zł", "price": 16 },
+        { "name": "Villa Bellucci (alcohol-free) — DE", "description": "19 / 98 zł", "price": 19 },
+        { "name": "Prosecco Extra Dry Villa Bellucci — Treviso, IT", "description": "19 / 125 zł", "price": 19 },
+        { "name": "Ventisquero Clasico Cabernet Sauvignon Rosé — CL", "description": "19 / 110 zł", "price": 19 },
+        { "name": "Infinitus Moscatel — ES", "description": "16 / 95 zł · sweet dessert wine", "price": 16 },
+        { "name": "De Saint-Gall Le Tradicion Premier Cru Brut — Champagne, FR", "price": 450 },
+        { "name": "Winnica Turnau Rondo Regent — Baniewice, PL", "description": "29 / 199 zł · red, cold-resistant Polish grape", "price": 29 },
+        { "name": "Cabernet Sauvignon, Gato Negro — San Pedro, CL", "description": "16 / 89 zł", "price": 16 },
+        { "name": "Rocca Ventosa Montepulciano d'Abruzzo — IT", "description": "19 / 110 zł", "price": 19 },
+        { "name": "Borgodei Primitivo di Manduria — Puglia, IT", "description": "25 / 159 zł", "price": 25 },
+        { "name": "Iveriuli Tbilisi (Saperavi-Rkatsiteli) — Kakheti, GE", "price": 115 },
+        { "name": "Viña Bujanda Crianza — Rioja, ES", "price": 139 },
+        { "name": "Ventisquero 'Grey' Carmenere — Maipo, CL", "description": "2nd bottle 149 zł", "price": 215 },
+        { "name": "Kings of Prohibition Shiraz — Barossa, AU", "price": 199 }
+      ]
+    },
+    {
+      "name": "Alkohole — Spirits & beer (40 ml unless noted)",
+      "items": [
+        { "name": "Gabriel's homemade vodkas", "description": "20+ flavours: cranberry, raspberry, pear, mango, pineapple, apricot, apple-cinnamon, coconut, mint, ginger, rowanberry, herbs, horseradish, dogwood, banana, strawberry, elderflower, blackcurrant, black pepper, anise", "price": 18 },
+        { "name": "Vodka classics", "description": "Żubrówka biała, Bison Grass, Krupnik, Wiśniówka, Cytrynówka, Żołądkowa Gorzka", "price": 15 },
+        { "name": "Vodka premium", "description": "Finlandia, Ostoya, J.A. Baczewski Potato Vodka", "price": 19 },
+        { "name": "Vodka top premium", "description": "Passover Slivovitz, Belvedere, Goldwasser", "price": 30 },
+        { "name": "Starka 25yo", "price": 75 },
+        { "name": "Żywiec 0.5 l", "price": 22 },
+        { "name": "Żywiec 0.3 l", "price": 19 },
+        { "name": "Żywiec IPA Sesyjne 0.5 l", "price": 26 },
+        { "name": "Żywiec APA 0.5 l", "price": 26 },
+        { "name": "Żywiec Biały (wheat) 0.5 l", "price": 26 },
+        { "name": "Żywiec non-alcoholic 0% 0.5 l", "price": 22 },
+        { "name": "Żywiec Porter 0.5 l bottle", "price": 26 },
+        { "name": "Heineken 0.33 l bottle", "price": 25 },
+        { "name": "Desperados 0.4 l", "price": 26 },
+        { "name": "Apple cider Lubelski 0.4 l", "price": 25 },
+        { "name": "Jack Daniel's / Honey / Fire", "price": 24 },
+        { "name": "Woodford Reserve", "price": 30 },
+        { "name": "Johnnie Walker Black", "price": 25 },
+        { "name": "Chivas Regal 12yo", "price": 27 },
+        { "name": "Jameson", "price": 24 },
+        { "name": "Jim Beam", "price": 24 },
+        { "name": "Jägermeister", "price": 23 },
+        { "name": "Polish Gin Herritage Magnolia", "price": 30 },
+        { "name": "Gordon's Gin / London Dry / Premium Pink", "price": 23 },
+        { "name": "Bombay Sapphire", "price": 25 },
+        { "name": "Tequila El Jimador Blanco / Reposado", "price": 22 },
+        { "name": "Rum Havana 3yo / 7yo", "price": 23 },
+        { "name": "Malibu", "price": 21 },
+        { "name": "Metaxa 5★", "price": 23 },
+        { "name": "Hennessy VS", "price": 32 },
+        { "name": "Bailey's / Amaretto / Kahlua", "price": 21 },
+        { "name": "Martini Dry / Bianco / Rosso (100 ml)", "price": 22 }
+      ]
+    },
+    {
+      "name": "Koktajle — Cocktails",
+      "items": [
+        { "name": "Magnolia & Tonic", "description": "Polish Gin Herritage Magnolia, tonic, lime, cucumber slice", "price": 39 },
+        { "name": "Aperol Premium", "description": "Aperol, Prosecco, Triple Sec, Cointreau, fresh orange juice, soda", "price": 39 },
+        { "name": "Polish Iced Tea", "description": "vodka, Żołądkowa Gorzka, Krupnik, Cytrynówka, Bison Grass, lemon juice, sugar syrup, Coke", "price": 39 },
+        { "name": "Pornstar Martini", "description": "vanilla vodka, Passoã, prosecco, passion fruit mousse, sugar syrup", "price": 42 },
+        { "name": "Hugo Spritz Premium", "description": "elderflower liqueur, prosecco, elderflower syrup, lime, mint", "price": 39 },
+        { "name": "John Stark", "description": "gin, lemon, raspberry syrup, rose syrup, egg white", "price": 37 },
+        { "name": "Cherry-Basil Smash", "description": "cherry vodka, pink gin, elderflower liqueur, cherry blossom syrup, lime, basil", "price": 39 },
+        { "name": "Aperol 0%", "description": "non-alcoholic aperitif, non-alcoholic Prosecco, orange, sparkling water", "price": 29 },
+        { "name": "Mango Fizz 0%", "description": "mango syrup, ginger syrup, basil, lime, lemonade, sparkling water", "price": 28 },
+        { "name": "John Stark 0%", "description": "Pink Gin 0%, raspberry syrup, rose syrup, lime, egg white", "price": 29 },
+        { "name": "Golden Hours 0%", "description": "lemongrass infusion, honey syrup, lemon syrup, lemon, mint, brown sugar", "price": 28 },
+        { "name": "Rosy Thyme 0%", "description": "rose syrup, Pink Aromatic Berry Tonic, lime, thyme", "price": 27 }
+      ]
+    }
+  ]
+}

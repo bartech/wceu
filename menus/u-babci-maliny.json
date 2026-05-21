@@ -1,0 +1,1045 @@
+{
+  "id": "u-babci-maliny",
+  "name": "Kuchnia u Babci Maliny",
+  "description": "Family-style Polish kitchen on Sławkowska 19, just off Rynek. Famous for hand-made pierogi, hearty mains, breaded chops fried in lard, and the soup-in-a-bread-bowl. Cosy cellar dining room, generous portions, low prices. Daily from late morning.",
+  "gallery": [
+    "images/u-babci-maliny/image.png",
+    "images/u-babci-maliny/slawkowska-1111111.jpg",
+    "images/u-babci-maliny/slawkowska-4136.jpg",
+    "images/u-babci-maliny/slawkowska-4163.jpg",
+    "images/u-babci-maliny/slawkowska-4223.jpg",
+    "images/u-babci-maliny/slawkowska-4391.jpg",
+    "images/u-babci-maliny/slawkowska-4577.jpg",
+    "images/u-babci-maliny/slawkowska-4751.jpg",
+    "images/u-babci-maliny/slawkowska-4853.jpg",
+    "images/u-babci-maliny/slawkowska-5036.jpg"
+  ],
+  "currency": "PLN",
+  "source": "https://kuchniaubabcimaliny.pl/menu-slawkowska-en/",
+  "last_updated_from_source": "2026-05-21",
+  "sections": [
+    {
+      "name": "Przystawki — Appetizers",
+      "items": [
+        {
+          "name": "BEEF TENDERLOIN CARPACCIO, ARUGULA AND HOMEMADE BREADSTICKS, PARMESAN CHEESE, SEA SALT, OLIVE OIL",
+          "name_pl": "CARPACCIO WOŁOWE Z POLĘDWICY",
+          "weight": "300 g",
+          "price": 55
+        },
+        {
+          "name": "BEEF TENDERLOIN TARTARE WITH HOMEMADE BREADSTICKS, YOLK, PICKLES, SPRAT, SHALLOT",
+          "name_pl": "TATAR WOŁOWY Z POLĘDWICY",
+          "weight": "300 g",
+          "price": 50
+        },
+        {
+          "name": "SALMON TARTARE ON A CRISPY RICE BASE, THAI SEAFOOD SALMON, CUCUMBER, SHALLOT, CAPERS, OLIVE OIL",
+          "name_pl": "TATAR Z ŁOSOSIA",
+          "weight": "300 g",
+          "price": 50
+        }
+      ]
+    },
+    {
+      "name": "Zupy — Soups",
+      "items": [
+        {
+          "name": "Mushroom soup served in a bread bowl",
+          "name_pl": "GRZYBOWA PODANA W CHLEBIE",
+          "weight": "300 ml",
+          "price": 42
+        },
+        {
+          "name": "Mushroom soup with garlic croutons, served in a bowl",
+          "name_pl": "GRZYBOWA Z GRZANKAMI CZOSNKOWYMI PODANA NA TALERZU",
+          "price": 25
+        },
+        {
+          "name": "CHICKEN BROTH WITH NOODLES GREY POTATO DUMPLINGS",
+          "name_pl": "ROSÓŁ Z KLUSKAMI SZARYMI",
+          "weight": "300 ml",
+          "price": 20
+        },
+        {
+          "name": "GARLIC CHICKEN BROTH WITH CURED HAM AND GARLIC CROUTONS",
+          "name_pl": "ROSÓŁ CZOSNKOWY Z GRZANKAMI",
+          "weight": "300 ml",
+          "price": 22
+        },
+        {
+          "name": "SOUR RYE SOUP WITH SAUSAGE, POTATOES AND EGG, SERVED IN A BOWL",
+          "name_pl": "ŻUREK Z KIEŁBASĄ, ZIEMNIAKAMI I JAJKIEM NA TALERZU",
+          "weight": "300 ml",
+          "price": 24
+        },
+        {
+          "name": "SOUR RYE SOUP WITH SAUSAGE, SERVED IN A BREAD BOWL",
+          "name_pl": "ŻUREK W CHLEBIE Z KIEŁBASĄ",
+          "weight": "300 ml",
+          "price": 40
+        },
+        {
+          "name": "TOMATO SOUP WITH NOODLES",
+          "name_pl": "POMIDOROWA Z MAKARONEM",
+          "weight": "300 ml",
+          "price": 18
+        },
+        {
+          "name": "THAI SOUP WITH SALMON AND SEAFOOD COCONUT MILK, LEMONGRASS, CHILLI",
+          "name_pl": "RYBNA TAJSKA Z ŁOSOSIEM I OWOCAMI MORZA",
+          "weight": "300 ml",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "name": "Dania główne — Main dishes",
+      "items": [
+        {
+          "name": "BREADED CHICKEN FILLET 200g - with fried potatoes",
+          "name_pl": "FILET Z KURCZAKA PANIEROWANY",
+          "price": 55
+        },
+        {
+          "name": "RIBS ROASTED IN GRAVY, SERVED WITH MUSTARD, FRIED POTATOES AND BRAISED CABBAGE WITH BACON",
+          "name_pl": "ŻEBERKA PIECZONE",
+          "weight": "200g",
+          "price": 60
+        },
+        {
+          "name": "GOULASH SERVED IN A BREAD BOWL",
+          "name_pl": "GULASZ W CHLEBIE",
+          "weight": "200G",
+          "price": 40
+        },
+        {
+          "name": "BREADED PORK CHOP WITH BONE, FRIED IN LARD, AND BAKED POTATOES IN THEIR SKINS.",
+          "name_pl": "KOTLET SCHABOWY Z KOŚCIĄ",
+          "price": 57
+        },
+        {
+          "name": "BREADED PORK CHOP FRIED IN LARD 200g - SERVED WITH GARLIC BUTTER AND FRIED POTATOES",
+          "name_pl": "KOTLET SCHABOWY TRADYCYJNY",
+          "price": 53
+        },
+        {
+          "name": "CHICKEN KIEV WITH BUTTER AND MOZZARELLA CHEESE, PARSLEY, ROASTED POTATOES",
+          "name_pl": "KOTLET DE VOLAILLE Z PIECZONYMI ZIEMNIAKAMI",
+          "price": 55
+        },
+        {
+          "name": "CHICKEN FILLET IN EGG BATTER, SERVED WITH FRIED POTATOES, 200g",
+          "name_pl": "FILET Z KURCZAKA W JAJKU ZE SMAŻONYMI ZIEMNIAKAMI",
+          "price": 55
+        },
+        {
+          "name": "PORK TENDERLOIN IN CHANTEREL SAUCE 200g - with fried potatoes",
+          "name_pl": "POLEDWICZKI WIEPRZOWE Z KURKAMI",
+          "price": 60
+        },
+        {
+          "name": "POTATO PANCAKES WITH HOMEMADE GOULASH, GARNISHED WITH MOZZARELLA CHEESE AND YOGURT",
+          "name_pl": "PLACKI ZIEMNIACZANE Z GULASZEM DOMOWYM",
+          "price": 57
+        },
+        {
+          "name": "BEEF STEAK WITH RED ONION JAM, ROSEMARY, ROASTED POTATOES, MEDITERRANEAN SALAD, CHOICE OF BUTTER",
+          "name_pl": "STEK WOŁOWY Z KONFITURĄ Z CZERWONEJ CEBULI",
+          "price": 90
+        },
+        {
+          "name": "XXL BEEF BURGER WITH FRIES, 130g - Lettuce, pickled cucumber, tomato, onion, cheddar cheese, and sauce",
+          "name_pl": "BURGER WOŁOWY XXL, Z FRYTKAMI",
+          "price": 50
+        },
+        {
+          "name": "SHRIMPS FRIED IN CLARIFIED BUTTER WITH GARLIC, 130g - white wine, spring onion, garlic bread",
+          "name_pl": "KREWETKI SMAŻONE NA MAŚLE KLAROWNYM Z CZOSNKIEM",
+          "price": 45
+        },
+        {
+          "name": "PORK HOCK BAKED OR BOILED, 450g - fried potatoes, fried cabbage with bacon, horseradish, mustard, garlic olive oil",
+          "name_pl": "GOLONKA PEKLOWANA",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "name": "Ryby — Fish",
+      "items": [
+        {
+          "name": "GRILLED SALMON WITH GARLIC BUTTER, CREAMY RISOTTO",
+          "name_pl": "ŁOSOŚ PIECZONY Z GRILLA",
+          "price": 75
+        },
+        {
+          "name": "SALMON COOKED IN VEGETABLES, CREAMY RISOTTO",
+          "name_pl": "ŁOSOŚ GOTOWANY W JARZYNACH",
+          "price": 75
+        }
+      ]
+    },
+    {
+      "name": "Dania wegetariańskie — Vegetarian",
+      "items": [
+        {
+          "name": "POTATO PANCAKES WITH SOUR CREAM OR MUSHROOM SAUCE",
+          "name_pl": "PLACKI ZIEMNIACZANE",
+          "weight": "300g",
+          "price": 35
+        },
+        {
+          "name": "PAD-THAI Rice Noodles, Vegetables, Egg, Coconut Oil, Mung Bean Sprouts, Peanuts Pad-Thai Sauce",
+          "name_pl": "PAD-THAI",
+          "weight": "250g",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "name": "Makarony — Pasta",
+      "items": [
+        {
+          "name": "TAGLIATELLE – SEAFOOD (SQUID, MUSSELS, SHRIMP) IN GARLIC OLIVE OIL WITH PARMESAN CHEESE",
+          "name_pl": "TAGLIATELLE – owoce morza",
+          "price": 60
+        },
+        {
+          "name": "TAGLIATELLE WITH BEEF TENDERLOIN, IN MUSHROOM SAUCE (WILD MUSHROOMS)",
+          "name_pl": "TAGLIATELLE Z POLĘDWICĄ WOŁOWĄ",
+          "price": 60
+        },
+        {
+          "name": "NERO PASTA WITH SHRIMP AND PORCINI MUSHROOMS IN CREAM",
+          "name_pl": "NERO Z KREWETKAMI",
+          "price": 55
+        },
+        {
+          "name": "PAD THAI RICE WITH FRESH VEGETABLES, WITH CHICKEN, OR SHRIMP",
+          "name_pl": "PAD THAI RYŻOWY",
+          "price": 45
+        }
+      ]
+    },
+    {
+      "name": "Kluski — Noodles & gnocchi",
+      "items": [
+        {
+          "name": "GREY POTATO DUMPLINGS WITH ONION",
+          "name_pl": "KLUSKI SZARE ZIEMNIACZANE Z CEBULĄ",
+          "price": 30
+        },
+        {
+          "name": "GREY POTATO DUMPLINGS WITH WITH ONION, BACON, AND SHEEP CHEESE",
+          "name_pl": "KLUSKI SZARE ZIEMNIACZANE Z CEBULĄ I BOCZKIEM I BRYNDZĄ",
+          "price": 40
+        },
+        {
+          "name": "GREY POTATO DUMPLINGS WITH CRACKLINGS",
+          "name_pl": "KLUSKI SZARE ZIEMNIACZANE ZE SKWARKAMI",
+          "price": 35
+        }
+      ]
+    },
+    {
+      "name": "Pierogi — Dumplings",
+      "items": [
+        {
+          "name": "12 PIECES BOWL OF PIEROGI",
+          "name_pl": "MICHA PIEROGOWA 12 szt.",
+          "price": 58
+        },
+        {
+          "name": "RUSSIAN STYLE (CHEESE, ONION, FRIED POTATOES) 8pcs",
+          "name_pl": "RUSKIE",
+          "price": 45
+        },
+        {
+          "name": "WITH MEAT  8pcs",
+          "name_pl": "Z MIĘSEM 8SZT",
+          "price": 50
+        },
+        {
+          "name": "WITH CABBAGE AND MUSHROOMS 8pcs",
+          "name_pl": "Z KAPUSTĄ I GRZYBAMI 8SZT",
+          "price": 48
+        }
+      ]
+    },
+    {
+      "name": "Dla dzieci — Kids",
+      "items": [
+        {
+          "name": "PIEROGI WITH FRUITS 4pcs",
+          "name_pl": "PIEROGI Z OWOCAMI",
+          "price": 20
+        },
+        {
+          "name": "PANCAKES WITH CHOCOLATE AND NUT SPREAD",
+          "name_pl": "NALEŚNIKI z musem czekoladowo-orzechowym",
+          "price": 25
+        },
+        {
+          "name": "CHICKEN NUGGETS WITH FRIES AND COLESLAW",
+          "name_pl": "NUGETSY Z KURCZAKA z frytkami i surówką",
+          "price": 30
+        },
+        {
+          "name": "BOILED UKRAINIAN STYLE PIEROGI",
+          "name_pl": "PIEROGI RUSKIE GOTOWANE",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Dodatki gorące — Hot sides",
+      "items": [
+        {
+          "name": "BREADED CAULIFLOWER BITES",
+          "name_pl": "KALAFIOR PANIEROWANY",
+          "weight": "130g",
+          "price": 16
+        },
+        {
+          "name": "PAN-FRIED VEGETABLES IN BUTTER",
+          "name_pl": "WAŻYWA Z PATELNI NA MASEŁKU",
+          "weight": "130g",
+          "price": 16
+        },
+        {
+          "name": "BRAISED CABBAGE WITH BACON",
+          "name_pl": "KAPUSTA ZASMAŻANA Z BOCZKIEM",
+          "weight": "150g",
+          "price": 16
+        },
+        {
+          "name": "FRENCH FRIES 150 G",
+          "name_pl": "FRYTKI 150 G",
+          "price": 15
+        },
+        {
+          "name": "JACKET POTATOES 150 G",
+          "name_pl": "ZIEMNIAKI SMAŻONE",
+          "price": 18
+        }
+      ]
+    },
+    {
+      "name": "Warzywa gorące — Hot vegetables",
+      "items": [
+        {
+          "name": "CABBAGE BRAISED WITH BACON",
+          "name_pl": "KAPUSTA ZASMAŻANA NA BOCZKU",
+          "price": 16
+        },
+        {
+          "name": "PAN-FRIED VEGETABLES IN BUTTER",
+          "name_pl": "WARZYWA Z PATELNI NA MASEŁKU",
+          "price": 16
+        }
+      ]
+    },
+    {
+      "name": "Sałatki — Salads",
+      "items": [
+        {
+          "name": "CAESAR SALAD WITH A CHOICE OF CHICKEN, SHRIMP, SALMON: ROMAINE LETTUCE, COCKTAIL TOMATO, ARUGULA, RED ONION, GRANA PADANO CHEESE, HOMEMADE BREADSTICKS, CAESAR DRESSING",
+          "name_pl": "SAŁATKA CEZAR",
+          "price": 45
+        },
+        {
+          "name": "GREEK SALAD:  ROMAINE LETTUCE, FETA CHEESE, COCKTAIL TOMATO, OLIVES, FRESH CUCUMBER, RED ONION, HOMEMADE BREADSTICKS",
+          "name_pl": "SAŁATKA GRECKA",
+          "price": 40
+        }
+      ]
+    },
+    {
+      "name": "Sosy — Sauces",
+      "items": [
+        {
+          "name": "MILD KETCHUP",
+          "name_pl": "KETCHUP ŁAGODNY",
+          "price": 5
+        },
+        {
+          "name": "SPICY KETCHUP",
+          "name_pl": "KETCHUP PIKANTNY",
+          "price": 5
+        },
+        {
+          "name": "GARLIC DRESSING",
+          "name_pl": "SOS CZOSNKOWY",
+          "price": 5
+        },
+        {
+          "name": "THOUSAND ISLAND DRESSING",
+          "name_pl": "SOS TYSIĄCA WYSP",
+          "price": 5
+        },
+        {
+          "name": "SAMBAL DRESSING",
+          "name_pl": "SOS SAMBAL",
+          "price": 5
+        },
+        {
+          "name": "SPRING ONION",
+          "name_pl": "CEBULA DYMKA",
+          "price": 4
+        },
+        {
+          "name": "FRIED ONION",
+          "name_pl": "CEBULA PRAŻONA",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "name": "Masła smakowe — Flavoured butter",
+      "items": [
+        {
+          "name": "GARLIC (FRESH GARLIC)",
+          "name_pl": "maslo CZOSNKOWE",
+          "price": 5
+        },
+        {
+          "name": "HERB (POLISH HERBS)",
+          "name_pl": "maslo ZIOŁOWE",
+          "price": 5
+        },
+        {
+          "name": "BACON (ROASTED BACON)",
+          "name_pl": "maslo BEKONOWE",
+          "price": 6
+        },
+        {
+          "name": "ONION (FRIED ONION)",
+          "name_pl": "maslo CEBULOWE",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "name": "Desery — Desserts",
+      "items": [
+        {
+          "name": "CARAMEL CHEESECAKE",
+          "name_pl": "SERNIK Z KARMELEM",
+          "weight": "150g",
+          "price": 35
+        },
+        {
+          "name": "APPLE PIE WITH ICE CREAM.",
+          "name_pl": "SZARLOTKA Z LODAMI",
+          "weight": "200g",
+          "price": 34
+        },
+        {
+          "name": "ICE CREAM WITH WARM RASPBERRY MOUSSE",
+          "name_pl": "LODY Z MUSEM MALINOWYM NA CIEPŁO",
+          "weight": "200g",
+          "price": 32
+        }
+      ]
+    },
+    {
+      "name": "Napoje gorące — Hot drinks",
+      "items": [
+        {
+          "name": "BLACK, GREEN, MINT TEA",
+          "name_pl": "HERBATA CZARNA, ZIELONA, MIĘTOWA",
+          "price": 16
+        },
+        {
+          "name": "MOROCCAN CAFFE",
+          "name_pl": "KAWA PO MAROKAŃSKU",
+          "price": 25
+        },
+        {
+          "name": "AMARETTO",
+          "name_pl": "AMARETTO",
+          "price": 25
+        },
+        {
+          "name": "COFFEE WITH ADVOCAAT",
+          "name_pl": "KAWA Z ADWOKATEM",
+          "price": 25
+        },
+        {
+          "name": "HOT CHOCOLATE",
+          "name_pl": "CZEKOLADA NA GORĄCO",
+          "price": 29
+        },
+        {
+          "name": "TEA",
+          "name_pl": "HERBATA",
+          "price": 15
+        },
+        {
+          "name": "BLACK COFFEE",
+          "name_pl": "KAWA CZARNA",
+          "price": 16
+        },
+        {
+          "name": "CAFFEE MACCHIATO",
+          "name_pl": "CAFFEE MACCHIATO",
+          "price": 18
+        },
+        {
+          "name": "CAFFEE ESPRESSO",
+          "name_pl": "CAFFEE ESPRESSO",
+          "price": 16
+        },
+        {
+          "name": "CAFFEE LATTE",
+          "name_pl": "CAFFEE LATTE",
+          "price": 26
+        },
+        {
+          "name": "CAPPUCCINO",
+          "name_pl": "CAPPUCCINO",
+          "price": 18
+        },
+        {
+          "name": "IRISH COFFEE",
+          "name_pl": "IRISH COFFEE",
+          "price": 25
+        },
+        {
+          "name": "ROYAL COFFEE",
+          "name_pl": "ROYAL COFFEE",
+          "price": 25
+        },
+        {
+          "name": "ICE COFFEE",
+          "name_pl": "ICE COFFEE",
+          "price": 30
+        }
+      ]
+    },
+    {
+      "name": "Herbaty zimowe — Winter teas",
+      "items": [
+        {
+          "name": "RASPBERRY GRANDMA`S TEA: BLACK TEA, RASPBERRY JAM, FRESH FRUITS",
+          "name_pl": "HERBATA BABUNI",
+          "price": 24
+        },
+        {
+          "name": "WARMING TEA: BLACK AND JASMINE TEA, ORANGE LIQUEUR, CLOVES, ORANGE, RASPBERRY JAM",
+          "name_pl": "HERBATA ROZGRZEWAJĄCA",
+          "price": 26
+        },
+        {
+          "name": "VITAMINS TEA: BLACK TEA, FRESH GINGER, QUINCE WITH SOME OF HONEY, LEMON, CLOVES",
+          "name_pl": "HERBATA WITAMINOWA",
+          "price": 24
+        },
+        {
+          "name": "WINTER TEA: BLACK TEA, RUM, FRESH MINT, GINGER SYRUP, ORANGE, LEMON",
+          "name_pl": "HERBATA ZIMOWA",
+          "price": 26
+        }
+      ]
+    },
+    {
+      "name": "Napoje zimne — Cold drinks",
+      "items": [
+        {
+          "name": "PEPSI LIGHT",
+          "name_pl": "PEPSI LIGHT",
+          "price": 14
+        },
+        {
+          "name": "MIRINDA",
+          "name_pl": "MIRINDA",
+          "price": 14
+        },
+        {
+          "name": "7 UP",
+          "name_pl": "7 UP",
+          "price": 14
+        },
+        {
+          "name": "LIPTON PEACH",
+          "name_pl": "LIPTON PEACH",
+          "price": 14
+        },
+        {
+          "name": "LIPTON GREEN",
+          "name_pl": "LIPTON GREEN",
+          "price": 14
+        },
+        {
+          "name": "SCHWEPPES",
+          "name_pl": "SCHWEPPES",
+          "price": 14
+        },
+        {
+          "name": "Lemonade with sorbet",
+          "name_pl": "LEMONIADA Z SORBETEM",
+          "price": 24
+        },
+        {
+          "name": "JUICE: ORANGE, APPLE, BLACK CURRANT",
+          "name_pl": "SOKI",
+          "price": 15
+        },
+        {
+          "name": "FRESH JUICE: ORANGE, GRAPEFRUIT",
+          "name_pl": "SOK ZE ŚWIEŻYCH POMARAŃCZY LUB GREJPFRUTÓW",
+          "price": 26
+        },
+        {
+          "name": "STILL/SPARKLING WATER",
+          "name_pl": "WODA GAZOWANA/NIEGAZOWANA",
+          "price": 12
+        },
+        {
+          "name": "JUG OF WATER",
+          "name_pl": "DZBANEK WODY",
+          "weight": "1 l",
+          "price": 20
+        },
+        {
+          "name": "PEPSI",
+          "name_pl": "PEPSI",
+          "price": 14
+        }
+      ]
+    },
+    {
+      "name": "Piwo — Beer",
+      "items": [
+        {
+          "name": "CARLSBERG 0,5 L",
+          "name_pl": "CARLSBERG 0,5 L",
+          "price": 22
+        },
+        {
+          "name": "OKOCIM (LANE) 0,3 L",
+          "name_pl": "OKOCIM (LANE) 0,3 L",
+          "price": 19
+        },
+        {
+          "name": "OKOCIM (LANE) 0,5 L",
+          "name_pl": "OKOCIM (LANE) 0,5 L",
+          "price": 20
+        },
+        {
+          "name": "OKOCIM 0,5 L",
+          "name_pl": "OKOCIM 0,5 L",
+          "price": 20
+        },
+        {
+          "name": "OKOCIM 0% 0,5 L",
+          "name_pl": "OKOCIM 0% 0,5 L",
+          "price": 20
+        },
+        {
+          "name": "OKOCIM PORTER 0,5 L",
+          "name_pl": "OKOCIM PORTER 0,5 L",
+          "price": 22
+        },
+        {
+          "name": "OKOCIM PSZENICZNE 0,5 L",
+          "name_pl": "OKOCIM PSZENICZNE 0,5 L",
+          "price": 22
+        },
+        {
+          "name": "WARM BEER",
+          "name_pl": "PIWO GRZANE 0,5 L",
+          "price": 24
+        },
+        {
+          "name": "WARM BEER",
+          "name_pl": "PIWO GRZANE 0,3 L",
+          "price": 23
+        },
+        {
+          "name": "BEER SYRUP",
+          "name_pl": "SOK DO PIWA 50 ML",
+          "price": 2
+        },
+        {
+          "name": "WARM HONEY",
+          "name_pl": "MIÓD GRZANY 200 ML",
+          "price": 25
+        },
+        {
+          "name": "MULLED WINE",
+          "name_pl": "WINO GRZANE 200 ML",
+          "price": 25
+        }
+      ]
+    },
+    {
+      "name": "Wino domowe — House wine",
+      "items": [
+        {
+          "name": "In a 50cl carafe",
+          "name_pl": "DELLA CASA – VENETO-WŁOCHY • BIAŁE/CZERWONE • WHITE/RED • WYTRAWNE/DRY",
+          "price": 60
+        }
+      ]
+    },
+    {
+      "name": "Wódki — Vodka",
+      "items": [
+        {
+          "name": "ABSOLUT VODKA",
+          "name_pl": "ABSOLUT VODKA",
+          "price": 17
+        },
+        {
+          "name": "FINLANDIA",
+          "name_pl": "FINLANDIA",
+          "price": 17
+        },
+        {
+          "name": "SMIRNOFF",
+          "name_pl": "SMIRNOFF",
+          "price": 15
+        },
+        {
+          "name": "WYBOROWA",
+          "name_pl": "WYBOROWA",
+          "price": 15
+        },
+        {
+          "name": "BECHEROVKA",
+          "name_pl": "BECHEROVKA",
+          "price": 16
+        },
+        {
+          "name": "STOCK",
+          "name_pl": "STOCK",
+          "price": 15
+        },
+        {
+          "name": "ŻOŁĄDKOWA",
+          "name_pl": "ŻOŁĄDKOWA",
+          "price": 15
+        },
+        {
+          "name": "ŻOŁĄDKOWA MIĘTOWA",
+          "name_pl": "ŻOŁĄDKOWA MIĘTOWA",
+          "price": 15
+        },
+        {
+          "name": "ŻUBRÓWKA",
+          "name_pl": "ŻUBRÓWKA",
+          "price": 15
+        },
+        {
+          "name": "WIŚNIÓWKA (CHERRY VODKA)",
+          "name_pl": "WIŚNIÓWKA (CHERRY VODKA",
+          "price": 15
+        },
+        {
+          "name": "ORZECHÓWKA (WALNUT VODKA)",
+          "name_pl": "ORZECHÓWKA (WALNUT VODKA",
+          "price": 15
+        },
+        {
+          "name": "MIODULA (HONEY VODKA)",
+          "name_pl": "MIODULA (HONEY VODKA",
+          "price": 18
+        },
+        {
+          "name": "ŻURAWINÓWKA (CRANBERRY VODKA)",
+          "name_pl": "ŻURAWINÓWKA (CRANBERRY VODKA",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "Gin",
+      "items": [
+        {
+          "name": "GORDON’S",
+          "name_pl": "GORDON’S",
+          "price": 23
+        },
+        {
+          "name": "SEAGRAM’S",
+          "name_pl": "SEAGRAM’S",
+          "price": 25
+        },
+        {
+          "name": "LUBUSKI",
+          "name_pl": "LUBUSKI",
+          "price": 22
+        }
+      ]
+    },
+    {
+      "name": "Rum",
+      "items": [
+        {
+          "name": "BACARDI LIGHT",
+          "name_pl": "BACARDI LIGHT",
+          "price": 25
+        },
+        {
+          "name": "SENIORITA",
+          "name_pl": "SENIORITA",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "Tequila",
+      "items": [
+        {
+          "name": "TEQUILA OLMECA",
+          "name_pl": "TEQUILA OLMECA",
+          "price": 26
+        }
+      ]
+    },
+    {
+      "name": "Whiskey",
+      "items": [
+        {
+          "name": "CHIVAS REGAL",
+          "name_pl": "CHIVAS REGAL",
+          "price": 28
+        },
+        {
+          "name": "JACK DANIELS",
+          "name_pl": "JACK DANIELS",
+          "price": 26
+        },
+        {
+          "name": "JIM BEAM",
+          "name_pl": "JIM BEAM",
+          "price": 25
+        },
+        {
+          "name": "BALLANTINE’S FINEST",
+          "name_pl": "BALLANTINE’S FINEST",
+          "price": 25
+        },
+        {
+          "name": "JOHNNY WALKER RED LABEL",
+          "name_pl": "JOHNNY WALKER RED LABEL",
+          "price": 22
+        },
+        {
+          "name": "JOHNNY WALKER BLACK LABEL",
+          "name_pl": "JOHNNY WALKER BLACK LABEL",
+          "price": 25
+        },
+        {
+          "name": "THE FAMOUS GROUSE",
+          "name_pl": "THE FAMOUS GROUSE",
+          "price": 21
+        }
+      ]
+    },
+    {
+      "name": "Brandy & Cognac",
+      "items": [
+        {
+          "name": "MARTELL",
+          "name_pl": "MARTELL",
+          "price": 28
+        },
+        {
+          "name": "HENNESSY",
+          "name_pl": "HENNESSY",
+          "price": 28
+        },
+        {
+          "name": "METAXA",
+          "name_pl": "METAXA",
+          "price": 26
+        },
+        {
+          "name": "STOCK 84",
+          "name_pl": "STOCK 84",
+          "price": 24
+        },
+        {
+          "name": "BRANDY NAPOLEON",
+          "name_pl": "BRANDY NAPOLEON",
+          "price": 24
+        }
+      ]
+    },
+    {
+      "name": "Likiery — Liqueurs",
+      "items": [
+        {
+          "name": "ADVOCAT",
+          "name_pl": "ADVOCAT",
+          "price": 15
+        },
+        {
+          "name": "MALIBU",
+          "name_pl": "MALIBU",
+          "price": 18
+        },
+        {
+          "name": "TRIPLE SEC",
+          "name_pl": "TRIPLE SEC",
+          "price": 19
+        },
+        {
+          "name": "BAILEY’S",
+          "name_pl": "BAILEY’S",
+          "price": 20
+        },
+        {
+          "name": "BLUE CURACAO",
+          "name_pl": "BLUE CURACAO",
+          "price": 18
+        },
+        {
+          "name": "CREME DE BANANES",
+          "name_pl": "CREME DE BANANES",
+          "price": 18
+        },
+        {
+          "name": "COINTREAU",
+          "name_pl": "COINTREAU",
+          "price": 20
+        },
+        {
+          "name": "JAGERMEISTER",
+          "name_pl": "JAGERMEISTER",
+          "price": 25
+        },
+        {
+          "name": "PASSOA",
+          "name_pl": "PASSOA",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Vermouth",
+      "items": [
+        {
+          "name": "MARTINI BIANCO",
+          "name_pl": "MARTINI BIANCO",
+          "price": 20
+        },
+        {
+          "name": "MARTINI ROSSO",
+          "name_pl": "MARTINI ROSSO",
+          "price": 20
+        },
+        {
+          "name": "MARTI ROSE",
+          "name_pl": "MARTI ROSE",
+          "price": 20
+        },
+        {
+          "name": "MARTINI EXTRA DRY",
+          "name_pl": "MARTINI EXTRA DRY",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Nalewki — Bitters",
+      "items": [
+        {
+          "name": "CAPRI",
+          "name_pl": "CAPRI",
+          "price": 20
+        },
+        {
+          "name": "CAMPARI",
+          "name_pl": "CAMPARI",
+          "price": 20
+        }
+      ]
+    },
+    {
+      "name": "Drinki — Cocktails",
+      "items": [
+        {
+          "name": "MOJITO: 100 ML RUM BACARDI, 50 ML SPARKLING WATER, 1/2 LIME, 10 G CANE SUGAR, MINT",
+          "name_pl": "MOJITO",
+          "price": 38
+        },
+        {
+          "name": "COTTON CANDY COCKTAIL - DISAPPEARING DRINK: CHILLED PROSECCO",
+          "name_pl": "COTTON CANDY COCKTAIL",
+          "price": 26
+        },
+        {
+          "name": "JAMAICA: 20 ML GRENADINE, 40 ML GIN, 20 ML MALIBU, 150 ML ORANGE JUICE",
+          "name_pl": "JAMAJKA",
+          "price": 38
+        },
+        {
+          "name": "RASPBERRY KING: 40 ML BACARDI RUM, RASPBERRY MOUSSE/PURÉE, MINT, LIME, SPARKLING WATER",
+          "name_pl": "MALINOWY KRÓL",
+          "price": 38
+        },
+        {
+          "name": "APPLE PIE: 40 ML SWEET GRASS VODKA, 100 ML APPLE JUICE, ROASTED APPLES, CINNAMON",
+          "name_pl": "DRINK SZARLOTKA",
+          "price": 37
+        },
+        {
+          "name": "APEROL SPRITZ: 40 ML APEROL, 100 ML PROSECCO, SPARKLING WATER",
+          "name_pl": "APEROL SPRITZ",
+          "price": 38
+        },
+        {
+          "name": "SUNSHINE: BELLINI, PEACH PURÉE, 100 ML PROSECCO, 40 ML PEACH LIQUEUR",
+          "name_pl": "SŁONECZNE",
+          "price": 38
+        },
+        {
+          "name": "FROM DUSK TILL DAWN: 20 ML BLUE CURAÇAO SYRUP, 150 ML GRAPEFRUIT JUICE, 40 ML VODKA, 40 ML JÄGERMEISTER",
+          "name_pl": "OD ZMIERZCHU DO ŚWITU",
+          "price": 39
+        }
+      ]
+    },
+    {
+      "name": "Siodełka — Sides (raw)",
+      "items": [
+        {
+          "name": "SAUERKRAUT SALAD",
+          "name_pl": "SURÓWKA Z KISZONEJ KAPUSTY",
+          "weight": "130g",
+          "price": 15
+        },
+        {
+          "name": "CARROT SALAD",
+          "name_pl": "SURÓWKA Z MARCHEWKI",
+          "weight": "130g",
+          "price": 15
+        },
+        {
+          "name": "CUCUMBER SALAD (SEASONALLY)",
+          "name_pl": "MIZERIA (SEZONOWO",
+          "price": 15
+        },
+        {
+          "name": "MEDITERRANEAN SALAD: ROMAINE LETTUCE, FRESH CUCUMBER, COCKTAIL TOMATO, VINAIGRETTE",
+          "name_pl": "SAŁATKA ŚRÓDZIEMNOMORSKA",
+          "price": 16
+        },
+        {
+          "name": "PICKLED BEETS",
+          "name_pl": "BURACZKI MARYNOWANE",
+          "price": 15
+        },
+        {
+          "name": "COLESLAW",
+          "name_pl": "COLESŁAW",
+          "price": 15
+        }
+      ]
+    }
+  ]
+}
