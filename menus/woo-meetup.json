@@ -1,0 +1,21 @@
+{
+  "id": "woo-meetup",
+  "name": "Woo Community Meetup at WCEU 2026",
+  "eyebrow": "Event",
+  "description": "Woo community get-together during WCEU 2026 at the Aquarius riverside restaurant & cocktail bar on the Vistula boulevard.",
+  "gallery": [],
+  "source": "https://woocommunitymeetupatwceu2026.splashthat.com/",
+  "last_updated_from_source": "2026-05-29",
+  "notes": "Fri Jun 5, 2026 · 19:00–22:00 CEST · Aquarius Restaurant, Bulwar Czerwieński 81, Kraków. Shadi, Dustin, Abdo & Bart RSVP'd. Same evening as the Yoast × Bluehost Glow Party (20:00, Panorama Forum) and the Kinsta founders dinner (20:00, Sheraton) — all riverside / Old Town, plan to hop between.",
+  "sections": [
+    {
+      "name": "Practical",
+      "items": [
+        { "name": "Address", "description": "Aquarius Restaurant & Cocktail Bar, Bulwar Czerwieński 81, 30-069 Kraków" },
+        { "name": "Time", "description": "19:00–22:00 CEST, Fri Jun 5" },
+        { "name": "Who", "description": "Shadi, Dustin, Abdo, Bart" },
+        { "name": "RSVP", "description": "woocommunitymeetupatwceu2026.splashthat.com" }
+      ]
+    }
+  ]
+}

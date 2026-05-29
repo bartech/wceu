@@ -1,0 +1,22 @@
+{
+  "id": "kinsta-party",
+  "name": "Human Made × Kinsta WCEU 2026 Party",
+  "eyebrow": "Event",
+  "description": "Human Made and Kinsta's WCEU 2026 party on the Vistula boulevard. Drinks and conversation down by the river in Kazimierz.",
+  "gallery": [],
+  "source": "https://www.eventbrite.com/e/human-made-kinsta-wceu-2026-party-tickets-1989537757991",
+  "last_updated_from_source": "2026-05-29",
+  "notes": "Thu Jun 4, 2026 · 20:00–23:00 · Bulwar Kurlandzki 137, Kraków (riverside). Dustin & Shadi RSVP'd. The Jun 5 session sold out — we hold the Jun 4 ticket (entry password is in the team Slack thread). Overlaps Automattic Connect (plac Nowy 1) the same evening; both riverside / Kazimierz, ~15 min apart.",
+  "sections": [
+    {
+      "name": "Practical",
+      "items": [
+        { "name": "Address", "description": "Bulwar Kurlandzki 137, Kraków (riverside)" },
+        { "name": "Time", "description": "20:00–23:00, Thu Jun 4" },
+        { "name": "Who", "description": "Dustin & Shadi" },
+        { "name": "Hosts", "description": "Human Made & Kinsta" },
+        { "name": "Entry", "description": "Eventbrite RSVP — entry password in the team Slack thread" }
+      ]
+    }
+  ]
+}

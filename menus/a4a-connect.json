@@ -1,0 +1,30 @@
+{
+  "id": "a4a-connect",
+  "name": "Automattic Connect at WordCamp Europe 2026",
+  "eyebrow": "Event",
+  "description": "Networking evening presented by Automattic for Agencies during WCEU 2026. Agencies, customers, and developers come together with the teams behind Jetpack, Woo, WordPress.com, Pressable, and WordPress VIP. Each brand hosts a dedicated lounge for products, roadmaps, and real talk.",
+  "gallery": [],
+  "source": "https://luma.com/a4a-connect-wceu",
+  "last_updated_from_source": "2026-05-29",
+  "notes": "Thu Jun 4, 2026 · Connect 19:00–22:00 · plac Nowy 1, 31-056 Kraków (Kazimierz). Whole team registered. Invite-only VIP Reception 18:00–19:00 for Bart, Dustin & Abdo — an intimate hour with Automattic-ecosystem leaders before doors open. Klaus attending. Overlaps the Human Made × Kinsta party (20:00, Bulwar Kurlandzki) — hop between, both riverside / Kazimierz.",
+  "sections": [
+    {
+      "name": "At the venue",
+      "items": [
+        { "name": "Brand lounges", "description": "Jetpack, Woo, WordPress.com, Pressable, WordPress VIP" },
+        { "name": "A structured but relaxed evening of conversation" },
+        { "name": "Meet the people behind the platforms" }
+      ]
+    },
+    {
+      "name": "Practical",
+      "items": [
+        { "name": "Address", "description": "plac Nowy 1, 31-056 Kraków (Kazimierz)" },
+        { "name": "Connect", "description": "19:00–22:00 — whole team" },
+        { "name": "VIP Reception", "description": "18:00–19:00 — invite-only (Bart, Dustin, Abdo)" },
+        { "name": "Host", "description": "Automattic for Agencies" },
+        { "name": "Register", "description": "luma.com/a4a-connect-wceu" }
+      ]
+    }
+  ]
+}
